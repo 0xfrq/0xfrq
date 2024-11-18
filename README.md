@@ -10,6 +10,6 @@
 
 <p align="center">
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=nuxxttt">
-    <img src="https://stats.quira.sh/nuxxttt/languages-over-time?theme=dark" alt="nuxxttt's GitHub | Languages Over Time" width="50%">
+    <img src="https://stats.quira.sh/nuxxttt/languages-over-time?theme=dark" alt="nuxxttt's GitHub | Languages Over Time" width="70%">
   </a>
 </p>
