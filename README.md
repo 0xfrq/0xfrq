@@ -1,7 +1,6 @@
 <p align="center" style="text-align: center;">
   <br>
   <small>Ingin Menjadi Programmer Handal, Namun Enggan Ngoding</small>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Pirate%20Flag.webp" alt="Pirate Flag" width="75" height="75" />
 </p>
 
 
