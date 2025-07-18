@@ -18,7 +18,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ros,linux,bash,git,github,vscode,html,css,js,django,laravel,c" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ros,linux,html,css,js,django,laravel,c" />
 </p>
 
 ---
