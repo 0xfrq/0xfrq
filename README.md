@@ -30,9 +30,7 @@
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xfrq&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=0xfrq&theme=tokyonight)](https://git.io/streak-stats)
-</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="25" height="25" />
