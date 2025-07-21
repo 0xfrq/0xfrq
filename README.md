@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=0xfrq&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=0xfrq&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
