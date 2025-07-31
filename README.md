@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=0xfrq&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=0xfrq&theme=tokyonight&hide_border=true&border_radius=0"  alt="GitHub Streak" />
   </a>
 </div>
 
