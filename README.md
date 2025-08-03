@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 🌱 I’m currently learning **ROS**, **Computer Vision**, and **CTFs**
 - 💬 Ask me about `Python`, `C++`, `ROS`, `PHP`
