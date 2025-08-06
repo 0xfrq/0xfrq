@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate student majoring in Computer Science, Passionate developer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+Developer;Fesnuk+Scroller;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+Developer;Fesnuk+Scroller;Lifelong+Learner;Caffeine+Enjoyer" alt="Typing SVG" />
 </p>
 
 ---
