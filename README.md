@@ -10,7 +10,7 @@
 ### About Me
 
 -  I’m currently learning **ROS**, **Computer Vision**, and **CTFs**
-- Ask me about `Python`, `C++`, `ROS`, `PHP`
+- Ask me about `Python`, `C`,`C++`, `ROS`, `PHP`
 - I love contributing to open-source projects and building cool tools
 
 ---
