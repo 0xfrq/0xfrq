@@ -10,7 +10,6 @@
 ### About Me
 
 -  I’m currently learning low-level
-- Ask me about `Python`, `C`,`C++`, `ROS`, `PHP`
 - I love contributing to open-source projects and building cool tools
 
 ---
@@ -18,7 +17,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,laravel,php" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,laravel,php,javascript,react,nextjs" />
 </p>
 
 ---
