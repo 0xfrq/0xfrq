@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/8e/d0/838ed012-c366-93ae-961c-d3750a97c98e/196922390036_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/90/ad/38/90ad385f-2dba-8046-99d0-3ee71df77297/22UM1IM07351.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Melting</strong><br/>
-      Kali Uchis
+      <strong>Here With Me</strong><br/>
+      d4vd
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
