@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/29/ef/55/29ef556e-ef70-9c6a-a36f-07eab04d453d/825646286102.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/d8/23/56d82318-273a-4379-2561-f10c40fd783f/195497585427.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Space Oddity - 2015 Remaster</strong><br/>
-      David Bowie
+      <strong>Ode To The Mets</strong><br/>
+      The Strokes
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
