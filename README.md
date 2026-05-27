@@ -13,7 +13,7 @@
   Mata Air — Hindia, Natasha Udu, Kamga
   
   **Market**
-  📈 IHSG: 6.130,19 · 💵 1 USD = Rp 17.784
+  📈 IHSG: 6.130,19 · 💵 1 USD = Rp 17.783
   <!-- NOW_PLAYING_END -->
 
 
