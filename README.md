@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/42/a7/3e42a78d-57a3-fd69-6703-14d51205dd4c/13UMGIM24968.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/29/ef/55/29ef556e-ef70-9c6a-a36f-07eab04d453d/825646286102.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>We Are The People</strong><br/>
-      Empire Of The Sun
+      <strong>Space Oddity - 2015 Remaster</strong><br/>
+      David Bowie
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
