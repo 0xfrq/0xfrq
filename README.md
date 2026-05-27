@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/cb/18/5ccb18f7-ab44-3478-cf33-7953837907d2/18UMGIM43740.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/e9/2a/f7e92a48-0e20-8286-bbbf-80bd85fbb1af/mzi.gcledsjj.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Dreams - Remastered 2026</strong><br/>
-      The Cranberries
+      <strong>Reptilia</strong><br/>
+      The Strokes
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
