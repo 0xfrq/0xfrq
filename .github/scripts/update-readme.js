@@ -87,12 +87,12 @@ async function main() {
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
-      <sup>🎵 NOW PLAYING</sup><br/>
+      <sup>NOW PLAYING</sup><br/>
       <strong>${song}</strong><br/>
       ${artist}
     </td>
     <td align="right" valign="middle">
-      <sup>📊 MARKET</sup><br/>
+      <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>${ihsgStr}</strong><br/>
       USD/IDR &nbsp;<strong>${usdIdrStr}</strong>
     </td>
