@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/08/2a/4d082a9e-7898-1aa1-a02f-339810058d9e/14DMGIM05632.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/09/06/c209069f-7e62-3b6c-1d90-7f5e9e34be9d/24UM1IM40582.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Somebody To Love - Remastered 2011</strong><br/>
-      Queen
+      <strong>I'm Still Standing</strong><br/>
+      Elton John
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
