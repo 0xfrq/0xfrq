@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/ff/43/6eff434b-8a53-3704-41d9-9cf34cb57f41/190296083709.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/10/1f/72101f01-c594-3eab-7fbf-ad8c48636380/0720841232100_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Backburner</strong><br/>
-      NIKI
+      <strong>Sweet</strong><br/>
+      Cigarettes After Sex
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
