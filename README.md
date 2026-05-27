@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/bf/6a/62bf6a98-4560-0299-8a45-35763e5ad4d3/06UMGIM13428.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/06/fb/8e/06fb8e9a-6748-3bad-8a84-5d00b15e4857/190296849497.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Everybody's Changing</strong><br/>
-      Keane
+      <strong>Gimme Love</strong><br/>
+      Joji
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
