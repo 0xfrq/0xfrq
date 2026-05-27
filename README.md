@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/66/4e/b5/664eb519-7163-512c-78a8-b22bf6b166dd/075679859211.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/69/b0/c3/69b0c397-dc3c-381f-386e-f7f4a3d9f754/Skiptracing.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Are You Bored Yet? (feat. Clairo)</strong><br/>
-      Wallows, Clairo
+      <strong>Homage</strong><br/>
+      Mild High Club
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
