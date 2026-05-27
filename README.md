@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/9d/99/f59d994f-c48e-aba4-4347-fe934d46d4fe/0045778705450.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/44/15/45441528-0288-eedc-f6fc-93137b8cfe96/067003248969.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Where'd All the Time Go?</strong><br/>
-      Dr. Dog
+      <strong>Duvet</strong><br/>
+      bôa
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
