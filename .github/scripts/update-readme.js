@@ -64,12 +64,14 @@ async function main() {
 
   const readme = fs.readFileSync('README.md', 'utf8')
   const updatedReadme = readme.replace(
-    /<!-- NOW_PLAYING_START -->[\s\S]*?<!-- NOW_PLAYING_END -->/,
-    `<!-- NOW_PLAYING_START -->
-${nowPlaying}
-${marketLine}
-<!-- NOW_PLAYING_END -->`
-  )
+      /<!-- NOW_PLAYING_START -->[\s\S]*?<!-- NOW_PLAYING_END -->/,
+      `<!-- NOW_PLAYING_START -->
+  ${nowPlaying}
+  
+  **Market**
+  ${marketLine}
+  <!-- NOW_PLAYING_END -->`
+    )
 
   fs.writeFileSync('README.md', updatedReadme)
   console.log('README updated')
