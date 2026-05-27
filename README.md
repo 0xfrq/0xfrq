@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/69/b0/c3/69b0c397-dc3c-381f-386e-f7f4a3d9f754/Skiptracing.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/24/8e/2a248e94-2b8e-3745-906a-084837c0d547/mzi.xeoqdinh.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Homage</strong><br/>
-      Mild High Club
+      <strong>Snow (Hey Oh)</strong><br/>
+      Red Hot Chili Peppers
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
