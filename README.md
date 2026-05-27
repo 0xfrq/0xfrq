@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/49/99/b4/4999b482-ac72-6aa2-0016-a6924355e72e/dj.tyyqcstw.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4f/3e/fd/4f3efd12-78b9-8215-dc2d-ebf17762605a/075679775481.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Friday I'm In Love</strong><br/>
-      The Cure
+      <strong>Disco</strong><br/>
+      Surf Curse
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
