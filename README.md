@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/d5/68/98d56824-a1d0-8a03-28a6-e1fef572b967/1407.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Someone To Spend Time With</strong><br/>
-      Los Retros
+      <strong>Apocalypse</strong><br/>
+      Cigarettes After Sex
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
