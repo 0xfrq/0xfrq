@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/b2/df/a3/b2dfa32c-ea54-7983-0da1-6964e60a1bd7/dj.aqphuayl.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6d/0a/50/6d0a502a-757e-dc44-3c55-1c1822916fbb/098787153767.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>We Are Young (feat. Janelle Monáe)</strong><br/>
-      fun., Janelle Monáe
+      <strong>Good Looking</strong><br/>
+      Suki Waterhouse
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
