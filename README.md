@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **Can't Take My Eyes off You** — Frankie Valli
+> **Imagine - Remastered 2010** — John Lennon
 ---
 > ### 📊 Market
 > | Index | Price |
