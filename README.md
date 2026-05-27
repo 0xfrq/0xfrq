@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **She's Electric - Remastered** — Oasis
+> **I Want To Hold Your Hand - Remastered 2015** — The Beatles
 ---
 > ### 📊 Market
 > | Index | Price |
