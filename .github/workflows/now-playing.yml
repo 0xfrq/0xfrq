@@ -27,8 +27,8 @@ jobs:
 
       - name: Run updater
         env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URI }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_KEY }}
         run: node .github/scripts/update-readme.js
 
       - name: Commit changes
