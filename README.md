@@ -10,7 +10,7 @@
 ### Now Playing
 
 <!-- NOW_PLAYING_START -->
-  Mata Air — Hindia, Natasha Udu, Kamga
+  Selamanya — Lomba Sihir
   
   **Market**
   📈 IHSG: 6.130,19 · 💵 1 USD = Rp 17.783
