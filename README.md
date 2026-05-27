@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/49/ac/ee49accc-78bd-bcdb-1aff-c40c1ac3ccc4/074643959520.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/cb/c7/84cbc7b4-0b88-038a-87c8-3fa6f5df09cd/199350437694.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Careless Whisper - Remastered</strong><br/>
-      George Michael
+      <strong>Lover Girl</strong><br/>
+      Laufey
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
