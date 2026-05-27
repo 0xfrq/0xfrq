@@ -13,16 +13,16 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/37/1a/3a371a7e-33fe-85db-0616-0c57ef26fb42/13UAEIM06265.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8b/8b/20/8b8b2083-c8a3-a1a6-1f9e-a4da5bf45d5d/197188679637.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
-      <sup>🎵 NOW PLAYING</sup><br/>
-      <strong>That's Life - 2008 Remastered</strong><br/>
-      Frank Sinatra
+      <sup>NOW PLAYING</sup><br/>
+      <strong>From The Start</strong><br/>
+      Laufey
     </td>
     <td align="right" valign="middle">
-      <sup>📊 MARKET</sup><br/>
+      <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.783</strong>
     </td>
