@@ -10,7 +10,7 @@
 ### Now Playing
 
 <!-- NOW_PLAYING_START -->
-  5 — .Feast
+  Masalah Masa Depan — Hindia
   
   **Market**
   📈 IHSG: 6.130,19 · 💵 1 USD = Rp 17.784
