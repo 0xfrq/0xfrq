@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4a/6b/85/4a6b85c6-77a4-af85-1d46-567548a5386d/075679946706.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/13/18/2c131801-00af-58b1-3cc2-13abf4ad5416/093624919162.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Mind Over Matter</strong><br/>
-      Young the Giant
+      <strong>Iris</strong><br/>
+      The Goo Goo Dolls
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
