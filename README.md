@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **Here Comes The Sun - Remastered 2009** — The Beatles
+> **Stand By Me - Remastered 2010** — John Lennon
 ---
 > ### 📊 Market
 > | Index | Price |
