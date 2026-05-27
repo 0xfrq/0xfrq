@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/82/ae/ac82aea5-9ca1-3e53-d776-2be48f1ac397/198391608520.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Sunsetz</strong><br/>
-      Cigarettes After Sex
+      <strong>Did You Like Her In The Morning?</strong><br/>
+      NIKI
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
