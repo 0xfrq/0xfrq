@@ -10,19 +10,24 @@
 ### Now Playing
 
 <!-- NOW_PLAYING_START -->
-<!--
-  ╔════════════════════════════════════════════╗
-  ║  🎵  NOW PLAYING                           ║
-  ╚════════════════════════════════════════════╝
--->
-> ### 🎵 Now Playing
-> **Let It Be - Remastered 2009** — The Beatles
----
-> ### 📊 Market
-> | Index | Price |
-> |-------|-------|
-> | 📈 IHSG | 6.130,19 |
-> | 💵 USD/IDR | Rp 17.783 |
+<table>
+  <tr>
+    <td width="90" valign="top">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m01/d20/h14/s05.bkornbke.jpg/600x600bb.jpg" width="80" height="80" style="border-radius:8px" align="left" />
+      <br clear="left"/>
+    </td>
+    <td valign="top">
+      <sub>🎵 NOW PLAYING</sub><br/>
+      <b>We Are The World</b><br/>
+      <sub>U.S.A. For Africa</sub>
+    </td>
+    <td align="right" valign="top">
+      <sub>📊 MARKET</sub><br/>
+      <sub>IHSG &nbsp;&nbsp;<b>6.130,19</b></sub><br/>
+      <sub>USD/IDR &nbsp;<b>Rp 17.783</b></sub>
+    </td>
+  </tr>
+</table>
 <!-- NOW_PLAYING_END -->
 
 
