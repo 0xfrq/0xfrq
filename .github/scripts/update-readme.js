@@ -22,6 +22,21 @@ function fetchJson(url) {
   })
 }
 
+async function getAlbumCover(song, artist) {
+  try {
+    const query = encodeURIComponent(`${song} ${artist}`)
+    const data = await fetchJson(
+      `https://itunes.apple.com/search?term=${query}&media=music&limit=1&entity=song`
+    )
+    const result = data?.results?.[0]
+    if (!result) return null
+    return result.artworkUrl100.replace('100x100bb', '600x600bb')
+  } catch (e) {
+    console.error('iTunes error:', e.message)
+    return null
+  }
+}
+
 async function getMarketData() {
   try {
     const [ihsgData, usdIdrData] = await Promise.all([
@@ -56,28 +71,43 @@ async function main() {
   const song = data.song_name || 'Unknown Song'
   const artist = data.artist_name || 'Unknown Artist'
 
+  const coverUrl = await getAlbumCover(song, artist)
+  const coverImg = coverUrl
+    ? `<img src="${coverUrl}" width="80" height="80" style="border-radius:8px" align="left" />`
+    : `<img src="https://via.placeholder.com/80x80?text=♪" width="80" height="80" style="border-radius:8px" align="left" />`
+
+  const ihsgStr = ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'
+  const usdIdrStr = usdIdr ? `Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : 'N/A'
+
+  const nowPlayingBlock = `<!-- NOW_PLAYING_START -->
+<table>
+  <tr>
+    <td width="90" valign="top">
+      ${coverImg}
+      <br clear="left"/>
+    </td>
+    <td valign="top">
+      <sub>🎵 NOW PLAYING</sub><br/>
+      <b>${song}</b><br/>
+      <sub>${artist}</sub>
+    </td>
+    <td align="right" valign="top">
+      <sub>📊 MARKET</sub><br/>
+      <sub>IHSG &nbsp;&nbsp;<b>${ihsgStr}</b></sub><br/>
+      <sub>USD/IDR &nbsp;<b>${usdIdrStr}</b></sub>
+    </td>
+  </tr>
+</table>
+<!-- NOW_PLAYING_END -->`
+
   const readme = fs.readFileSync('README.md', 'utf8')
   const updatedReadme = readme.replace(
     /<!-- NOW_PLAYING_START -->[\s\S]*?<!-- NOW_PLAYING_END -->/,
-    `<!-- NOW_PLAYING_START -->
-<!--
-  ╔════════════════════════════════════════════╗
-  ║  🎵  NOW PLAYING                           ║
-  ╚════════════════════════════════════════════╝
--->
-> ### 🎵 Now Playing
-> **${song}** — ${artist}
----
-> ### 📊 Market
-> | Index | Price |
-> |-------|-------|
-> | 📈 IHSG | ${ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'} |
-> | 💵 USD/IDR | ${usdIdr ? `Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : 'N/A'} |
-<!-- NOW_PLAYING_END -->`
+    nowPlayingBlock
   )
 
   fs.writeFileSync('README.md', updatedReadme)
-  console.log(`README updated: ${song} — ${artist} | IHSG: ${ihsgPrice} | USD/IDR: ${usdIdr}`)
+  console.log(`README updated: ${song} — ${artist} | Cover: ${coverUrl ? 'yes' : 'no'} | IHSG: ${ihsgPrice} | USD/IDR: ${usdIdr}`)
 }
 
 main()
