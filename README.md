@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/d8/23/56d82318-273a-4379-2561-f10c40fd783f/195497585427.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/25/2b/f5252b6e-0659-890b-7e9d-0e691944b95b/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Ode To The Mets</strong><br/>
-      The Strokes
+      <strong>Lady - Hear Me Tonight</strong><br/>
+      Modjo
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 17.785</strong>
+      USD/IDR &nbsp;<strong>Rp 17.776</strong>
     </td>
   </tr>
 </table>
