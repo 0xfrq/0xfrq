@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/6b/bb/2c6bbbb2-ae5c-57ac-55e9-d49efea7039e/603497862962.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Boys Don't Cry</strong><br/>
-      The Cure
+      <strong>I Wonder</strong><br/>
+      Kanye West
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
