@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/1b/85/581b8559-1868-e64c-c796-b117bb417dcc/198704821745_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/4f/ec/244fec58-ea20-e0b0-eea6-e06c6aff948b/23UMGIM14483.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Past Won't Leave My Bed</strong><br/>
-      Joji
+      <strong>Superpowers</strong><br/>
+      Daniel Caesar
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
