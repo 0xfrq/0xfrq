@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8e/f5/49/8ef549c6-120d-4e21-a6d0-019c18b4ca23/190295834593.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/c4/a2/65c4a28c-132d-fc45-1921-def3612790d7/06UMGIM18518.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>As the World Caves In</strong><br/>
-      Matt Maltese
+      <strong>(They Long To Be) Close To You</strong><br/>
+      Carpenters
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
