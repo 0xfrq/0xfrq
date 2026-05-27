@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **Ob-La-Di, Ob-La-Da - Remastered 2009** — The Beatles
+> **Take Me Home, Country Roads - Original Version** — John Denver
 ---
 > ### 📊 Market
 > | Index | Price |
