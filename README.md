@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/2b/7c/aa2b7cb8-743f-df84-78e0-0b9c3b28bff3/22UM1IM35688.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m04/d20/h17/s05.kbjerdzd.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>🎵 NOW PLAYING</sup><br/>
-      <strong>I Don't Want To Miss A Thing - Pop Mix</strong><br/>
-      Aerosmith
+      <strong>Somewhere Over The Rainbow/What A Wonderful World</strong><br/>
+      Israel Kamakawiwo'ole
     </td>
     <td align="right" valign="middle">
       <sup>📊 MARKET</sup><br/>
