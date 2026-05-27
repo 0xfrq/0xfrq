@@ -10,7 +10,7 @@
 ### Now Playing
 
 <!-- NOW_PLAYING_START -->
-  Dalam Hitungan — .Feast
+  5 — .Feast
   
   **Market**
   📈 IHSG: 6.130,19 · 💵 1 USD = Rp 17.784
