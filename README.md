@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/91/7c/2b/917c2ba3-c97c-2807-2c18-b7794ebe5310/190296846489.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/0c/88/9c0c883c-0901-60a1-8f4b-6a96c36be366/198846140360.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Sanctuary</strong><br/>
-      Joji
+      <strong>her</strong><br/>
+      JVKE
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
