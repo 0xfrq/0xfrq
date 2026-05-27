@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/3a/5b/073a5ba2-defc-b0b7-db86-9c72d7d59e79/5059460315389.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ab/57/7b/ab577bde-2be5-b43d-5d20-23f1184b08c2/06UMGIM25073.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Back to the Old House - 2011 Remaster</strong><br/>
-      The Smiths
+      <strong>Six Days - Remix</strong><br/>
+      DJ Shadow, Mos Def
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
