@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/09/06/c209069f-7e62-3b6c-1d90-7f5e9e34be9d/24UM1IM40582.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/37/1a/3a371a7e-33fe-85db-0616-0c57ef26fb42/13UAEIM06265.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>I'm Still Standing</strong><br/>
-      Elton John
+      <strong>Somethin' Stupid</strong><br/>
+      Frank Sinatra, Nancy Sinatra
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
