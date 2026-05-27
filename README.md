@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/cb/c7/84cbc7b4-0b88-038a-87c8-3fa6f5df09cd/199350437694.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8e/f5/49/8ef549c6-120d-4e21-a6d0-019c18b4ca23/190295834593.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Lover Girl</strong><br/>
-      Laufey
+      <strong>As the World Caves In</strong><br/>
+      Matt Maltese
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
