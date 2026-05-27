@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/68/b7/c0/68b7c018-dc15-f44a-2611-be10237fc9a5/652637080308.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f4/c4/25/f4c42532-a348-27f5-1521-4783fdc52a55/888880789709.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Where Is My Mind? - 2007 Remaster</strong><br/>
-      Pixies
+      <strong>You Only Live Once</strong><br/>
+      The Strokes
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
