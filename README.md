@@ -10,7 +10,7 @@
 ### Now Playing
 
 <!-- NOW_PLAYING_START -->
-  Kita Ke Sana — Hindia
+  Satu Hari Lagi — Hindia
   
   **Market**
   📈 IHSG: 6.130,19 · 💵 1 USD = Rp 17.783
