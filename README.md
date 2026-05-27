@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ab/57/7b/ab577bde-2be5-b43d-5d20-23f1184b08c2/06UMGIM25073.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Six Days - Remix</strong><br/>
-      DJ Shadow, Mos Def
+      <strong>Good Luck, Babe!</strong><br/>
+      Chappell Roan
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
