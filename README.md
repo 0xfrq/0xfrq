@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **Stand By Me - Remastered 2010** — John Lennon
+> **She's Electric - Remastered** — Oasis
 ---
 > ### 📊 Market
 > | Index | Price |
