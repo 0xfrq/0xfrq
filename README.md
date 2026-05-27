@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **I Just Called To Say I Love You** — Stevie Wonder
+> **Let It Be - Remastered 2009** — The Beatles
 ---
 > ### 📊 Market
 > | Index | Price |
