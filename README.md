@@ -10,7 +10,8 @@
 ### Now Playing
 
 <!-- NOW_PLAYING_START -->
-Loading...
+Tarian Penghancur Raya — .Feast
+📈 IHSG: 6.130,19 · 💵 1 USD = Rp 17.784
 <!-- NOW_PLAYING_END -->
 
 
