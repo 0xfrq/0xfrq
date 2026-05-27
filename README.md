@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ec/cb/b3/eccbb387-6215-299f-a753-9e24faaea3de/075679780850.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Freaks</strong><br/>
-      Surf Curse
+      <strong>Dreams - 2004 Remaster</strong><br/>
+      Fleetwood Mac
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
