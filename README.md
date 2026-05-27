@@ -10,7 +10,7 @@
 ### Now Playing
 
 <!-- NOW_PLAYING_START -->
-  Masalah Masa Depan — Hindia
+  Mata Air — Hindia, Natasha Udu, Kamga
   
   **Market**
   📈 IHSG: 6.130,19 · 💵 1 USD = Rp 17.784
