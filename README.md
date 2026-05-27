@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **Wonderwall - Remastered** — Oasis
+> **Hotel California - 2013 Remaster** — Eagles
 ---
 > ### 📊 Market
 > | Index | Price |
