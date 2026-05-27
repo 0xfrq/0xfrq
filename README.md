@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Passionate+Developer;Fesnuk+Doomscroller;Lifelong+Learner;Caffeine+Sucker" alt="Typing SVG" />
 </p>
+
 ---
+
 ### Now Playing
 
 <!-- NOW_PLAYING_START -->
