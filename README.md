@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **Hotel California - 2013 Remaster** — Eagles
+> **Bohemian Rhapsody - Remastered 2011** — Queen
 ---
 > ### 📊 Market
 > | Index | Price |
