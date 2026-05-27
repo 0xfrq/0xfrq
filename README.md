@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/96/53/df/9653dfc3-fda7-c824-29f7-2e5a32192d61/00602537566488.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Way You Look Tonight</strong><br/>
-      Frank Sinatra
+      <strong>Hindia: Sampe Mati Gue Nggak Akan Pernah Endorse Politik | Unfiltered E126</strong><br/>
+      Big Alpha
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
