@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/a9/5c/1ba95cac-b245-d386-63fb-6b857aa9dce8/634904078065.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Fake Plastic Trees</strong><br/>
-      Radiohead
+      <strong>19-2000</strong><br/>
+      Gorillaz, Miho Hatori, Tina Weymouth
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
