@@ -28,22 +28,17 @@ async function getMarketData() {
       fetchJson('https://query1.finance.yahoo.com/v8/finance/chart/%5EJKSE?interval=1d&range=1d'),
       fetchJson('https://query1.finance.yahoo.com/v8/finance/chart/USDIDR%3DX?interval=1d&range=1d')
     ])
-
     const ihsgPrice = ihsgData?.chart?.result?.[0]?.meta?.regularMarketPrice
     const usdIdr = usdIdrData?.chart?.result?.[0]?.meta?.regularMarketPrice
-
-    const ihsg = ihsgPrice ? `📈 IHSG: ${ihsgPrice.toLocaleString('id-ID')}` : '📈 IHSG: N/A'
-    const forex = usdIdr ? `💵 1 USD = Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : '💵 1 USD = N/A'
-
-    return `${ihsg} · ${forex}`
+    return { ihsgPrice, usdIdr }
   } catch (e) {
     console.error('Market data error:', e)
-    return '📈 IHSG: N/A · 💵 1 USD = N/A'
+    return { ihsgPrice: null, usdIdr: null }
   }
 }
 
 async function main() {
-  const [{ data, error }, marketLine] = await Promise.all([
+  const [{ data, error }, { ihsgPrice, usdIdr }] = await Promise.all([
     supabase
       .from('now_playing')
       .select('*')
@@ -60,34 +55,29 @@ async function main() {
 
   const song = data.song_name || 'Unknown Song'
   const artist = data.artist_name || 'Unknown Artist'
-  const nowPlaying = `${song} — ${artist}`
 
   const readme = fs.readFileSync('README.md', 'utf8')
-const updatedReadme = readme.replace(
-  /<!-- NOW_PLAYING_START -->[\s\S]*?<!-- NOW_PLAYING_END -->/,
-  `<!-- NOW_PLAYING_START -->
+  const updatedReadme = readme.replace(
+    /<!-- NOW_PLAYING_START -->[\s\S]*?<!-- NOW_PLAYING_END -->/,
+    `<!-- NOW_PLAYING_START -->
 <!--
   ╔════════════════════════════════════════════╗
   ║  🎵  NOW PLAYING                           ║
   ╚════════════════════════════════════════════╝
 -->
-
 > ### 🎵 Now Playing
 > **${song}** — ${artist}
-
 ---
-
 > ### 📊 Market
 > | Index | Price |
 > |-------|-------|
 > | 📈 IHSG | ${ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'} |
 > | 💵 USD/IDR | ${usdIdr ? `Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : 'N/A'} |
-
 <!-- NOW_PLAYING_END -->`
-)
+  )
 
   fs.writeFileSync('README.md', updatedReadme)
-  console.log('README updated')
+  console.log(`README updated: ${song} — ${artist} | IHSG: ${ihsgPrice} | USD/IDR: ${usdIdr}`)
 }
 
 main()
