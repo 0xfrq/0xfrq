@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/6b/bb/2c6bbbb2-ae5c-57ac-55e9-d49efea7039e/603497862962.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>19-2000</strong><br/>
-      Gorillaz, Miho Hatori, Tina Weymouth
+      <strong>Boys Don't Cry</strong><br/>
+      The Cure
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
