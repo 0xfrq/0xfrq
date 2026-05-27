@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/86/1d/4c861dab-5428-f3b7-8068-82bb69db5e89/093624932130.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/f3/08/49f308bf-478c-629e-8f50-4d1980ca59f9/5063740367982_cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Scar Tissue</strong><br/>
-      Red Hot Chili Peppers
+      <strong>Boulevard of Broken Dreams</strong><br/>
+      Green Day
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
