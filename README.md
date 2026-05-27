@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/7a/5e/947a5e93-459e-2488-1675-6846297017b9/4050538664331.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/c6/e1/c8/mzi.ixgzfcmc.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Alright - 2015 Remaster</strong><br/>
-      Supergrass
+      <strong>Take on Me</strong><br/>
+      a-ha
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
