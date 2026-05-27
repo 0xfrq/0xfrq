@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/95/6b/be956b6b-23e6-d27d-356e-c81b22216abf/00602527149899.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/ab/f7/ababf7b5-c65b-905a-ae71-c7195f66e25c/21UMGIM04584.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Unchained Melody</strong><br/>
-      The Righteous Brothers
+      <strong>See You Again (feat. Kali Uchis)</strong><br/>
+      Tyler, The Creator, Kali Uchis
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
