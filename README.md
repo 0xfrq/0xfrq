@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/82/ae/ac82aea5-9ca1-3e53-d776-2be48f1ac397/198391608520.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Did You Like Her In The Morning?</strong><br/>
-      NIKI
+      <strong>Feel Good Inc.</strong><br/>
+      Gorillaz, De La Soul
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
