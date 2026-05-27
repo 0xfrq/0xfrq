@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **Take Me Home, Country Roads - Original Version** — John Denver
+> **Can't Take My Eyes off You** — Frankie Valli
 ---
 > ### 📊 Market
 > | Index | Price |
