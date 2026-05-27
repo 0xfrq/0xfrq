@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/ca/bb/83cabb97-8289-4a91-4d3b-4760b64d2971/25UMGIM90844.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/ff/43/6eff434b-8a53-3704-41d9-9cf34cb57f41/190296083709.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Emily’s Song</strong><br/>
-      Daniel Caesar
+      <strong>Backburner</strong><br/>
+      NIKI
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
