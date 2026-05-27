@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **Imagine - Remastered 2010** — John Lennon
+> **I Just Called To Say I Love You** — Stevie Wonder
 ---
 > ### 📊 Market
 > | Index | Price |
