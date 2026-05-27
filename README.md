@@ -12,19 +12,19 @@
 <!-- NOW_PLAYING_START -->
 <table>
   <tr>
-    <td width="90" valign="top">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m01/d20/h14/s05.bkornbke.jpg/600x600bb.jpg" width="80" height="80" style="border-radius:8px" align="left" />
+    <td width="150" valign="middle">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/2b/7c/aa2b7cb8-743f-df84-78e0-0b9c3b28bff3/22UM1IM35688.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
-    <td valign="top">
-      <sub>🎵 NOW PLAYING</sub><br/>
-      <b>We Are The World</b><br/>
-      <sub>U.S.A. For Africa</sub>
+    <td valign="middle" width="260">
+      <sup>🎵 NOW PLAYING</sup><br/>
+      <strong>I Don't Want To Miss A Thing - Pop Mix</strong><br/>
+      Aerosmith
     </td>
-    <td align="right" valign="top">
-      <sub>📊 MARKET</sub><br/>
-      <sub>IHSG &nbsp;&nbsp;<b>6.130,19</b></sub><br/>
-      <sub>USD/IDR &nbsp;<b>Rp 17.783</b></sub>
+    <td align="right" valign="middle">
+      <sup>📊 MARKET</sup><br/>
+      IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
+      USD/IDR &nbsp;<strong>Rp 17.783</strong>
     </td>
   </tr>
 </table>
