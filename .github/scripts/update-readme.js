@@ -73,7 +73,7 @@ async function main() {
 
   const coverUrl = await getAlbumCover(song, artist)
   const coverImg = coverUrl
-    ? `<img src="${coverUrl}" width="130" height="130" style="border-radius:10px" align="left" />`
+    ? `<img src="${coverUrl}" width="130" height="130" style="border-radius:10px" align="center" />`
     : `<img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />`
 
   const ihsgStr = ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'
