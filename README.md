@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **I Want To Hold Your Hand - Remastered 2015** — The Beatles
+> **Wonderwall - Remastered** — Oasis
 ---
 > ### 📊 Market
 > | Index | Price |
