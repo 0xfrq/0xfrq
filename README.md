@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **Bohemian Rhapsody - Remastered 2011** — Queen
+> **Ob-La-Di, Ob-La-Da - Remastered 2009** — The Beatles
 ---
 > ### 📊 Market
 > | Index | Price |
