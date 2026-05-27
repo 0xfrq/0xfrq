@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/0c/88/9c0c883c-0901-60a1-8f4b-6a96c36be366/198846140360.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a9/a2/81/a9a281f3-12ba-eb91-2d58-e535b306125c/artwork.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>her</strong><br/>
-      JVKE
+      <strong>The Less I Know The Better</strong><br/>
+      Tame Impala
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
