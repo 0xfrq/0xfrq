@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/f3/08/49f308bf-478c-629e-8f50-4d1980ca59f9/5063740367982_cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/7a/5e/947a5e93-459e-2488-1675-6846297017b9/4050538664331.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Boulevard of Broken Dreams</strong><br/>
-      Green Day
+      <strong>Alright - 2015 Remaster</strong><br/>
+      Supergrass
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
