@@ -73,8 +73,8 @@ async function main() {
 
   const coverUrl = await getAlbumCover(song, artist)
   const coverImg = coverUrl
-    ? `<img src="${coverUrl}" width="80" height="80" style="border-radius:8px" align="left" />`
-    : `<img src="https://via.placeholder.com/80x80?text=♪" width="80" height="80" style="border-radius:8px" align="left" />`
+    ? `<img src="${coverUrl}" width="130" height="130" style="border-radius:10px" align="left" />`
+    : `<img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="left" />`
 
   const ihsgStr = ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'
   const usdIdrStr = usdIdr ? `Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : 'N/A'
@@ -82,19 +82,19 @@ async function main() {
   const nowPlayingBlock = `<!-- NOW_PLAYING_START -->
 <table>
   <tr>
-    <td width="90" valign="top">
+    <td width="150" valign="middle">
       ${coverImg}
       <br clear="left"/>
     </td>
-    <td valign="top">
-      <sub>🎵 NOW PLAYING</sub><br/>
-      <b>${song}</b><br/>
-      <sub>${artist}</sub>
+    <td valign="middle" width="260">
+      <sup>🎵 NOW PLAYING</sup><br/>
+      <strong>${song}</strong><br/>
+      ${artist}
     </td>
-    <td align="right" valign="top">
-      <sub>📊 MARKET</sub><br/>
-      <sub>IHSG &nbsp;&nbsp;<b>${ihsgStr}</b></sub><br/>
-      <sub>USD/IDR &nbsp;<b>${usdIdrStr}</b></sub>
+    <td align="right" valign="middle">
+      <sup>📊 MARKET</sup><br/>
+      IHSG &nbsp;&nbsp;<strong>${ihsgStr}</strong><br/>
+      USD/IDR &nbsp;<strong>${usdIdrStr}</strong>
     </td>
   </tr>
 </table>
