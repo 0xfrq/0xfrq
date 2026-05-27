@@ -63,15 +63,28 @@ async function main() {
   const nowPlaying = `${song} — ${artist}`
 
   const readme = fs.readFileSync('README.md', 'utf8')
-  const updatedReadme = readme.replace(
-      /<!-- NOW_PLAYING_START -->[\s\S]*?<!-- NOW_PLAYING_END -->/,
-      `<!-- NOW_PLAYING_START -->
-  ${nowPlaying}
-  
-  **Market**
-  ${marketLine}
-  <!-- NOW_PLAYING_END -->`
-    )
+const updatedReadme = readme.replace(
+  /<!-- NOW_PLAYING_START -->[\s\S]*?<!-- NOW_PLAYING_END -->/,
+  `<!-- NOW_PLAYING_START -->
+<!--
+  ╔════════════════════════════════════════════╗
+  ║  🎵  NOW PLAYING                           ║
+  ╚════════════════════════════════════════════╝
+-->
+
+> ### 🎵 Now Playing
+> **${song}** — ${artist}
+
+---
+
+> ### 📊 Market
+> | Index | Price |
+> |-------|-------|
+> | 📈 IHSG | ${ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'} |
+> | 💵 USD/IDR | ${usdIdr ? `Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : 'N/A'} |
+
+<!-- NOW_PLAYING_END -->`
+)
 
   fs.writeFileSync('README.md', updatedReadme)
   console.log('README updated')
