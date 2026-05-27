@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/eb/1c/9aeb1c86-7dd7-b31e-9a40-e26a1ae38d89/720841228202_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/a6/f7/89a6f7be-a0e0-2524-a13b-6b5df7b7534a/06UMGIM24399.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Nothing's Gonna Hurt You Baby</strong><br/>
-      Cigarettes After Sex
+      <strong>Somewhere Only We Know</strong><br/>
+      Keane
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
