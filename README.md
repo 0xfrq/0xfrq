@@ -10,11 +10,20 @@
 ### Now Playing
 
 <!-- NOW_PLAYING_START -->
-  Satu Hari Lagi — Hindia
-  
-  **Market**
-  📈 IHSG: 6.130,19 · 💵 1 USD = Rp 17.783
-  <!-- NOW_PLAYING_END -->
+<!--
+  ╔════════════════════════════════════════════╗
+  ║  🎵  NOW PLAYING                           ║
+  ╚════════════════════════════════════════════╝
+-->
+> ### 🎵 Now Playing
+> **Something - Remastered 2009** — The Beatles
+---
+> ### 📊 Market
+> | Index | Price |
+> |-------|-------|
+> | 📈 IHSG | 6.130,19 |
+> | 💵 USD/IDR | Rp 17.783 |
+<!-- NOW_PLAYING_END -->
 
 
 ---
