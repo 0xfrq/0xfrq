@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/3a/62/023a629e-1541-c493-0b45-536cbe9b59dd/825646642847.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1b/41/2b/1b412bef-ba81-3173-6d26-41128c0f366c/780163581720.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Please, Please, Please, Let Me Get What I Want - 2011 Remaster</strong><br/>
-      The Smiths
+      <strong>I Really Want to Stay at Your House</strong><br/>
+      Rosa Walton, Hallie Coggins
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
