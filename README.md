@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1e/4d/0c/1e4d0c2d-e49c-b8ed-c975-274bf347ac1a/5056167122319.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/ca/bb/83cabb97-8289-4a91-4d3b-4760b64d2971/25UMGIM90844.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="left" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Most Beautiful Thing</strong><br/>
-      Bruno Major
+      <strong>Emily’s Song</strong><br/>
+      Daniel Caesar
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
