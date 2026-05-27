@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/c3/33/f7c333e4-b2b5-b49d-1406-f51bdac6a8aa/mzi.bllmhdje.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/ef/19/fcef196c-3f81-e9da-f02a-b55d900e7d69/16UMGIM53162.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Teenage Dirtbag</strong><br/>
-      Wheatus
+      <strong>Island In The Sun</strong><br/>
+      Weezer
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
