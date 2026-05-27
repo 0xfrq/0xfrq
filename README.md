@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/77/a3/a377a309-8e52-f787-2250-2b34d320bf7b/25UMGIM64146.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/bf/6a/62bf6a98-4560-0299-8a45-35763e5ad4d3/06UMGIM13428.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Zombie - 2025 Remastered</strong><br/>
-      The Cranberries
+      <strong>Everybody's Changing</strong><br/>
+      Keane
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
