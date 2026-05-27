@@ -16,7 +16,7 @@
   ╚════════════════════════════════════════════╝
 -->
 > ### 🎵 Now Playing
-> **Blackbird - Remastered 2009** — The Beatles
+> **Every Breath You Take** — The Police
 ---
 > ### 📊 Market
 > | Index | Price |
