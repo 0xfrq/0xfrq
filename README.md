@@ -24,7 +24,7 @@
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 17.783</strong>
+      USD/IDR &nbsp;<strong>Rp 17.785</strong>
     </td>
   </tr>
 </table>
