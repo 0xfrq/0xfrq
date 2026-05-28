@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/60/e3/8a60e389-06f5-b075-4ae9-f3e77e583b13/00602567822059.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/67/f9/8d/67f98d03-7896-153f-4965-a92458c06965/dj.aiuntmgo.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Top Of The World</strong><br/>
-      Carpenters
+      <strong>Piano Man</strong><br/>
+      Billy Joel
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 19.14 WIB</sub>
+      <sub>updated 28 Mei 2026, 19.17 WIB</sub>
     </td>
   </tr>
 </table>
