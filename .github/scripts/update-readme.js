@@ -76,10 +76,20 @@ async function main() {
     ? `<img src="${coverUrl}" width="130" height="130" style="border-radius:10px" align="center" />`
     : `<img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />`
 
-  const ihsgStr = ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'
-  const usdIdrStr = usdIdr ? `Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : 'N/A'
+const ihsgStr = ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'
+const usdIdrStr = usdIdr ? `Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : 'N/A'
 
-  const nowPlayingBlock = `<!-- NOW_PLAYING_START -->
+const updatedAt = new Date().toLocaleString('id-ID', {
+  timeZone: 'Asia/Jakarta',
+  day: '2-digit',
+  month: 'short',
+  year: 'numeric',
+  hour: '2-digit',
+  minute: '2-digit',
+  hour12: false
+}) + ' WIB'
+
+const nowPlayingBlock = `<!-- NOW_PLAYING_START -->
 <table>
   <tr>
     <td width="150" valign="middle">
@@ -94,11 +104,13 @@ async function main() {
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>${ihsgStr}</strong><br/>
-      USD/IDR &nbsp;<strong>${usdIdrStr}</strong>
+      USD/IDR &nbsp;<strong>${usdIdrStr}</strong><br/>
+      <sub>updated ${updatedAt}</sub>
     </td>
   </tr>
 </table>
 <!-- NOW_PLAYING_END -->`
+
 
   const readme = fs.readFileSync('README.md', 'utf8')
   const updatedReadme = readme.replace(
