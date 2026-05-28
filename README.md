@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/37/1a/3a371a7e-33fe-85db-0616-0c57ef26fb42/13UAEIM06265.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/9d/97/639d9783-4ff1-806a-9900-2c92e560547e/093624942719.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>That's Life</strong><br/>
-      Frank Sinatra
+      <strong>Sway</strong><br/>
+      Michael Bublé
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 19.19 WIB</sub>
+      <sub>updated 28 Mei 2026, 19.21 WIB</sub>
     </td>
   </tr>
 </table>
