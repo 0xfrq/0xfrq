@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6b/b4/f3/6bb4f335-7700-3877-e65e-f37a850f5ec2/mzi.ouovshmg.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/1b/f1/5e1bf1de-e5f1-e73e-0752-e7882b4f2d57/886444718820.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Rosyln</strong><br/>
-      Bon Iver, St. Vincent
+      <strong>Someone New</strong><br/>
+      Hozier
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.775</strong><br/>
-      <sub>updated 29 Mei 2026, 00.32 WIB</sub>
+      <sub>updated 29 Mei 2026, 00.37 WIB</sub>
     </td>
   </tr>
 </table>
