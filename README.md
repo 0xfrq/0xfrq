@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/d2/e2/02d2e290-82c9-bcf4-73fa-4cd06f65f4b9/886444143073.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/e3/5e/87e35e56-ea3c-6a32-67c2-494d60c4b4b1/mzi.psjlbnst.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Cigarette Daydreams</strong><br/>
-      Cage The Elephant
+      <strong>Futile Devices</strong><br/>
+      Sufjan Stevens
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 29 Mei 2026, 02.00 WIB</sub>
+      <sub>updated 29 Mei 2026, 02.04 WIB</sub>
     </td>
   </tr>
 </table>
