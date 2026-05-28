@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/a8/f1/30a8f1b6-e75d-55b4-ee88-667a062e0103/24UM1IM12416.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/54/65/1a546518-5709-5c11-3f30-90528331fbf6/15UMGIM65659.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>I Think They Call This Love</strong><br/>
-      Elliot James Reay
+      <strong>American Pie</strong><br/>
+      Don McLean
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 19.42 WIB</sub>
+      <sub>updated 28 Mei 2026, 19.45 WIB</sub>
     </td>
   </tr>
 </table>
