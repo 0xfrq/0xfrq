@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4f/de/41/4fde41f5-7893-0a16-5c04-7d6190b2e1e1/21UMGIM98450.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>It's the Most Wonderful Time of the Year</strong><br/>
-      Andy Williams
+      <strong>The Christmas Song (Merry Christmas To You) - Remastered 1999</strong><br/>
+      Nat King Cole
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 17.19 WIB</sub>
+      <sub>updated 28 Mei 2026, 17.22 WIB</sub>
     </td>
   </tr>
 </table>
