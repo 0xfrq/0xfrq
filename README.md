@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/34/f4/0c/34f40c63-5bf5-d90f-cd3b-c24f2baef073/mzi.fbdjmyco.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/db/a2/7a/dba27a46-3685-508d-d32e-a0e73cc82251/00602567713296.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Only You - Re-Recorded</strong><br/>
-      The Platters
+      <strong>And I Love Her - Remastered 2009</strong><br/>
+      The Beatles
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 28 Mei 2026, 20.52 WIB</sub>
+      <sub>updated 28 Mei 2026, 20.53 WIB</sub>
     </td>
   </tr>
 </table>
