@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1f/3f/25/1f3f2571-649f-4fbc-bf95-c042bdd3a0ad/192641580659_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/d2/e2/02d2e290-82c9-bcf4-73fa-4cd06f65f4b9/886444143073.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Home</strong><br/>
-      Edith Whiskers
+      <strong>Cigarette Daydreams</strong><br/>
+      Cage The Elephant
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 17.775</strong><br/>
-      <sub>updated 29 Mei 2026, 01.57 WIB</sub>
+      USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
+      <sub>updated 29 Mei 2026, 02.00 WIB</sub>
     </td>
   </tr>
 </table>
