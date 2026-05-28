@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/22/26/68222693-dd98-1eae-8862-badf12368162/888295196574_cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/20/a9/8320a945-11ac-e7cd-29e7-d80782698f55/18515.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Waiting Room</strong><br/>
-      Phoebe Bridgers
+      <strong>Ho Hey</strong><br/>
+      The Lumineers
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.775</strong><br/>
-      <sub>updated 29 Mei 2026, 00.56 WIB</sub>
+      <sub>updated 29 Mei 2026, 01.03 WIB</sub>
     </td>
   </tr>
 </table>
