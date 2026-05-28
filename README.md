@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/6f/84/a56f8452-ab01-07c7-b395-29af364caa06/13UACIM76530.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/ec/01/07ec011d-f158-eb3d-f521-b35f5e4189ab/886444694155.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Baby, It's Cold Outside</strong><br/>
-      Dean Martin
+      <strong>Santa Claus Is Coming To Town</strong><br/>
+      Frank Sinatra
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
