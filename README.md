@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/98/72/e098729e-e8ff-2d62-6391-1fc43b7f466c/4050538542318_.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/a5/09/96a50916-169b-724c-b722-b8c474406352/13UAAIM68691.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Home - 2019 Remaster</strong><br/>
-      Edward Sharpe & The Magnetic Zeros
+      <strong>Ribs</strong><br/>
+      Lorde
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 29 Mei 2026, 03.49 WIB</sub>
+      <sub>updated 29 Mei 2026, 03.55 WIB</sub>
     </td>
   </tr>
 </table>
