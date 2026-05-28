@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/69/8d/7c698de5-9198-34b5-3cb8-9338f136c3c3/18812.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/d4/96/25d49699-acc0-401f-a7cc-d7697339a474/24UM1IM03751.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Sweet Heat Lightning</strong><br/>
-      Gregory Alan Isakov
+      <strong>Sailor Song</strong><br/>
+      Gigi Perez
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.775</strong><br/>
-      <sub>updated 29 Mei 2026, 00.16 WIB</sub>
+      <sub>updated 29 Mei 2026, 00.21 WIB</sub>
     </td>
   </tr>
 </table>
