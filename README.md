@@ -13,18 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/c2/45/3fc2454d-f1ef-8cef-a1f3-0c5a6d751e0a/19UMGIM69266.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/eb/e0/4aebe0aa-f08a-b065-c53f-4d4fdabe2925/03614599267231_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>My Way</strong><br/>
-      Frank Sinatra
+      <strong>Pelangi</strong><br/>
+      Hivi!
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 17.785</strong>
+      USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
+      <sub>updated 28 Mei 2026, 16.41 WIB</sub>
     </td>
   </tr>
 </table>
