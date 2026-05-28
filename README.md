@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/b6/da/75b6da76-a3e0-6a77-cbe5-ad6c42cb0692/06UMGIM48050.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ef/bd/64/efbd64ab-6a7c-80e0-ca85-02fb0d282720/00602537570713.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Rocket Man (I Think It's Going To Be A Long, Long Time)</strong><br/>
-      Elton John
+      <strong>The World We Knew (Over And Over)</strong><br/>
+      Frank Sinatra
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 19.37 WIB</sub>
+      <sub>updated 28 Mei 2026, 19.39 WIB</sub>
     </td>
   </tr>
 </table>
