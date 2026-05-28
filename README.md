@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e3/e5/7a/e3e57a00-ed2d-69d6-bf00-347d7c37f3bd/PA00074572_0_90261_jacket.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/e4/3d/9ee43dd8-818c-c085-899c-c27a1e3b82cc/23UM1IM53496.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>ただ君に晴れ</strong><br/>
+      <strong>晴る</strong><br/>
       Yorushika
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 28 Mei 2026, 22.35 WIB</sub>
+      <sub>updated 28 Mei 2026, 22.37 WIB</sub>
     </td>
   </tr>
 </table>
