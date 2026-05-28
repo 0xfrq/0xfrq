@@ -18,14 +18,14 @@
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>早朝、郵便受け</strong><br/>
+      <strong>雲になる</strong><br/>
       Yorushika
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.775</strong><br/>
-      <sub>updated 28 Mei 2026, 23.15 WIB</sub>
+      <sub>updated 28 Mei 2026, 23.16 WIB</sub>
     </td>
   </tr>
 </table>
