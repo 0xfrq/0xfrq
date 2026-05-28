@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/cf/50/d8cf5032-42f8-57e0-5513-c2e39ac4fa6f/886444435703.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3d/09/0c/3d090c87-f02b-3c3c-cedf-603cc900082f/888174780955_cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Everybody Loves Somebody</strong><br/>
-      Dean Martin
+      <strong>Lovers Rock</strong><br/>
+      TV Girl
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 28 Mei 2026, 21.35 WIB</sub>
+      <sub>updated 28 Mei 2026, 21.38 WIB</sub>
     </td>
   </tr>
 </table>
