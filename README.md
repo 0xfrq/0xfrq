@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/ed/8e/b3ed8eb8-e276-ee92-bf69-fba2865516b6/dj.yjsnvawq.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/3b/b1/253bb1a0-2ce8-a9ef-c5f9-771c45426d1f/825646416097.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Uptown Girl</strong><br/>
-      Billy Joel
+      <strong>True - 2003 Remaster</strong><br/>
+      Spandau Ballet
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 28 Mei 2026, 20.22 WIB</sub>
+      <sub>updated 28 Mei 2026, 20.26 WIB</sub>
     </td>
   </tr>
 </table>
