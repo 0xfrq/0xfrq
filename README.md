@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/2b/b7/632bb74c-3ffc-a28c-a4d8-808596535936/196872707434.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/4e/37/f14e373e-2199-d463-1e4b-5c5e5092eb8b/199350129001.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Chest Pain (I Love)</strong><br/>
-      Malcolm Todd
+      <strong>Silver Lining</strong><br/>
+      Laufey
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 18.43 WIB</sub>
+      <sub>updated 28 Mei 2026, 18.46 WIB</sub>
     </td>
   </tr>
 </table>
