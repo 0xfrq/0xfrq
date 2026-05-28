@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/30/c1/b030c10d-ad3f-5887-458c-dffde3d3e69b/23UMGIM34074.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/5d/d4/665dd470-e8c1-d82c-ecd6-ae83e3c9162f/093624883357.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Sleep Well</strong><br/>
-      d4vd
+      <strong>Mr. Loverman</strong><br/>
+      Ricky Montgomery
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 18.23 WIB</sub>
+      <sub>updated 28 Mei 2026, 18.26 WIB</sub>
     </td>
   </tr>
 </table>
