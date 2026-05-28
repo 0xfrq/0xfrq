@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/46/db/da46dbff-71cb-e4b3-2b0b-8c8d4b51e16d/825646937097.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/c8/1c/52c81c0f-0cf3-b042-56fb-fa8c3125e840/197188069841.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Heaven Knows I'm Miserable Now - 2011 Remaster</strong><br/>
-      The Smiths
+      <strong>I Wish You Love</strong><br/>
+      Laufey
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 18.11 WIB</sub>
+      <sub>updated 28 Mei 2026, 18.15 WIB</sub>
     </td>
   </tr>
 </table>
