@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/03/13/d6031394-c667-d443-928e-c492f8eefd5d/26UMGIM63530.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8d/8b/af/8d8baf48-afba-ddd1-35fd-657d685b60cf/00602567824008.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Fly Me To The Moon (In Other Words)</strong><br/>
-      Frank Sinatra, Count Basie
+      <strong>Dream A Little Dream Of Me</strong><br/>
+      The Mamas & The Papas
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 16.45 WIB</sub>
+      <sub>updated 28 Mei 2026, 16.48 WIB</sub>
     </td>
   </tr>
 </table>
