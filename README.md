@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/5d/d4/665dd470-e8c1-d82c-ecd6-ae83e3c9162f/093624883357.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ed/76/5e/ed765e68-3e35-eeb0-5760-68af76e6d455/5056167170075_1.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Mr. Loverman</strong><br/>
-      Ricky Montgomery
+      <strong>Valentine</strong><br/>
+      Laufey
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 18.26 WIB</sub>
+      <sub>updated 28 Mei 2026, 18.29 WIB</sub>
     </td>
   </tr>
 </table>
