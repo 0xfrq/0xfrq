@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Features/48/fc/99/dj.wumhkdgh.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>All I Want for Christmas Is You</strong><br/>
-      Mariah Carey
+      <strong>It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)</strong><br/>
+      Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 17.35 WIB</sub>
+      <sub>updated 28 Mei 2026, 17.38 WIB</sub>
     </td>
   </tr>
 </table>
