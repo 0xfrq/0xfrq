@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/6e/74/a36e7450-3818-f2c1-a137-d4ef5934c119/827969448922.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b4/00/8f/b4008f7c-72b9-d856-60fa-2ac5cfce2d18/16UMGIM86640.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Mr. Blue Sky</strong><br/>
-      Electric Light Orchestra
+      <strong>How Deep Is Your Love</strong><br/>
+      Bee Gees
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
