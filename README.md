@@ -18,14 +18,14 @@
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>From Eden</strong><br/>
+      <strong>Like Real People Do</strong><br/>
       Hozier
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.775</strong><br/>
-      <sub>updated 28 Mei 2026, 23.18 WIB</sub>
+      <sub>updated 28 Mei 2026, 23.22 WIB</sub>
     </td>
   </tr>
 </table>
