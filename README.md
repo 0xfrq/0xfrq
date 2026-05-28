@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/07/37/8e/07378ef3-7950-ba76-4280-9acb0e5d032a/15UMGIM42534.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/8d/66/618d66e6-c256-ef8f-d068-ead507f47609/886444898225.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Electric Love</strong><br/>
-      BØRNS
+      <strong>Jealous</strong><br/>
+      Labrinth
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 29 Mei 2026, 03.41 WIB</sub>
+      <sub>updated 29 Mei 2026, 03.45 WIB</sub>
     </td>
   </tr>
 </table>
