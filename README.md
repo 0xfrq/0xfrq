@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/37/1a/3a371a7e-33fe-85db-0616-0c57ef26fb42/13UAEIM06265.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/79/6c/6d796cfd-722a-d61d-4f67-1cc28162a0fc/00888072319141.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Girl From Ipanema</strong><br/>
-      Antônio Carlos Jobim, Frank Sinatra
+      <strong>Have You Ever Seen The Rain</strong><br/>
+      Creedence Clearwater Revival
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 28 Mei 2026, 21.29 WIB</sub>
+      <sub>updated 28 Mei 2026, 21.32 WIB</sub>
     </td>
   </tr>
 </table>
