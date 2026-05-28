@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/03/24/a6032408-974f-70cf-7eee-f85baf280bb2/13UABIM53685.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/60/e3/8a60e389-06f5-b075-4ae9-f3e77e583b13/00602567822059.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Beautiful Boy (Darling Boy) - Remastered 2010</strong><br/>
-      John Lennon
+      <strong>Top Of The World</strong><br/>
+      Carpenters
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 19.02 WIB</sub>
+      <sub>updated 28 Mei 2026, 19.14 WIB</sub>
     </td>
   </tr>
 </table>
