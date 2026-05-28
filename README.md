@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/33/7c/0a337cb5-7752-62bf-cdda-4067b7b30d7e/859720734890.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/30/c1/b030c10d-ad3f-5887-458c-dffde3d3e69b/23UMGIM34074.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Love Like You (feat. Rebecca Sugar) - End Credits</strong><br/>
-      Steven Universe, Rebecca Sugar
+      <strong>Sleep Well</strong><br/>
+      d4vd
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 18.20 WIB</sub>
+      <sub>updated 28 Mei 2026, 18.23 WIB</sub>
     </td>
   </tr>
 </table>
