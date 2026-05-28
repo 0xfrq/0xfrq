@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d6/cd/d8/d6cdd86f-db67-ffc8-cd5e-26c4559686c3/054391903860.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/83/56/da/8356dadb-17a7-1d40-f8ed-53f934224532/886448054825.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Something in the Orange</strong><br/>
-      Zach Bryan
+      <strong>If the World Was Ending (feat. Julia Michaels)</strong><br/>
+      JP Saxe, Julia Michaels
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>N/A</strong><br/>
-      USD/IDR &nbsp;<strong>N/A</strong><br/>
-      <sub>updated 29 Mei 2026, 02.06 WIB</sub>
+      IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
+      USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
+      <sub>updated 29 Mei 2026, 02.10 WIB</sub>
     </td>
   </tr>
 </table>
