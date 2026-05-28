@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/83/5d/14/835d1449-fbee-5b66-8db9-baa6a4a7218b/886444435529.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/ec/01/07ec011d-f158-eb3d-f521-b35f5e4189ab/886444694155.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>La Vie en Rose</strong><br/>
-      Dean Martin
+      <strong>Baby, It's Cold Outside (with Dorothy Kirsten)</strong><br/>
+      Frank Sinatra, Dorothy Kirsten
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 17.30 WIB</sub>
+      <sub>updated 28 Mei 2026, 17.32 WIB</sub>
     </td>
   </tr>
 </table>
