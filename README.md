@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Features/48/fc/99/dj.wumhkdgh.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/6f/84/a56f8452-ab01-07c7-b395-29af364caa06/13UACIM76530.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)</strong><br/>
-      Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra
+      <strong>Baby, It's Cold Outside</strong><br/>
+      Dean Martin
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 17.38 WIB</sub>
+      <sub>updated 28 Mei 2026, 17.39 WIB</sub>
     </td>
   </tr>
 </table>
