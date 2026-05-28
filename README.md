@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ca/f3/67/caf367a5-2cf6-6b2e-a891-97dc57b19f08/20UMGIM64216.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/67/c5/9f/67c59f61-5676-e282-8f86-f8fcebaaa045/886448371564.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>cardigan</strong><br/>
-      Taylor Swift
+      <strong>July</strong><br/>
+      Noah Cyrus
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.775</strong><br/>
-      <sub>updated 29 Mei 2026, 01.33 WIB</sub>
+      <sub>updated 29 Mei 2026, 01.37 WIB</sub>
     </td>
   </tr>
 </table>
