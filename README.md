@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ed/b1/43/edb14379-5da4-6779-b1e9-83df6e76a2ea/22UM1IM42108.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/8b/c3/2e8bc3b7-6f8e-f722-5fdb-b69a7c8c6ac4/26UMGIM18610.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>アルジャーノン</strong><br/>
+      <strong>早朝、郵便受け</strong><br/>
       Yorushika
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.775</strong><br/>
-      <sub>updated 28 Mei 2026, 23.10 WIB</sub>
+      <sub>updated 28 Mei 2026, 23.15 WIB</sub>
     </td>
   </tr>
 </table>
