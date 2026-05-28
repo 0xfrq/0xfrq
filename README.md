@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/bf/20/1cbf205d-e764-cd6a-6b1b-21b2f94c7bd1/21UMGIM35011.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4a/6b/85/4a6b85c6-77a4-af85-1d46-567548a5386d/075679946706.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Astronomy</strong><br/>
-      Conan Gray
+      <strong>Mind Over Matter</strong><br/>
+      Young the Giant
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 29 Mei 2026, 02.26 WIB</sub>
+      <sub>updated 29 Mei 2026, 02.30 WIB</sub>
     </td>
   </tr>
 </table>
