@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/91/f8/f2/91f8f22f-b055-c14d-6672-df49dcaeb717/00602547107299.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c7/bc/c7/c7bcc705-32e7-2a33-8233-537f6244daaf/5038456116520.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>We'll Meet Again</strong><br/>
-      Frank Sinatra
+      <strong>Build Me Up Buttercup - Mono</strong><br/>
+      The Foundations
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 28 Mei 2026, 20.01 WIB</sub>
+      <sub>updated 28 Mei 2026, 20.05 WIB</sub>
     </td>
   </tr>
 </table>
