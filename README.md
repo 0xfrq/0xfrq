@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/19/9a/7a199a72-16ba-4416-896d-110d14c8172c/067003072465.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/08/a1/1808a1be-b5a9-5e69-583d-b8a357efd760/19UM1IM12338.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Where's My Love</strong><br/>
-      SYML
+      <strong>Heather</strong><br/>
+      Conan Gray
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.775</strong><br/>
-      <sub>updated 29 Mei 2026, 01.21 WIB</sub>
+      <sub>updated 29 Mei 2026, 01.25 WIB</sub>
     </td>
   </tr>
 </table>
