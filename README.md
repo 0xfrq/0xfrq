@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ac/f9/a6/acf9a654-55d3-29b8-cac0-fef50ac5a5be/mzi.gshakpry.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/f6/4d/b7f64deb-fb74-95aa-81e6-729e5cc38ce8/09UMGIM14223.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Wash.</strong><br/>
-      Bon Iver
+      <strong>Dog Days Are Over</strong><br/>
+      Florence + The Machine
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 29 Mei 2026, 03.28 WIB</sub>
+      <sub>updated 29 Mei 2026, 03.33 WIB</sub>
     </td>
   </tr>
 </table>
