@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a7/00/d7/a700d715-a493-19a5-3de9-5753d139419f/14DMGIM05597.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Love Of My Life - Remastered 2011</strong><br/>
-      Queen
+      <strong>Exit Music (For A Film)</strong><br/>
+      Radiohead
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>N/A</strong><br/>
-      USD/IDR &nbsp;<strong>N/A</strong><br/>
-      <sub>updated 28 Mei 2026, 20.56 WIB</sub>
+      IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
+      USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
+      <sub>updated 28 Mei 2026, 20.59 WIB</sub>
     </td>
   </tr>
 </table>
