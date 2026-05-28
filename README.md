@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/25/46/17/2546176c-0f7c-b1a0-20b8-5200ebc6c473/16UMGIM27321.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/d5/dc/25d5dc67-bf45-6e42-510e-bcf6bcee1cda/00602547377951.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>At Last</strong><br/>
-      Etta James
+      <strong>Hopelessly Devoted To You (Remastered 2022)</strong><br/>
+      Olivia Newton-John
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 28 Mei 2026, 21.41 WIB</sub>
+      <sub>updated 28 Mei 2026, 21.44 WIB</sub>
     </td>
   </tr>
 </table>
