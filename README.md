@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/eb/dc/2aebdc18-c2c0-0fdd-fb85-07538a925700/603497925766.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/b6/da/75b6da76-a3e0-6a77-cbe5-ad6c42cb0692/06UMGIM48050.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Silver Springs - 2004 Remaster</strong><br/>
-      Fleetwood Mac
+      <strong>Rocket Man (I Think It's Going To Be A Long, Long Time)</strong><br/>
+      Elton John
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
