@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/e4/71/97/mzi.mgwzviyu.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/00/0c/0d000c3b-9ff4-4032-005e-369d9bd5b745/5059460208599.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Killing Me Softly With His Song</strong><br/>
-      Roberta Flack
+      <strong>A Horse with No Name</strong><br/>
+      America, George Martin
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
