@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/6c/0f/1a6c0f8b-0156-3428-93af-fae481fac7d9/dj.jmgcmbga.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/02/4f/be/024fbe59-7bf9-098b-9a75-8a801e5edb0a/196871101493.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Look After You</strong><br/>
-      The Fray
+      <strong>Unknown / Nth</strong><br/>
+      Hozier
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.775</strong><br/>
-      <sub>updated 29 Mei 2026, 01.08 WIB</sub>
+      <sub>updated 29 Mei 2026, 01.13 WIB</sub>
     </td>
   </tr>
 </table>
