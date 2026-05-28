@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7b/e3/aa/7be3aa70-5cbe-26ce-b368-363d1cb6ae5e/mzi.gninxwgv.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/13/54/2c/13542c3b-1d1b-714c-2537-fea6a7c4f632/190295612467.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Donna - Single Version</strong><br/>
-      Ritchie Valens
+      <strong>Be Like a Woman</strong><br/>
+      Chris Rainbow
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 28 Mei 2026, 20.39 WIB</sub>
+      <sub>updated 28 Mei 2026, 20.41 WIB</sub>
     </td>
   </tr>
 </table>
