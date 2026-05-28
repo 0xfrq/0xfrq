@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/53/c1/b853c1bc-aa35-1868-181c-6cd24ec9c5b1/00602577245428.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/91/f8/f2/91f8f22f-b055-c14d-6672-df49dcaeb717/00602547107299.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Baby Come Back</strong><br/>
-      Player
+      <strong>We'll Meet Again</strong><br/>
+      Frank Sinatra
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 28 Mei 2026, 19.57 WIB</sub>
+      <sub>updated 28 Mei 2026, 20.01 WIB</sub>
     </td>
   </tr>
 </table>
