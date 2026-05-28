@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/82/a9/b182a967-c93a-0c27-9cbc-4c97e4e82675/07UMGIM04162.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7b/e3/aa/7be3aa70-5cbe-26ce-b368-363d1cb6ae5e/mzi.gninxwgv.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>A Man Without Love</strong><br/>
-      Engelbert Humperdinck
+      <strong>We Belong Together</strong><br/>
+      Ritchie Valens
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 16.51 WIB</sub>
+      <sub>updated 28 Mei 2026, 16.55 WIB</sub>
     </td>
   </tr>
 </table>
