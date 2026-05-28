@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4f/1e/49/4f1e498c-bfd1-9a74-bfb9-e4945e3ce851/mzi.nbijprbi.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/16/7f/9e/167f9e0d-6b8a-f011-2aa6-fbbdcb594cee/886444222402.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Can't Smile Without You</strong><br/>
-      Barry Manilow
+      <strong>Let It Snow! Let It Snow! Let It Snow!</strong><br/>
+      Dean Martin
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.785</strong><br/>
-      <sub>updated 28 Mei 2026, 17.01 WIB</sub>
+      <sub>updated 28 Mei 2026, 17.02 WIB</sub>
     </td>
   </tr>
 </table>
