@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/05/bb/63/05bb63e3-0bfe-23bb-3b95-2b00577a3b30/22UM1IM43112.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/ed/8e/b3ed8eb8-e276-ee92-bf69-fba2865516b6/dj.yjsnvawq.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Put Your Head on My Shoulder</strong><br/>
-      Paul Anka
+      <strong>Uptown Girl</strong><br/>
+      Billy Joel
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 28 Mei 2026, 20.20 WIB</sub>
+      <sub>updated 28 Mei 2026, 20.22 WIB</sub>
     </td>
   </tr>
 </table>
