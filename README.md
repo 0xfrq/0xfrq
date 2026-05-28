@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/3a/f3/2a3af30e-04e3-37f0-0d2e-5303d72f7229/24UMGIM43488.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/1f/01/691f0156-4369-6a01-6a75-59a2561a74b9/25UMGIM41299.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>I Love You, I'm Sorry</strong><br/>
-      Gracie Abrams
+      <strong>We Hug Now</strong><br/>
+      Sydney Rose
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.130,19</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.784</strong><br/>
-      <sub>updated 29 Mei 2026, 03.07 WIB</sub>
+      <sub>updated 29 Mei 2026, 03.09 WIB</sub>
     </td>
   </tr>
 </table>
