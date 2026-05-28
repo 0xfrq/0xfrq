@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/6f/84/a56f8452-ab01-07c7-b395-29af364caa06/13UACIM76530.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Rudolph The Red-Nosed Reindeer</strong><br/>
-      Dean Martin
+      <strong>It's the Most Wonderful Time of the Year</strong><br/>
+      Andy Williams
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
