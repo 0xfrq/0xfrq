@@ -1,5 +1,5 @@
-<h1 align="left">Hi there 👋, I'm Fariq</h1>
-<h3 align="left">Undergraduate student majoring in Computer Science, Passionate developer from Indonesia</h3>
+<h1 align="cneter">Hi there 👋, I'm Fariq</h1>
+<h3 align="center">Undergraduate student majoring in Computer Science, Passionate developer from Indonesia</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Passionate+Developer;Fesnuk+Doomscroller;Lifelong+Learner;Caffeine+Sucker" alt="Typing SVG" />
