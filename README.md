@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/19/9a/7a199a72-16ba-4416-896d-110d14c8172c/067003072465.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/66/4e/b5/664eb519-7163-512c-78a8-b22bf6b166dd/075679859211.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Where's My Love - Acoustic</strong><br/>
-      SYML
+      <strong>Are You Bored Yet? (feat. Clairo)</strong><br/>
+      Wallows, Clairo
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.217,879</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 29 Mei 2026, 11.47 WIB</sub>
+      <sub>updated 29 Mei 2026, 12.34 WIB</sub>
     </td>
   </tr>
 </table>
