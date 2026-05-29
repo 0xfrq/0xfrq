@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/98/f3/f898f3aa-c34b-2bfa-c4f6-eba6b4262d73/52513.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/21/2b/f4/212bf4a3-f1dc-36b6-5ee3-7d7c7eab7b73/634457012950.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Flower Moon</strong><br/>
-      Durand Jones & The Indications, Aaron Frazer
+      <strong>Can I Call You Rose?</strong><br/>
+      Thee Sacred Souls
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 04.02 WIB</sub>
+      <sub>updated 30 Mei 2026, 04.07 WIB</sub>
     </td>
   </tr>
 </table>
