@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/bd/e9/4cbde921-bd71-377f-f513-c37e923f88fd/artwork.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/7b/8e/db7b8e26-c198-903e-671e-e6b56859db5b/43396499461.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Goddess</strong><br/>
-      Laufey
+      <strong>Mystery Of Love - Demo</strong><br/>
+      Sufjan Stevens
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 00.29 WIB</sub>
+      <sub>updated 30 Mei 2026, 00.33 WIB</sub>
     </td>
   </tr>
 </table>
