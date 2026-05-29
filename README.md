@@ -10,32 +10,22 @@
 ### Now Playing
 
 <!-- NOW_PLAYING_START -->
-<a href="https://music.apple.com/us/music-video/imagine/1446738292?uo=4" target="_blank" rel="noopener">
-  <img
-    src="https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/30/88/d7/3088d711-0ba3-e6db-40c7-bb478a1fec22/dj.ocnhbuif.jpg/600x600bb.jpg"
-    width="480"
-    alt="▶ Watch Imagine - Remastered 2010 — John Lennon on Apple Music"
-    style="border-radius:12px"
-  />
-</a>
-<br/><sub>▶ Watch on Apple Music</sub>
-
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/e3/b0/21e3b048-c917-92c4-bd7d-ace44797b388/13UABIM52808.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/b2/fa/1db2fa7b-236e-ad08-4635-62be9b89e44f/15UMGIM00469.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Imagine - Remastered 2010</strong><br/>
-      John Lennon
+      <strong>Mary Jane (All Night Long)</strong><br/>
+      Mary J. Blige
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.865</strong><br/>
-      <sub>updated 30 Mei 2026, 02.30 WIB</sub>
+      <sub>updated 30 Mei 2026, 02.36 WIB</sub>
     </td>
   </tr>
 </table>
