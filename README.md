@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/b9/78/90b9782a-0693-bc3f-8b03-cb9a13f47e56/196626257369.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/68/17/bb68173c-1dab-77e4-9f37-67cf8454b775/26UMGIM43827.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>What You Won't Do for Love</strong><br/>
-      Bobby Caldwell
+      <strong>Linger - Remastered 2026</strong><br/>
+      The Cranberries
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 03.01 WIB</sub>
+      <sub>updated 30 Mei 2026, 03.02 WIB</sub>
     </td>
   </tr>
 </table>
