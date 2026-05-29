@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/63/51/726351e7-2016-48f3-07f8-0891c9eb5e53/075679624161.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/92/16/3c921695-7d3b-718d-6a83-1c6084731264/21UMGIM71014.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>No One Noticed (Extended English)</strong><br/>
-      The Marías
+      <strong>As the World Caves In</strong><br/>
+      Sarah Cothran
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.177,995</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.182,137</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.879</strong><br/>
-      <sub>updated 29 Mei 2026, 15.33 WIB</sub>
+      <sub>updated 29 Mei 2026, 15.34 WIB</sub>
     </td>
   </tr>
 </table>
