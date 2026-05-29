@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/07/7a/2f/077a2f8e-d348-34be-fd5f-f7b655e1dc7c/603497872893.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/98/f3/f898f3aa-c34b-2bfa-c4f6-eba6b4262d73/52513.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Everywhere - 2017 Remaster</strong><br/>
-      Fleetwood Mac
+      <strong>Flower Moon</strong><br/>
+      Durand Jones & The Indications, Aaron Frazer
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 03.58 WIB</sub>
+      <sub>updated 30 Mei 2026, 04.02 WIB</sub>
     </td>
   </tr>
 </table>
