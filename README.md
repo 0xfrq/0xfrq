@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/be/2d/29/be2d2903-5daf-076a-3023-af3ba3c5dcba/8720996300077.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/68/4c/37684c52-dbdf-9bfe-0d87-07492f43dc4c/dj.gmcbwich.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Nothing's New</strong><br/>
-      Rio Romeo
+      <strong>Vienna</strong><br/>
+      Billy Joel
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.180,353</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.177,977</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.879</strong><br/>
-      <sub>updated 29 Mei 2026, 15.48 WIB</sub>
+      <sub>updated 29 Mei 2026, 15.52 WIB</sub>
     </td>
   </tr>
 </table>
