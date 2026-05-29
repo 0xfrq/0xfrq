@@ -32,7 +32,31 @@ async function getAlbumCover(song, artist) {
     if (!result) return null
     return result.artworkUrl100.replace('100x100bb', '600x600bb')
   } catch (e) {
-    console.error('iTunes error:', e.message)
+    console.error('iTunes cover error:', e.message)
+    return null
+  }
+}
+
+async function getMusicVideo(song, artist) {
+  try {
+    const query = encodeURIComponent(`${song} ${artist}`)
+    const data = await fetchJson(
+      `https://itunes.apple.com/search?term=${query}&entity=musicVideo&limit=5`
+    )
+    // Prefer a result where the track name roughly matches the song
+    const results = data?.results ?? []
+    const match =
+      results.find(r =>
+        r.kind === 'music-video' &&
+        r.trackName?.toLowerCase().includes(song.toLowerCase())
+      ) ?? results.find(r => r.kind === 'music-video')
+    if (!match) return null
+    return {
+      url: match.trackViewUrl,
+      thumbnail: match.artworkUrl100?.replace('100x100bb', '600x600bb') ?? null,
+    }
+  } catch (e) {
+    console.error('iTunes video error:', e.message)
     return null
   }
 }
@@ -71,26 +95,39 @@ async function main() {
   const song = data.song_name || 'Unknown Song'
   const artist = data.artist_name || 'Unknown Artist'
 
-  const coverUrl = await getAlbumCover(song, artist)
+  const [coverUrl, musicVideo] = await Promise.all([
+    getAlbumCover(song, artist),
+    getMusicVideo(song, artist),
+  ])
+
+  // ── Music video block (placed before the table) ──────────────────────────
+  const videoBlock = musicVideo
+    ? `<a href="${musicVideo.url}" target="_blank" rel="noopener">
+  <img
+    src="${musicVideo.thumbnail ?? 'https://via.placeholder.com/480x270?text=▶+Music+Video'}"
+    width="480"
+    alt="▶ Watch ${song} — ${artist} on Apple Music"
+    style="border-radius:12px"
+  />
+</a>
+<br/><sub>▶ Watch on Apple Music</sub>`
+    : ''
+
+  // ── Now-playing table ─────────────────────────────────────────────────────
   const coverImg = coverUrl
     ? `<img src="${coverUrl}" width="130" height="130" style="border-radius:10px" align="center" />`
     : `<img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />`
 
-const ihsgStr = ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'
-const usdIdrStr = usdIdr ? `Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : 'N/A'
+  const ihsgStr  = ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'
+  const usdIdrStr = usdIdr   ? `Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : 'N/A'
+  const updatedAt = new Date().toLocaleString('id-ID', {
+    timeZone: 'Asia/Jakarta',
+    day: '2-digit', month: 'short', year: 'numeric',
+    hour: '2-digit', minute: '2-digit', hour12: false,
+  }) + ' WIB'
 
-const updatedAt = new Date().toLocaleString('id-ID', {
-  timeZone: 'Asia/Jakarta',
-  day: '2-digit',
-  month: 'short',
-  year: 'numeric',
-  hour: '2-digit',
-  minute: '2-digit',
-  hour12: false
-}) + ' WIB'
-
-const nowPlayingBlock = `<!-- NOW_PLAYING_START -->
-<table>
+  const nowPlayingBlock = `<!-- NOW_PLAYING_START -->
+${videoBlock ? videoBlock + '\n\n' : ''}<table>
   <tr>
     <td width="150" valign="middle">
       ${coverImg}
@@ -111,15 +148,17 @@ const nowPlayingBlock = `<!-- NOW_PLAYING_START -->
 </table>
 <!-- NOW_PLAYING_END -->`
 
-
   const readme = fs.readFileSync('README.md', 'utf8')
   const updatedReadme = readme.replace(
     /<!-- NOW_PLAYING_START -->[\s\S]*?<!-- NOW_PLAYING_END -->/,
     nowPlayingBlock
   )
-
   fs.writeFileSync('README.md', updatedReadme)
-  console.log(`README updated: ${song} — ${artist} | Cover: ${coverUrl ? 'yes' : 'no'} | IHSG: ${ihsgPrice} | USD/IDR: ${usdIdr}`)
+
+  console.log(
+    `README updated: ${song} — ${artist} | Cover: ${coverUrl ? 'yes' : 'no'} | ` +
+    `Video: ${musicVideo ? musicVideo.url : 'none'} | IHSG: ${ihsgPrice} | USD/IDR: ${usdIdr}`
+  )
 }
 
 main()
