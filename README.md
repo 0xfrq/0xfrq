@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8b/8b/20/8b8b2083-c8a3-a1a6-1f9e-a4da5bf45d5d/197188679637.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/46/db/da46dbff-71cb-e4b3-2b0b-8c8d4b51e16d/825646937097.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>From The Start</strong><br/>
-      Laufey
+      <strong>Heaven Knows I'm Miserable Now - 2011 Remaster</strong><br/>
+      The Smiths
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 03.17 WIB</sub>
+      <sub>updated 30 Mei 2026, 03.20 WIB</sub>
     </td>
   </tr>
 </table>
