@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a4/e7/5e/a4e75e8c-2875-4576-12d8-ac8d2f865815/5056167175841_1.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/d0/1c/c3d01c88-73e7-187e-fd62-e1744de979a6/21UMGIM09915.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Falling Behind</strong><br/>
-      Laufey
+      <strong>You Belong With Me (Taylor’s Version)</strong><br/>
+      Taylor Swift
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 00.51 WIB</sub>
+      <sub>updated 30 Mei 2026, 00.57 WIB</sub>
     </td>
   </tr>
 </table>
