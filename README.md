@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8c/5c/b5/8c5cb579-818d-b7cd-cb9f-f16fb72427d5/191404094266.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e6/d6/ed/e6d6eda8-501c-4e26-6973-ba50ac5a4878/817949013172.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Chasing Pavements</strong><br/>
-      Adele
+      <strong>For the First Time</strong><br/>
+      Mac DeMarco
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 04.14 WIB</sub>
+      <sub>updated 30 Mei 2026, 04.17 WIB</sub>
     </td>
   </tr>
 </table>
