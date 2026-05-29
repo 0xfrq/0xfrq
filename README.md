@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7f/2c/c3/7f2cc3b2-b060-b229-8a2b-aae16d99d3e7/mzi.sqhgedhc.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/de/70/b9/de70b9ff-683b-5300-5618-36fb536f430b/00602567822332.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Making Love Out of Nothing at All</strong><br/>
-      Air Supply
+      <strong>Love Me For What I Am</strong><br/>
+      Carpenters
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 01.15 WIB</sub>
+      <sub>updated 30 Mei 2026, 01.21 WIB</sub>
     </td>
   </tr>
 </table>
