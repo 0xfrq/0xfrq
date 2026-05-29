@@ -127,7 +127,7 @@ async function main() {
   }) + ' WIB'
 
   const nowPlayingBlock = `<!-- NOW_PLAYING_START -->
-${videoBlock ? videoBlock + '\n\n' : ''}<table>
+<table>
   <tr>
     <td width="150" valign="middle">
       ${coverImg}
