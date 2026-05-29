@@ -10,22 +10,32 @@
 ### Now Playing
 
 <!-- NOW_PLAYING_START -->
+<a href="https://music.apple.com/us/music-video/imagine/1446738292?uo=4" target="_blank" rel="noopener">
+  <img
+    src="https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/30/88/d7/3088d711-0ba3-e6db-40c7-bb478a1fec22/dj.ocnhbuif.jpg/600x600bb.jpg"
+    width="480"
+    alt="▶ Watch Imagine - Remastered 2010 — John Lennon on Apple Music"
+    style="border-radius:12px"
+  />
+</a>
+<br/><sub>▶ Watch on Apple Music</sub>
+
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/bf/ee/2ebfee47-f66b-4655-1588-59945e833a81/13UACIM74891.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/e3/b0/21e3b048-c917-92c4-bd7d-ace44797b388/13UABIM52808.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Lovin' You</strong><br/>
-      Minnie Riperton
+      <strong>Imagine - Remastered 2010</strong><br/>
+      John Lennon
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.865</strong><br/>
-      <sub>updated 30 Mei 2026, 02.28 WIB</sub>
+      <sub>updated 30 Mei 2026, 02.30 WIB</sub>
     </td>
   </tr>
 </table>
