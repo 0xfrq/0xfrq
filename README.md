@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/65/cb/fb65cb0f-4260-d740-d6f5-bb80c9c27c1b/23UMGIM84225.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/05/df/85/05df8555-eebc-a7cf-6dc7-12ce5ea45ac3/724353793456.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Picture You</strong><br/>
-      Chappell Roan
+      <strong>That's Why You Go Away</strong><br/>
+      Michael Learns To Rock
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
