@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d8/ec/4f/d8ec4f92-0691-9151-1738-9fbe2e19a270/886445144888.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/bf/86/ba/mzi.rpgkclds.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Let's Stay Together</strong><br/>
-      Al Green
+      <strong>Sure Thing</strong><br/>
+      Miguel
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 03.36 WIB</sub>
+      <sub>updated 30 Mei 2026, 03.39 WIB</sub>
     </td>
   </tr>
 </table>
