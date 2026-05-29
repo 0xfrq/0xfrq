@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>So Easy (To Fall In Love)</strong><br/>
-      Olivia Dean
+      <strong>L’AMOUR DE MA VIE</strong><br/>
+      Billie Eilish
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 01.01 WIB</sub>
+      <sub>updated 30 Mei 2026, 01.04 WIB</sub>
     </td>
   </tr>
 </table>
