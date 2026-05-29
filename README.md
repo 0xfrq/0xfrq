@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/c2/ab/66c2aba5-00f5-57a4-ad89-3e755f39a49d/075679631305.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/c0/20/d3c02098-76d0-e40f-0217-157620f9a6d8/23UM1IM32723.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Love Me Not (feat. Rex Orange County)</strong><br/>
-      Ravyn Lenae, Rex Orange County
+      <strong>cindy lou who</strong><br/>
+      Sabrina Carpenter
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 01.07 WIB</sub>
+      <sub>updated 30 Mei 2026, 01.09 WIB</sub>
     </td>
   </tr>
 </table>
