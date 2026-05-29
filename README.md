@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/21/2b/f4/212bf4a3-f1dc-36b6-5ee3-7d7c7eab7b73/634457012950.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/cd/24/d9cd2461-82dc-9f9f-6ed3-86bb75d110b9/13UABIM50290.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Can I Call You Rose?</strong><br/>
-      Thee Sacred Souls
+      <strong>Put Your Records On</strong><br/>
+      Corinne Bailey Rae
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 04.07 WIB</sub>
+      <sub>updated 30 Mei 2026, 04.10 WIB</sub>
     </td>
   </tr>
 </table>
