@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/3b/b1/253bb1a0-2ce8-a9ef-c5f9-771c45426d1f/825646416097.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/74/c1/73/74c17380-b75d-4d74-31d8-99f8e8b20c36/17UM1IM27905.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>True - 2003 Remaster</strong><br/>
-      Spandau Ballet
+      <strong>More Than A Woman - From "Saturday Night Fever" Soundtrack</strong><br/>
+      Bee Gees
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
