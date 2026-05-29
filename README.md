@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cd/6c/11/cd6c11b3-6300-0a29-d211-855847ed2c8c/00602547505040.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/78/15/70/78157041-4b16-c3ed-19cc-5710f3056c51/mzi.iuralwri.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Back To Black</strong><br/>
-      Amy Winehouse
+      <strong>Smooth Operator - Single Version</strong><br/>
+      Sade
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.865</strong><br/>
-      <sub>updated 30 Mei 2026, 01.43 WIB</sub>
+      <sub>updated 30 Mei 2026, 01.44 WIB</sub>
     </td>
   </tr>
 </table>
