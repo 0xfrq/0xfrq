@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/6b/92/0f6b92f7-52e1-67e4-6a7b-7196ef793cdc/080688551261.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/cb/9d/32cb9d04-ef0f-93bb-fd2f-19b395785025/075679956187.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Kiss Me</strong><br/>
-      Sixpence None The Richer
+      <strong>Ain't It Fun</strong><br/>
+      Paramore
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 00.11 WIB</sub>
+      <sub>updated 30 Mei 2026, 00.14 WIB</sub>
     </td>
   </tr>
 </table>
