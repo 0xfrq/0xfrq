@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/b2/fa/1db2fa7b-236e-ad08-4635-62be9b89e44f/15UMGIM00469.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/3b/b1/253bb1a0-2ce8-a9ef-c5f9-771c45426d1f/825646416097.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Mary Jane (All Night Long)</strong><br/>
-      Mary J. Blige
+      <strong>True - 2003 Remaster</strong><br/>
+      Spandau Ballet
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.865</strong><br/>
-      <sub>updated 30 Mei 2026, 02.36 WIB</sub>
+      <sub>updated 30 Mei 2026, 02.37 WIB</sub>
     </td>
   </tr>
 </table>
