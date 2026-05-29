@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e6/6f/17/e66f179c-599d-c7fd-fafe-bc792e2b5993/075679897121.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>L’AMOUR DE MA VIE</strong><br/>
-      Billie Eilish
+      <strong>Hard Times</strong><br/>
+      Paramore
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
