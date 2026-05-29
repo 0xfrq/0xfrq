@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/de/6c/1fde6cb4-9703-c214-cdc6-8ecf7d0f0aa0/197189040030.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/18/32/0a18328a-eb6a-2930-76c3-31103981ab20/859731534205.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Letter To My 13 Year Old Self</strong><br/>
-      Laufey
+      <strong>Escapism (feat. AJ Michalka, Zach Callison & Grace Rolek)</strong><br/>
+      Steven Universe, AJ Michalka, Grace Rolek, Zach Callison
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 00.39 WIB</sub>
+      <sub>updated 30 Mei 2026, 00.44 WIB</sub>
     </td>
   </tr>
 </table>
