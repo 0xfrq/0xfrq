@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/ed/8c/02ed8cab-c089-2fdd-7ce6-ab334a9a4e19/21UMGIM26093.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/f3/c9/2df3c9fd-e0eb-257c-c035-b04f05a66580/21UMGIM36691.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>deja vu</strong><br/>
-      Olivia Rodrigo
+      <strong>Halley's Comet</strong><br/>
+      Billie Eilish
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.197,161</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.187,902</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.879</strong><br/>
-      <sub>updated 29 Mei 2026, 15.18 WIB</sub>
+      <sub>updated 29 Mei 2026, 15.21 WIB</sub>
     </td>
   </tr>
 </table>
