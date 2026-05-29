@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ce/d2/69ced240-07a7-2a04-bbab-2afbacf30809/074643772822.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/45/9a/24/459a24aa-0c31-0129-fa8d-44b03a04df62/dj.zcfxujdv.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Africa</strong><br/>
-      TOTO
+      <strong>Thank You</strong><br/>
+      Dido
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
