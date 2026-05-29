@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a6/af/81/a6af812d-9bc0-d991-707c-9fe83ad10564/081227409029.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m12/d26/h21/s06.ngozlllk.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Hard to Say I'm Sorry</strong><br/>
-      Chicago
+      <strong>If Ever You're in My Arms Again</strong><br/>
+      Peabo Bryson
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
