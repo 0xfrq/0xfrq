@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/08/40/1f/08401f6f-f56c-21cc-a1a0-7df3e2504fee/dewa_Laskar_cinta.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cd/6c/11/cd6c11b3-6300-0a29-d211-855847ed2c8c/00602547505040.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Satu</strong><br/>
-      Dewa
+      <strong>Back To Black</strong><br/>
+      Amy Winehouse
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.865</strong><br/>
-      <sub>updated 30 Mei 2026, 01.42 WIB</sub>
+      <sub>updated 30 Mei 2026, 01.43 WIB</sub>
     </td>
   </tr>
 </table>
