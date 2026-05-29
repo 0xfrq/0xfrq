@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/de/70/b9/de70b9ff-683b-5300-5618-36fb536f430b/00602567822332.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a6/af/81/a6af812d-9bc0-d991-707c-9fe83ad10564/081227409029.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Love Me For What I Am</strong><br/>
-      Carpenters
+      <strong>Hard to Say I'm Sorry</strong><br/>
+      Chicago
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 30 Mei 2026, 01.21 WIB</sub>
+      <sub>updated 30 Mei 2026, 01.22 WIB</sub>
     </td>
   </tr>
 </table>
