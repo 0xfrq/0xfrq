@@ -10,32 +10,22 @@
 ### Now Playing
 
 <!-- NOW_PLAYING_START -->
-<a href="https://music.apple.com/us/music-video/get-lucky-live/1055826791?uo=4" target="_blank" rel="noopener">
-  <img
-    src="https://is1-ssl.mzstatic.com/image/thumb/Video2/v4/1a/6f/6e/1a6f6e1d-975f-0d3d-89b6-8b4789645b7a/8864455700690103VIC.jpg/600x600bb.jpg"
-    width="480"
-    alt="▶ Watch Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers] — Daft Punk, Pharrell Williams, Nile Rodgers on Apple Music"
-    style="border-radius:12px"
-  />
-</a>
-<br/><sub>▶ Watch on Apple Music</sub>
-
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/43/5f/e8435ffa-b6b9-b171-40ab-4ff3959ab661/886443919266.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/37/1a/3a371a7e-33fe-85db-0616-0c57ef26fb42/13UAEIM06265.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]</strong><br/>
-      Daft Punk, Pharrell Williams, Nile Rodgers
+      <strong>Somethin' Stupid</strong><br/>
+      Frank Sinatra, Nancy Sinatra
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.865</strong><br/>
-      <sub>updated 30 Mei 2026, 02.23 WIB</sub>
+      <sub>updated 30 Mei 2026, 02.24 WIB</sub>
     </td>
   </tr>
 </table>
