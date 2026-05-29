@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/8f/b9/f18fb977-e326-dbc9-1416-69bb3a754d0c/5056167126287_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>My Way - Frank Sinatra (Epic Version)</strong><br/>
-      MrOriginals
+      <strong>Break My Heart Again</strong><br/>
+      FINNEAS
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.203,673</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.200,113</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.879</strong><br/>
-      <sub>updated 29 Mei 2026, 14.58 WIB</sub>
+      <sub>updated 29 Mei 2026, 15.02 WIB</sub>
     </td>
   </tr>
 </table>
