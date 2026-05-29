@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/de/70/ae/de70ae46-fdc3-6c8f-142c-6f3df6561860/20UMGIM07683.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Strange</strong><br/>
-      Celeste
+      <strong>My Way - Frank Sinatra (Epic Version)</strong><br/>
+      MrOriginals
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.202,811</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.202,694</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.879</strong><br/>
-      <sub>updated 29 Mei 2026, 14.48 WIB</sub>
+      <sub>updated 29 Mei 2026, 14.52 WIB</sub>
     </td>
   </tr>
 </table>
