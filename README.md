@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/68/4c/37684c52-dbdf-9bfe-0d87-07492f43dc4c/dj.gmcbwich.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/42/48/29/424829a6-42fe-77e7-770e-a760f54ec3de/dj.qnyuzqoy.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Vienna</strong><br/>
-      Billy Joel
+      <strong>The Only Exception</strong><br/>
+      Paramore
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.177,977</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.176,388</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.879</strong><br/>
-      <sub>updated 29 Mei 2026, 15.52 WIB</sub>
+      <sub>updated 29 Mei 2026, 15.56 WIB</sub>
     </td>
   </tr>
 </table>
