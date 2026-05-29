@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/7f/69/587f69ed-0c73-4138-0b3a-7e595799b80b/23UMGIM09976.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/cb/c7/84cbc7b4-0b88-038a-87c8-3fa6f5df09cd/199350437694.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Is It The Answer</strong><br/>
-      Reality Club
+      <strong>Lover Girl</strong><br/>
+      Laufey
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.217,879</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 29 Mei 2026, 12.46 WIB</sub>
+      <sub>updated 29 Mei 2026, 12.50 WIB</sub>
     </td>
   </tr>
 </table>
