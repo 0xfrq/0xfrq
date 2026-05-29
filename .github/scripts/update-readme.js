@@ -43,6 +43,7 @@ async function getMusicVideo(song, artist) {
     const data = await fetchJson(
       `https://itunes.apple.com/search?term=${query}&entity=musicVideo&limit=5`
     )
+    // Prefer a result where the track name roughly matches the song
     const results = data?.results ?? []
     const match =
       results.find(r =>
@@ -53,7 +54,6 @@ async function getMusicVideo(song, artist) {
     return {
       url: match.trackViewUrl,
       thumbnail: match.artworkUrl100?.replace('100x100bb', '600x600bb') ?? null,
-      previewUrl: match.previewUrl ?? null,
     }
   } catch (e) {
     console.error('iTunes video error:', e.message)
@@ -100,16 +100,17 @@ async function main() {
     getMusicVideo(song, artist),
   ])
 
-  // ── Music video block ─────────────────────────────────────────────────────
-  const videoBlock = musicVideo?.previewUrl
-    ? `<video
-  src="${musicVideo.previewUrl}"
-  poster="${musicVideo.thumbnail ?? ''}"
-  width="480"
-  controls
-  style="border-radius:12px"
->
-</video>`
+  // ── Music video block (placed before the table) ──────────────────────────
+  const videoBlock = musicVideo
+    ? `<a href="${musicVideo.url}" target="_blank" rel="noopener">
+  <img
+    src="${musicVideo.thumbnail ?? 'https://via.placeholder.com/480x270?text=▶+Music+Video'}"
+    width="480"
+    alt="▶ Watch ${song} — ${artist} on Apple Music"
+    style="border-radius:12px"
+  />
+</a>
+<br/><sub>▶ Watch on Apple Music</sub>`
     : ''
 
   // ── Now-playing table ─────────────────────────────────────────────────────
@@ -117,8 +118,8 @@ async function main() {
     ? `<img src="${coverUrl}" width="130" height="130" style="border-radius:10px" align="center" />`
     : `<img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />`
 
-  const ihsgStr   = ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'
-  const usdIdrStr = usdIdr    ? `Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : 'N/A'
+  const ihsgStr  = ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'
+  const usdIdrStr = usdIdr   ? `Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : 'N/A'
   const updatedAt = new Date().toLocaleString('id-ID', {
     timeZone: 'Asia/Jakarta',
     day: '2-digit', month: 'short', year: 'numeric',
@@ -156,7 +157,7 @@ ${videoBlock ? videoBlock + '\n\n' : ''}<table>
 
   console.log(
     `README updated: ${song} — ${artist} | Cover: ${coverUrl ? 'yes' : 'no'} | ` +
-    `Video: ${musicVideo?.previewUrl ?? 'none'} | IHSG: ${ihsgPrice} | USD/IDR: ${usdIdr}`
+    `Video: ${musicVideo ? musicVideo.url : 'none'} | IHSG: ${ihsgPrice} | USD/IDR: ${usdIdr}`
   )
 }
 
