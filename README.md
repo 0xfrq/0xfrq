@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/3c/63/c03c63b9-9546-b6a0-e781-8d56aa3f69fc/190296882784.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/17/40/4b/17404beb-4fb3-1f9c-17cd-8907764055bb/190296727375.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>History</strong><br/>
-      88rising, Rich Brian
+      <strong>California (feat. Warren Hue)</strong><br/>
+      88rising, Rich Brian, NIKI, Warren Hue
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 11.52 WIB</sub>
+      <sub>updated 31 Mei 2026, 11.55 WIB</sub>
     </td>
   </tr>
 </table>
