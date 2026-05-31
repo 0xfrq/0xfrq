@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/e2/51/81e25101-b6c1-ec65-843b-06469cf2e01e/321336.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/98/83/ed98836b-ad56-53e3-dea8-657886598538/8991696219857.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>TABOLA BALE</strong><br/>
-      Silet Open Up, Jacson Seran, Juan Reza, Diva Aurel
+      <strong>Orang Baru Lebe Gacor</strong><br/>
+      Ecko Show, Juan Reza, Chesylino
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
