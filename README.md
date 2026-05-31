@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/37/32/41/373241fc-8cb0-6171-8437-aa41a7897104/8712944581102.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3c/2a/60/3c2a6061-ee77-2af7-f0a9-f487637e033f/810762032665_cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Narco</strong><br/>
-      Blasterjaxx, Timmy Trumpet
+      <strong>2 The Floor</strong><br/>
+      UNIIQU3, Ase Manual
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 11.29 WIB</sub>
+      <sub>updated 31 Mei 2026, 11.35 WIB</sub>
     </td>
   </tr>
 </table>
