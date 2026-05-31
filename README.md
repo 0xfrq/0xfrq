@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/41/f4/f341f483-9864-9933-d9aa-e51f7024c73f/5054526651784_1.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/f6/5e/5ef65e7e-e168-a9f2-87b3-d30d1a6adcf3/190295631376.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Easily</strong><br/>
-      Bruno Major
+      <strong>Day 1 ◑</strong><br/>
+      HONNE
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 11.59 WIB</sub>
+      <sub>updated 31 Mei 2026, 12.00 WIB</sub>
     </td>
   </tr>
 </table>
