@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/f6/9a/8bf69a9e-8692-f58f-c6f4-ee803afa499a/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/ce/30/c6ce30d6-74f4-3a20-d4bf-d05117399533/196874344767.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Semua Orang Pernah Sakit Hati</strong><br/>
+      <strong>Melompat Lebih Tinggi</strong><br/>
       Lomba Sihir
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 12.33 WIB</sub>
+      <sub>updated 31 Mei 2026, 12.37 WIB</sub>
     </td>
   </tr>
 </table>
