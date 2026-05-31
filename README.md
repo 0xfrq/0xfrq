@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ba/b0/b2/bab0b2cb-bbab-cf75-d289-36a9686ecbb8/23UM1IM46531.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Selamanya</strong><br/>
-      Lomba Sihir
+      <strong>YOUNG LEX - GGS Ft.Skinny Indonesian 24, Reza Oktovian, Kemal Palevi, Dycal (Official M/V)</strong><br/>
+      Young Lex
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 12.28 WIB</sub>
+      <sub>updated 31 Mei 2026, 12.31 WIB</sub>
     </td>
   </tr>
 </table>
