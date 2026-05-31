@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/ca/26/b9ca266d-2fd6-bc7f-3ee6-6934b07bc1a1/23UM1IM64708.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Berita Kehilangan</strong><br/>
-      .Feast, Rayssa Dynta
+      <strong>Ribuan Memori</strong><br/>
+      Lomba Sihir
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 12.25 WIB</sub>
+      <sub>updated 31 Mei 2026, 12.27 WIB</sub>
     </td>
   </tr>
 </table>
