@@ -9,7 +9,7 @@
 
 ### Now Playing
 
-<!-- NOW_PLAYING_START -->
+<!-- NOW_PLAYING_STARTS -->
 <table>
   <tr>
     <td width="150" valign="middle">
