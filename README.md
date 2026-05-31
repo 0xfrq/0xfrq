@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/57/0a/3c570a1e-a983-b14b-5f66-a15bf36a5a7c/24UMGIM37488.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/f8/d2/57f8d295-5ea9-f7b2-70ff-9494ce50fc5c/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Kini Mereka Tahu</strong><br/>
-      Bernadya
+      <strong>semua lagu cinta terdengar sama</strong><br/>
+      Hindia
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
