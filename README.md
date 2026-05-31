@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/23/ad/bb23ad13-8306-c247-21a4-eda5e6531f64/199538492934.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Puting Beliung</strong><br/>
-      Tenxi, Josua Natanael, Jemsii, dia
+      <strong>hoRRReg</strong><br/>
+      Tenxi, Naufal Syachreza, Jemsii
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 11.07 WIB</sub>
+      <sub>updated 31 Mei 2026, 11.10 WIB</sub>
     </td>
   </tr>
 </table>
