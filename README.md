@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/96/0d/85/960d8540-8160-ccb8-95fa-1cb02cad46aa/6420565323606.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/7b/ed/417bed1c-09d2-39a8-2fee-3199f49a9da2/199538982213.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>O-Zone - Dragostea Din Tei [Official Video]</strong><br/>
-      Time Records
+      <strong>skip dulu ah</strong><br/>
+      Naykilla, RYO
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 11.13 WIB</sub>
+      <sub>updated 31 Mei 2026, 11.16 WIB</sub>
     </td>
   </tr>
 </table>
