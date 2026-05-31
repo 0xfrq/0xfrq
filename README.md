@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/f0/45/82f045ce-9806-85aa-ed55-512b6d3065cc/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/f6/9a/8bf69a9e-8692-f58f-c6f4-ee803afa499a/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Tarian Penghancur Raya</strong><br/>
-      .Feast
+      <strong>Semua Orang Pernah Sakit Hati</strong><br/>
+      Lomba Sihir
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
