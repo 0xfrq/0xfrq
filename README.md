@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d9/2b/d9d92b23-b640-4e78-f635-ce3adb37ee8a/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/70/11/0e701150-3cd4-72af-825d-315555ca7fc5/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Bercinta Lewat Kata - From "Jatuh Cinta Seperti di Film-Film"</strong><br/>
-      Donne Maula
+      <strong>Nirrrlaba</strong><br/>
+      Lomba Sihir
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
