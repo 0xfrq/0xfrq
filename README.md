@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/a3/02/ff/a302ff77-0ecf-7f52-0a06-0655f0766bcd/67442_DISCO_DANGDUT_PASTI_LETUP_V2.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/33/12/df/3312dfbf-2cd2-e149-1ccb-9688e2a60980/00731454913720.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Poco Poco</strong><br/>
-      Yopie Latul
+      <strong>I Will Survive</strong><br/>
+      Gloria Gaynor
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 12.51 WIB</sub>
+      <sub>updated 31 Mei 2026, 12.54 WIB</sub>
     </td>
   </tr>
 </table>
