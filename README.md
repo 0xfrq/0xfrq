@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/f0/45/82f045ce-9806-85aa-ed55-512b6d3065cc/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>YOUNG LEX - GGS Ft.Skinny Indonesian 24, Reza Oktovian, Kemal Palevi, Dycal (Official M/V)</strong><br/>
-      Young Lex
+      <strong>Tarian Penghancur Raya</strong><br/>
+      .Feast
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 12.31 WIB</sub>
+      <sub>updated 31 Mei 2026, 12.32 WIB</sub>
     </td>
   </tr>
 </table>
