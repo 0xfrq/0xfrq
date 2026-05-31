@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/ca/26/b9ca266d-2fd6-bc7f-3ee6-6934b07bc1a1/23UM1IM64708.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d9/2b/d9d92b23-b640-4e78-f635-ce3adb37ee8a/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Ribuan Memori</strong><br/>
-      Lomba Sihir
+      <strong>Bercinta Lewat Kata - From "Jatuh Cinta Seperti di Film-Film"</strong><br/>
+      Donne Maula
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 12.24 WIB</sub>
+      <sub>updated 31 Mei 2026, 12.25 WIB</sub>
     </td>
   </tr>
 </table>
