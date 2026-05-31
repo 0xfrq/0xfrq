@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/ec/ee/54/ecee543d-9176-c18a-320f-a367531f7bd5/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/e2/51/81e25101-b6c1-ec65-843b-06469cf2e01e/321336.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Gemu Fa Mi Re</strong><br/>
-      Nyong Franco
+      <strong>TABOLA BALE</strong><br/>
+      Silet Open Up, Jacson Seran, Juan Reza, Diva Aurel
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 12.41 WIB</sub>
+      <sub>updated 31 Mei 2026, 12.43 WIB</sub>
     </td>
   </tr>
 </table>
