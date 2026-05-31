@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/de/c4/81dec43d-4ec5-19b2-e5e6-85fcef875332/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/57/0a/3c570a1e-a983-b14b-5f66-a15bf36a5a7c/24UMGIM37488.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Sekali Lagi</strong><br/>
-      Ipang Lazuardi
+      <strong>Kini Mereka Tahu</strong><br/>
+      Bernadya
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 12.20 WIB</sub>
+      <sub>updated 31 Mei 2026, 12.24 WIB</sub>
     </td>
   </tr>
 </table>
