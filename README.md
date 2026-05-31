@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4d/9c/7b/4d9c7b0c-6b99-813d-8ea9-427ce2c810c0/190296868955.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/82/ae/ac82aea5-9ca1-3e53-d776-2be48f1ac397/198391608520.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Shouldn't Couldn't Wouldn't - Acoustic Version</strong><br/>
-      NIKI, 88rising
+      <strong>Take Care</strong><br/>
+      NIKI
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 12.05 WIB</sub>
+      <sub>updated 31 Mei 2026, 12.08 WIB</sub>
     </td>
   </tr>
 </table>
