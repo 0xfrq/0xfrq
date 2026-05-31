@@ -13,19 +13,19 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/0f/bb/dc0fbb02-3c68-ee46-632d-24e564d88771/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/6c/a5/696ca5d6-ba27-23bb-b4af-361dde107f8c/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Siapa yang akan Datang ke Pemakamanmu Nanti?</strong><br/>
-      Hindia
+      <strong>Dalam Hitungan</strong><br/>
+      .Feast
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.127,381</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 31 Mei 2026, 12.12 WIB</sub>
+      <sub>updated 31 Mei 2026, 12.16 WIB</sub>
     </td>
   </tr>
 </table>
