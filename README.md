@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td width="150" valign="middle">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/ce/30/c6ce30d6-74f4-3a20-d4bf-d05117399533/196874344767.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/0f/bb/dc0fbb02-3c68-ee46-632d-24e564d88771/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px" align="center" />
       <br clear="left"/>
     </td>
     <td valign="middle" width="260">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Melompat Lebih Tinggi</strong><br/>
-      Lomba Sihir
+      <strong>Nabi Palsu</strong><br/>
+      Hindia
     </td>
     <td align="right" valign="middle">
       <sup>MARKET</sup><br/>
