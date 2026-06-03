@@ -69,14 +69,32 @@ async function getCanvasGif(song, artist) {
       body: 'grant_type=client_credentials'
     });
     
-    if (!tokenRes.ok) return null;
-    const { access_token } = await tokenRes.json();
+    if (!tokenRes.ok) {
+      console.error("Spotify token failed:", tokenRes.status);
+      return null;
+    }
+    const tokenText = await tokenRes.text();
+    let tokenData;
+    try {
+      tokenData = JSON.parse(tokenText);
+    } catch (err) {
+      console.error("Token API invalid JSON:", tokenText.substring(0, 100));
+      return null;
+    }
+    const { access_token } = tokenData;
     
     const query = encodeURIComponent(`track:${song} artist:${artist}`);
     const searchRes = await fetch(`https://api.spotify.com/v1/search?q=${query}&type=track&limit=1`, {
       headers: { 'Authorization': `Bearer ${access_token}` }
     });
-    const searchData = await searchRes.json();
+    const searchText = await searchRes.text();
+    let searchData;
+    try {
+      searchData = JSON.parse(searchText);
+    } catch (err) {
+      console.error("Search API invalid JSON:", searchText.substring(0, 100));
+      return null;
+    }
     const trackId = searchData?.tracks?.items?.[0]?.id;
     
     if (!trackId) return null;
