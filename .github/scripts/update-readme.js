@@ -128,9 +128,7 @@ async function main() {
     : `<img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />`
 
   const canvasHtml = canvasUrl 
-    ? `<td width="120" valign="middle" align="center">
-         <img src="${canvasUrl}" width="100" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Canvas" />
-       </td>`
+    ? `\n    <td width="120" valign="middle" align="center">\n      <img src="${canvasUrl}" width="100" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Canvas" />\n    </td>`
     : ''
 
   const ihsgStr  = ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'
@@ -146,8 +144,7 @@ async function main() {
   <tr>
     <td width="150" valign="middle" align="center">
       ${coverImg}
-    </td>
-    ${canvasHtml}
+    </td>${canvasHtml}
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
       <strong>${song}</strong><br/>
