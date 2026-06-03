@@ -39,7 +39,8 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add README.md canvas.gif || true
+          git add README.md
+          if [ -f canvas.gif ]; then git add canvas.gif; fi
 
           git diff --cached --quiet || git commit -m "Update now playing"
 
