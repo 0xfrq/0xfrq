@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/eb/78/8aeb7828-1461-4b93-447f-eaefcaaa8b40/19UMGIM26633.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Clint Eastwood</strong><br/>
-      Gorillaz, Del The Funky Homosapien
+      <strong>This Is The Last Time</strong><br/>
+      Keane
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.941,066</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.943</strong><br/>
-      <sub>updated 03 Jun 2026, 19.02 WIB</sub>
+      <sub>updated 03 Jun 2026, 19.03 WIB</sub>
     </td>
   </tr>
 </table>
