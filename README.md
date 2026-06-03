@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/2d/c6/72/2dc6728e-fe24-c7b3-970c-a24d8af1e4b6/dj.tjxgsvhv.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8c/5c/b5/8c5cb579-818d-b7cd-cb9f-f16fb72427d5/191404094266.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Breakeven</strong><br/>
-      The Script
+      <strong>Chasing Pavements</strong><br/>
+      Adele
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.941,066</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.943</strong><br/>
-      <sub>updated 03 Jun 2026, 18.48 WIB</sub>
+      <sub>updated 03 Jun 2026, 18.51 WIB</sub>
     </td>
   </tr>
 </table>
