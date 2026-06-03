@@ -2,6 +2,7 @@ const fs = require('fs')
 const { createClient } = require('@supabase/supabase-js')
 const ws = require('ws')
 const https = require('https')
+const { execSync } = require('child_process')
 
 const supabase = createClient(
   process.env.SUPABASE_URL,
@@ -37,30 +38,6 @@ async function getAlbumCover(song, artist) {
   }
 }
 
-async function getMusicVideo(song, artist) {
-  try {
-    const query = encodeURIComponent(`${song} ${artist}`)
-    const data = await fetchJson(
-      `https://itunes.apple.com/search?term=${query}&entity=musicVideo&limit=5`
-    )
-    // Prefer a result where the track name roughly matches the song
-    const results = data?.results ?? []
-    const match =
-      results.find(r =>
-        r.kind === 'music-video' &&
-        r.trackName?.toLowerCase().includes(song.toLowerCase())
-      ) ?? results.find(r => r.kind === 'music-video')
-    if (!match) return null
-    return {
-      url: match.trackViewUrl,
-      thumbnail: match.artworkUrl100?.replace('100x100bb', '600x600bb') ?? null,
-    }
-  } catch (e) {
-    console.error('iTunes video error:', e.message)
-    return null
-  }
-}
-
 async function getMarketData() {
   try {
     const [ihsgData, usdIdrData] = await Promise.all([
@@ -73,6 +50,52 @@ async function getMarketData() {
   } catch (e) {
     console.error('Market data error:', e)
     return { ihsgPrice: null, usdIdr: null }
+  }
+}
+
+async function getCanvasGif(song, artist) {
+  if (!process.env.SPOTIFY_CLIENT_ID || !process.env.SPOTIFY_CLIENT_SECRET) {
+    console.warn("Spotify credentials not set. Skipping canvas.");
+    return null;
+  }
+  try {
+    const auth = Buffer.from(`${process.env.SPOTIFY_CLIENT_ID}:${process.env.SPOTIFY_CLIENT_SECRET}`).toString('base64');
+    const tokenRes = await fetch('https://accounts.spotify.com/api/token', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Basic ${auth}`,
+        'Content-Type': 'application/x-www-form-urlencoded'
+      },
+      body: 'grant_type=client_credentials'
+    });
+    
+    if (!tokenRes.ok) return null;
+    const { access_token } = await tokenRes.json();
+    
+    const query = encodeURIComponent(`track:${song} artist:${artist}`);
+    const searchRes = await fetch(`https://api.spotify.com/v1/search?q=${query}&type=track&limit=1`, {
+      headers: { 'Authorization': `Bearer ${access_token}` }
+    });
+    const searchData = await searchRes.json();
+    const trackId = searchData?.tracks?.items?.[0]?.id;
+    
+    if (!trackId) return null;
+    
+    const canvasRes = await fetch(`https://spo-canvas-nine.vercel.app/api/canvas?trackId=${trackId}`);
+    const canvasData = await canvasRes.json();
+    const mp4Url = canvasData?.canvasesList?.[0]?.canvasUrl;
+    
+    if (!mp4Url) return null;
+    
+    console.log('Downloading canvas MP4...');
+    execSync(`curl -sL "${mp4Url}" -o canvas.mp4`);
+    console.log('Converting to GIF with ffmpeg...');
+    execSync('ffmpeg -y -i canvas.mp4 -vf "fps=15,scale=150:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 canvas.gif');
+    
+    return `canvas.gif?v=${Date.now()}`;
+  } catch (e) {
+    console.error("Canvas error:", e.message);
+    return null;
   }
 }
 
@@ -95,28 +118,20 @@ async function main() {
   const song = data.song_name || 'Unknown Song'
   const artist = data.artist_name || 'Unknown Artist'
 
-  const [coverUrl, musicVideo] = await Promise.all([
+  const [coverUrl, canvasUrl] = await Promise.all([
     getAlbumCover(song, artist),
-    getMusicVideo(song, artist),
+    getCanvasGif(song, artist)
   ])
 
-  // ── Music video block (placed before the table) ──────────────────────────
-  const videoBlock = musicVideo
-    ? `<a href="${musicVideo.url}" target="_blank" rel="noopener">
-  <img
-    src="${musicVideo.thumbnail ?? 'https://via.placeholder.com/480x270?text=▶+Music+Video'}"
-    width="480"
-    alt="▶ Watch ${song} — ${artist} on Apple Music"
-    style="border-radius:12px"
-  />
-</a>
-<br/><sub>▶ Watch on Apple Music</sub>`
-    : ''
-
-  // ── Now-playing table ─────────────────────────────────────────────────────
   const coverImg = coverUrl
-    ? `<img src="${coverUrl}" width="130" height="130" style="border-radius:10px" align="center" />`
+    ? `<img src="${coverUrl}" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />`
     : `<img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />`
+
+  const canvasHtml = canvasUrl 
+    ? `<td width="120" valign="middle" align="center">
+         <img src="${canvasUrl}" width="100" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Canvas" />
+       </td>`
+    : ''
 
   const ihsgStr  = ihsgPrice ? ihsgPrice.toLocaleString('id-ID') : 'N/A'
   const usdIdrStr = usdIdr   ? `Rp ${Math.round(usdIdr).toLocaleString('id-ID')}` : 'N/A'
@@ -129,16 +144,16 @@ async function main() {
   const nowPlayingBlock = `<!-- NOW_PLAYING_START -->
 <table>
   <tr>
-    <td width="150" valign="middle">
+    <td width="150" valign="middle" align="center">
       ${coverImg}
-      <br clear="left"/>
     </td>
-    <td valign="middle" width="260">
+    ${canvasHtml}
+    <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
       <strong>${song}</strong><br/>
       ${artist}
     </td>
-    <td align="right" valign="middle">
+    <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>${ihsgStr}</strong><br/>
       USD/IDR &nbsp;<strong>${usdIdrStr}</strong><br/>
@@ -156,8 +171,7 @@ async function main() {
   fs.writeFileSync('README.md', updatedReadme)
 
   console.log(
-    `README updated: ${song} — ${artist} | Cover: ${coverUrl ? 'yes' : 'no'} | ` +
-    `Video: ${musicVideo ? musicVideo.url : 'none'} | IHSG: ${ihsgPrice} | USD/IDR: ${usdIdr}`
+    `README updated: ${song} — ${artist} | Cover: ${coverUrl ? 'yes' : 'no'} | Canvas: ${canvasUrl ? 'yes' : 'no'} | IHSG: ${ihsgPrice} | USD/IDR: ${usdIdr}`
   )
 }
 
