@@ -82,7 +82,16 @@ async function getCanvasGif(song, artist) {
     if (!trackId) return null;
     
     const canvasRes = await fetch(`https://spo-canvas-nine.vercel.app/api/canvas?trackId=${trackId}`);
-    const canvasData = await canvasRes.json();
+    const canvasText = await canvasRes.text();
+    
+    let canvasData;
+    try {
+      canvasData = JSON.parse(canvasText);
+    } catch(err) {
+      console.error("Canvas API returned invalid JSON:", canvasText.substring(0, 100));
+      return null;
+    }
+    
     const mp4Url = canvasData?.canvasesList?.[0]?.canvasUrl;
     
     if (!mp4Url) return null;
