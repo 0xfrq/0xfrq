@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/b4/2a/b9b42ad1-1e25-5096-da43-497a247e69a3/190295978051.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/cf/89/16/cf891622-f572-1b42-6bb9-0e973e063e35/TheFray_HowToSaveALife_G010000754032B_F_001_RGB.jpeg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>In My Place</strong><br/>
-      Coldplay
+      <strong>How to Save a Life</strong><br/>
+      The Fray
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.839,785</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.020</strong><br/>
-      <sub>updated 04 Jun 2026, 17.35 WIB</sub>
+      <sub>updated 04 Jun 2026, 17.39 WIB</sub>
     </td>
   </tr>
 </table>
