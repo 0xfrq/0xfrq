@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0e/17/f0/0e17f011-aadf-d4d1-1c7e-b61ce39f968b/093624947301.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/e2/89/8ee28904-0821-610d-5011-a61845f62756/075679926951.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Holiday</strong><br/>
-      Green Day
+      <strong>Stressed Out</strong><br/>
+      Twenty One Pilots
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.770,03</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.755,3</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.926</strong><br/>
-      <sub>updated 04 Jun 2026, 09.35 WIB</sub>
+      <sub>updated 04 Jun 2026, 09.39 WIB</sub>
     </td>
   </tr>
 </table>
