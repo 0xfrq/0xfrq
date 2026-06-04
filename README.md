@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/7f/25/c17f25d9-c5fa-5a70-5e76-122caf132bc1/093624931966.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/0a/68/fe0a687a-537e-e902-0778-90465c118f77/00602547870575.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Can't Stop</strong><br/>
-      Red Hot Chili Peppers
+      <strong>Don't Speak</strong><br/>
+      No Doubt
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.664,539</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.681,803</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.926</strong><br/>
-      <sub>updated 04 Jun 2026, 10.15 WIB</sub>
+      <sub>updated 04 Jun 2026, 10.20 WIB</sub>
     </td>
   </tr>
 </table>
