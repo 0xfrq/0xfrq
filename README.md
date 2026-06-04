@@ -13,16 +13,16 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/57/be/19/57be194f-7b85-86ed-f59b-afc86806b6e5/16UMGIM35664.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/6a/3d/f86a3db0-d518-cd49-c0c9-25e767ae0a6d/075679456861.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Falling Down - Bonus Track</strong><br/>
-      Lil Peep, XXXTENTACION
+      <strong>Big Poppa - 2005 Remaster</strong><br/>
+      The Notorious B.I.G.
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.892,967</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.887,896</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.926</strong><br/>
       <sub>updated 04 Jun 2026, 09.21 WIB</sub>
     </td>
