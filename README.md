@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ef/8d/ec/ef8dec37-0ed0-7085-2780-80da0f93dfb6/14ULAIM00713.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/61/b4/e5/61b4e5c4-0764-44fb-11ff-1e97fe08f584/20UMGIM45830.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>She's The One</strong><br/>
-      Robbie Williams
+      <strong>Nothing In My Way</strong><br/>
+      Keane
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.839,785</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.034</strong><br/>
-      <sub>updated 04 Jun 2026, 18.52 WIB</sub>
+      <sub>updated 04 Jun 2026, 18.56 WIB</sub>
     </td>
   </tr>
 </table>
