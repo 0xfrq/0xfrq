@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/a6/91/b5a69171-5232-3d5b-9c15-8963802f83dd/15UMGIM15814.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Numb / Encore</strong><br/>
-      JAŸ-Z, Linkin Park
+      <strong>Alright</strong><br/>
+      Kendrick Lamar
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.875,868</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.857,363</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.926</strong><br/>
-      <sub>updated 04 Jun 2026, 09.13 WIB</sub>
+      <sub>updated 04 Jun 2026, 09.16 WIB</sub>
     </td>
   </tr>
 </table>
