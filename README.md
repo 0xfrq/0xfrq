@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/49/80/8a49806e-e9b6-1025-f4a8-cf51edb4504b/17UM1IM31406.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/ab/2e/8cab2ea3-490b-a9b5-94db-6e1fe30739c4/d191ed5d-23c7-4769-99bc-1385e103ece1.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>euphoria</strong><br/>
-      Kendrick Lamar
+      <strong>Young, Wild & Free (feat. Bruno Mars)</strong><br/>
+      Snoop Dogg, Wiz Khalifa, Bruno Mars
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.941,066</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.926</strong><br/>
-      <sub>updated 04 Jun 2026, 08.05 WIB</sub>
+      <sub>updated 04 Jun 2026, 08.50 WIB</sub>
     </td>
   </tr>
 </table>
