@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/87/66/078766a8-41b3-3e62-53ef-c30cf8f03e50/093624932130.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Something In The Way</strong><br/>
-      Nirvana
+      <strong>Californication</strong><br/>
+      Red Hot Chili Peppers
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.726,683</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 17.926</strong><br/>
-      <sub>updated 04 Jun 2026, 11.09 WIB</sub>
+      IHSG &nbsp;&nbsp;<strong>5.704,042</strong><br/>
+      USD/IDR &nbsp;<strong>Rp 18.040</strong><br/>
+      <sub>updated 04 Jun 2026, 11.12 WIB</sub>
     </td>
   </tr>
 </table>
