@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/1d/c5/cc1dc5cf-5a13-ac9d-a8c9-0638545a82fc/mzi.onqmtgsq.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>So Easy (To Fall In Love)</strong><br/>
-      Olivia Dean
+      <strong>Dancing in the Moonlight</strong><br/>
+      Toploader
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.839,785</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.034</strong><br/>
-      <sub>updated 05 Jun 2026, 04.24 WIB</sub>
+      <sub>updated 05 Jun 2026, 04.27 WIB</sub>
     </td>
   </tr>
 </table>
