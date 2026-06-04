@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/de/b4/76/deb4760b-1733-d09f-8ab5-3da9381d5080/093624913214.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>One More Light</strong><br/>
-      Linkin Park
+      <strong>Chop Suey!</strong><br/>
+      System Of A Down
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.757,057</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.750,916</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.040</strong><br/>
-      <sub>updated 04 Jun 2026, 11.46 WIB</sub>
+      <sub>updated 04 Jun 2026, 11.50 WIB</sub>
     </td>
   </tr>
 </table>
