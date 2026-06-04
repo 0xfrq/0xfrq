@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/eb/78/8aeb7828-1461-4b93-447f-eaefcaaa8b40/19UMGIM26633.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/5b/03/5f5b0325-cd37-0ecb-a9a9-2cc1f6687f38/artwork.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>This Is The Last Time</strong><br/>
-      Keane
+      <strong>Welcome to My Life</strong><br/>
+      Simple Plan
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.839,785</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.034</strong><br/>
-      <sub>updated 04 Jun 2026, 21.04 WIB</sub>
+      <sub>updated 04 Jun 2026, 21.07 WIB</sub>
     </td>
   </tr>
 </table>
