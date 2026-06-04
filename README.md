@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/87/66/078766a8-41b3-3e62-53ef-c30cf8f03e50/093624932130.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/79/d5/2779d529-ff10-c15d-1c50-08cd46dd1237/06UMGIM17625.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Californication</strong><br/>
-      Red Hot Chili Peppers
+      <strong>When I'm Gone</strong><br/>
+      Eminem
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.704,042</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.715,581</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.040</strong><br/>
-      <sub>updated 04 Jun 2026, 11.12 WIB</sub>
+      <sub>updated 04 Jun 2026, 11.18 WIB</sub>
     </td>
   </tr>
 </table>
