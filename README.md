@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/c4/31/b8c431e9-a67d-3917-72e5-be9f5a1ebc46/075596077460.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Features/fc/78/d1/dj.ktqhcjke.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Baby Can I Hold You</strong><br/>
-      Tracy Chapman
+      <strong>Sweet Disposition</strong><br/>
+      The Temper Trap
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.839,785</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 18.020</strong><br/>
-      <sub>updated 05 Jun 2026, 03.15 WIB</sub>
+      USD/IDR &nbsp;<strong>Rp 18.034</strong><br/>
+      <sub>updated 05 Jun 2026, 04.12 WIB</sub>
     </td>
   </tr>
 </table>
