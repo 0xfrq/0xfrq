@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a7/00/d7/a700d715-a493-19a5-3de9-5753d139419f/14DMGIM05597.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/bd/87/37bd87d9-3166-ff2f-1cf4-9973491de81b/mzm.bhgfthjr.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Love Of My Life - Remastered 2011</strong><br/>
-      Queen
+      <strong>I Don't Want to Talk About It - 1989 Version</strong><br/>
+      Rod Stewart
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.839,785</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.020</strong><br/>
-      <sub>updated 04 Jun 2026, 17.27 WIB</sub>
+      <sub>updated 04 Jun 2026, 17.30 WIB</sub>
     </td>
   </tr>
 </table>
