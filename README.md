@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/1d/c5/cc1dc5cf-5a13-ac9d-a8c9-0638545a82fc/mzi.onqmtgsq.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/06/1f/d0061f04-bcae-f9a1-8126-830c04fa32db/196871971188.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Dancing in the Moonlight</strong><br/>
-      Toploader
+      <strong>Earrings</strong><br/>
+      Malcolm Todd
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.839,785</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.034</strong><br/>
-      <sub>updated 05 Jun 2026, 04.27 WIB</sub>
+      <sub>updated 05 Jun 2026, 04.31 WIB</sub>
     </td>
   </tr>
 </table>
