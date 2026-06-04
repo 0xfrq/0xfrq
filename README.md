@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/bf/13/32bf1302-fbfe-945a-44bc-c0aeaee12711/075678375224.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Beggin'</strong><br/>
-      Måneskin
+      <strong>You're Beautiful</strong><br/>
+      James Blunt
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.735,533</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.747,531</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.040</strong><br/>
-      <sub>updated 04 Jun 2026, 11.30 WIB</sub>
+      <sub>updated 04 Jun 2026, 11.33 WIB</sub>
     </td>
   </tr>
 </table>
