@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c6/3f/7a/c63f7a28-4e53-1ae2-cfae-5d211e0c256c/20UMGIM02955.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>tv off (feat. lefty gunplay)</strong><br/>
-      Kendrick Lamar, Lefty Gunplay
+      <strong>Godzilla (feat. Juice WRLD)</strong><br/>
+      Eminem, Juice WRLD
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.941,066</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.926</strong><br/>
-      <sub>updated 04 Jun 2026, 07.52 WIB</sub>
+      <sub>updated 04 Jun 2026, 07.54 WIB</sub>
     </td>
   </tr>
 </table>
