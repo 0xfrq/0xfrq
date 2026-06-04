@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ea/ac/03/eaac03e5-8e9d-847e-d5b9-af7dee6a970b/00606949063221.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/7a/7c/287a7ca9-ed95-1a21-e3bb-4559a1a0ac0e/191404134351.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Way I Am</strong><br/>
-      Eminem
+      <strong>Creep</strong><br/>
+      Radiohead
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.745,829</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.753,442</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.040</strong><br/>
-      <sub>updated 04 Jun 2026, 11.37 WIB</sub>
+      <sub>updated 04 Jun 2026, 11.42 WIB</sub>
     </td>
   </tr>
 </table>
