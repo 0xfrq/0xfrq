@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/91/f8/f2/91f8f22f-b055-c14d-6672-df49dcaeb717/00602547107299.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ef/54/0b/ef540ba4-bbe7-0809-aa55-97ce32e0e13d/18UMGIM55763.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>We'll Meet Again</strong><br/>
-      Frank Sinatra
+      <strong>Killer Queen - Remastered 2011</strong><br/>
+      Queen
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.636,149</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 18.040</strong><br/>
-      <sub>updated 05 Jun 2026, 14.56 WIB</sub>
+      IHSG &nbsp;&nbsp;<strong>5.647,12</strong><br/>
+      USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
+      <sub>updated 05 Jun 2026, 15.11 WIB</sub>
     </td>
   </tr>
 </table>
