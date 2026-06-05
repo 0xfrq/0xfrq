@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/63/93/3e6393fb-5fe2-1ef4-1c0d-6452919a351c/828768904824.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ef/bd/64/efbd64ab-6a7c-80e0-ca85-02fb0d282720/00602537570713.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Are You Lonesome Tonight?</strong><br/>
-      Elvis Presley
+      <strong>The World We Knew (Over And Over)</strong><br/>
+      Frank Sinatra
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.620,733</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.611,594</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 05 Jun 2026, 15.36 WIB</sub>
+      <sub>updated 05 Jun 2026, 15.39 WIB</sub>
     </td>
   </tr>
 </table>
