@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dc/3d/c0/dc3dc0f8-86ce-b034-f822-d71602acaedb/075679855619.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/0c/c8/960cc84f-5c48-013b-51bf-aa30b2800068/054391897046.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Let Me Down Slowly</strong><br/>
-      Alec Benjamin
+      <strong>In The Stars</strong><br/>
+      Benson Boone
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 05 Jun 2026, 17.13 WIB</sub>
+      <sub>updated 05 Jun 2026, 17.16 WIB</sub>
     </td>
   </tr>
 </table>
