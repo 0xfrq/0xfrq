@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/eb/56/0b/eb560b22-e411-02e8-4608-6961e2c0d90f/23UMGIM00586.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/83/31/4b8331ab-e75b-1e73-30dc-2511b1c93463/886447816639.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Those Eyes</strong><br/>
-      New West
+      <strong>On My Way</strong><br/>
+      Alan Walker, Sabrina Carpenter, Farruko
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 05 Jun 2026, 16.40 WIB</sub>
+      <sub>updated 05 Jun 2026, 16.43 WIB</sub>
     </td>
   </tr>
 </table>
