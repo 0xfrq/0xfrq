@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/bc/6b/0dbc6b28-3393-1852-6f2a-fedbc11312e3/196589981929.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/8f/14/f98f1474-ca16-f2b4-aa07-1f05f7c68540/00602577037429.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>A Thousand Years</strong><br/>
-      James Arthur
+      <strong>Be Alright</strong><br/>
+      Dean Lewis
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 05 Jun 2026, 17.04 WIB</sub>
+      <sub>updated 05 Jun 2026, 17.07 WIB</sub>
     </td>
   </tr>
 </table>
