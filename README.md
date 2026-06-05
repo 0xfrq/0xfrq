@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/40/9e/c5409e27-3f5d-9476-241d-ed8e7499ea38/19UMGIM20677.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6a/12/2c/6a122cd7-1814-87fe-a3ff-478cb622f4b4/054391771506.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Arcade</strong><br/>
-      Duncan Laurence
+      <strong>Before You</strong><br/>
+      Benson Boone
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 05 Jun 2026, 16.58 WIB</sub>
+      <sub>updated 05 Jun 2026, 17.01 WIB</sub>
     </td>
   </tr>
 </table>
