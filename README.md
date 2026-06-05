@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/61/3d/a6/613da60e-5b3d-7305-19db-ed79f5aa0b05/196589768643.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/3e/86/2b3e86e6-c21f-329b-a629-ca53c070ebd6/886446678108.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>drunk text</strong><br/>
-      Henry Moodie
+      <strong>Car's Outside</strong><br/>
+      James Arthur
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 05 Jun 2026, 17.22 WIB</sub>
+      <sub>updated 05 Jun 2026, 17.26 WIB</sub>
     </td>
   </tr>
 </table>
