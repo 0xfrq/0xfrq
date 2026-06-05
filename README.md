@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b4/00/8f/b4008f7c-72b9-d856-60fa-2ac5cfce2d18/16UMGIM86640.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e1/f1/4d/e1f14dcd-570d-4f5b-e123-b8d396ef83af/13ULAIM54970.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>How Deep Is Your Love</strong><br/>
-      Bee Gees
+      <strong>L-O-V-E</strong><br/>
+      Nat King Cole
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.641,092</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.632,519</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 05 Jun 2026, 15.24 WIB</sub>
+      <sub>updated 05 Jun 2026, 15.28 WIB</sub>
     </td>
   </tr>
 </table>
