@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/83/31/4b8331ab-e75b-1e73-30dc-2511b1c93463/886447816639.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0f/a5/98/0fa598d9-bf7c-bbba-e29c-b7fdc1270316/886447819074.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>On My Way</strong><br/>
-      Alan Walker, Sabrina Carpenter, Farruko
+      <strong>Dancing With Your Ghost</strong><br/>
+      Sasha Alex Sloan
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 05 Jun 2026, 16.43 WIB</sub>
+      <sub>updated 05 Jun 2026, 16.47 WIB</sub>
     </td>
   </tr>
 </table>
