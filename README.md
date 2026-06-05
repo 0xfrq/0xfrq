@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e1/f1/4d/e1f14dcd-570d-4f5b-e123-b8d396ef83af/13ULAIM54970.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/3d/97/c53d978b-4433-743e-7a4b-e01942cd33ee/00602517784154.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>L-O-V-E</strong><br/>
-      Nat King Cole
+      <strong>The Winner Takes It All - From "Mamma Mia!"</strong><br/>
+      Meryl Streep
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.632,519</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.631,161</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 05 Jun 2026, 15.28 WIB</sub>
+      <sub>updated 05 Jun 2026, 15.31 WIB</sub>
     </td>
   </tr>
 </table>
