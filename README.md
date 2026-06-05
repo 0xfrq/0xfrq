@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a8/ae/b6/a8aeb65b-165a-f8e5-8fff-6856a5f75c0d/Harry_James_His_Orchestra_And_Kitty_Kallen_-_It_s_Been_A_Long_Long_Time.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/8d/e3/158de33b-a496-56f7-c302-002978906503/00602557548259.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>It's Been a Long, Long Time (with Harry James & His Orchestra)</strong><br/>
-      Kitty Kallen, Harry James
+      <strong>Can't Take My Eyes Off You</strong><br/>
+      Engelbert Humperdinck
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.692,157</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.033</strong><br/>
-      <sub>updated 05 Jun 2026, 13.36 WIB</sub>
+      <sub>updated 05 Jun 2026, 13.39 WIB</sub>
     </td>
   </tr>
 </table>
