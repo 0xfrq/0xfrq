@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/03/bb/30/03bb30c3-e87f-d935-3906-2c44d6cc440e/14UMGIM07613.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/91/f8/f2/91f8f22f-b055-c14d-6672-df49dcaeb717/00602547107299.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Winner Takes It All</strong><br/>
-      ABBA
+      <strong>We'll Meet Again</strong><br/>
+      Frank Sinatra
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.692,157</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 18.035</strong><br/>
-      <sub>updated 05 Jun 2026, 13.59 WIB</sub>
+      IHSG &nbsp;&nbsp;<strong>5.636,149</strong><br/>
+      USD/IDR &nbsp;<strong>Rp 18.040</strong><br/>
+      <sub>updated 05 Jun 2026, 14.56 WIB</sub>
     </td>
   </tr>
 </table>
