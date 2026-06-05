@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/19/db/1a19db26-17ad-b986-11a9-f72ac7a6194b/18UMGIM31214.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e0/71/6a/e0716a8a-b806-d313-4ed6-93bb485a65c5/22UMGIM38869.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Michelle - Remastered 2009</strong><br/>
-      The Beatles
+      <strong>Until I Found You (with Em Beihold) - Em Beihold Version</strong><br/>
+      Stephen Sanchez, Em Beihold
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.692,157</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.033</strong><br/>
-      <sub>updated 05 Jun 2026, 13.25 WIB</sub>
+      <sub>updated 05 Jun 2026, 13.28 WIB</sub>
     </td>
   </tr>
 </table>
