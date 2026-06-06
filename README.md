@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/5d/f1/115df15e-e05f-b0f1-ae66-3ad2c5e969b4/mzi.ihaejhxb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/cb/18/5ccb18f7-ab44-3478-cf33-7953837907d2/18UMGIM43740.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Torn</strong><br/>
-      Natalie Imbruglia
+      <strong>Linger - Remastered 2026</strong><br/>
+      The Cranberries
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 07 Jun 2026, 01.12 WIB</sub>
+      <sub>updated 07 Jun 2026, 01.16 WIB</sub>
     </td>
   </tr>
 </table>
