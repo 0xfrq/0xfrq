@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/b9/71/59b9713c-9692-8b0b-e395-70d11de9e2f7/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/f4/09/2bf409df-036a-6743-775d-ba4da5915e1d/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Farewell of Slavianka</strong><br/>
+      <strong>Three Tankists</strong><br/>
       The Red Army Choir
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 07 Jun 2026, 02.21 WIB</sub>
+      <sub>updated 07 Jun 2026, 02.23 WIB</sub>
     </td>
   </tr>
 </table>
