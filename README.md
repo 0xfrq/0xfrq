@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/79/6c/6d796cfd-722a-d61d-4f67-1cc28162a0fc/00888072319141.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/47/ad/13/47ad13f9-78a4-67cf-7a5a-a07512a2732d/0810098500760.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Have You Ever Seen The Rain</strong><br/>
-      Creedence Clearwater Revival
+      <strong>I Don't Want to Talk About It - 2008 Remaster</strong><br/>
+      Rod Stewart
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 07 Jun 2026, 04.11 WIB</sub>
+      <sub>updated 07 Jun 2026, 04.14 WIB</sub>
     </td>
   </tr>
 </table>
