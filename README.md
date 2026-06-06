@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5d/ae/6e/5dae6e66-08dd-8327-3f3d-263e3c562b8e/8992088004761.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/ce/39/a0ce39a8-1cda-a4f1-dee0-0b177f7e02e7/190296748479.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Sore Tugu Pancoran</strong><br/>
-      Iwan Fals
+      <strong>Untuk Mencintaimu</strong><br/>
+      Seventeen
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 07 Jun 2026, 00.38 WIB</sub>
+      <sub>updated 07 Jun 2026, 00.42 WIB</sub>
     </td>
   </tr>
 </table>
