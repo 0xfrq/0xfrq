@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/b9/e8/e1/mzi.xivlhyao.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/69/51/31695154-f395-fac1-d481-3f809a0edf05/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Russian Anthem</strong><br/>
-      The Red Army Choir
+      <strong>Victory Day</strong><br/>
+      The Red Army Choir, Максим Маклаков, Геннадий Саченюк
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
