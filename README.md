@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/83/9b/a1839b04-5d9e-4256-e5d5-a8ab4b64e612/190295041397.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/41/43/744143ae-afad-8380-106e-1c1bc48922e4/14UMGIM34762.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Lenggang Puspita</strong><br/>
-      Achmad Albar
+      <strong>Everybody Wants To Rule The World</strong><br/>
+      Tears For Fears
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 07 Jun 2026, 01.44 WIB</sub>
+      <sub>updated 07 Jun 2026, 01.47 WIB</sub>
     </td>
   </tr>
 </table>
