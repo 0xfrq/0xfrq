@@ -17,14 +17,14 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Something - Remastered 2009</strong><br/>
+      <strong>Golden Slumbers - Remastered 2009</strong><br/>
       The Beatles
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 07 Jun 2026, 04.08 WIB</sub>
+      <sub>updated 07 Jun 2026, 04.11 WIB</sub>
     </td>
   </tr>
 </table>
