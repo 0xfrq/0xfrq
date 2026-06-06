@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/22/10/8f/22108fac-e611-fbd1-7dc7-d5038ad24a4c/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/b9/71/59b9713c-9692-8b0b-e395-70d11de9e2f7/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Три танкиста</strong><br/>
-      Владимир Зарков, Ансамбль песни и пляски Краснознаменного Киевского военного округа, Александр Пустовалов
+      <strong>Farewell of Slavianka</strong><br/>
+      The Red Army Choir
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 07 Jun 2026, 02.18 WIB</sub>
+      <sub>updated 07 Jun 2026, 02.21 WIB</sub>
     </td>
   </tr>
 </table>
