@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/a6/f7/89a6f7be-a0e0-2524-a13b-6b5df7b7534a/06UMGIM24399.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Sparks</strong><br/>
-      Coldplay
+      <strong>Somewhere Only We Know</strong><br/>
+      Keane
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 07 Jun 2026, 00.45 WIB</sub>
+      <sub>updated 07 Jun 2026, 00.49 WIB</sub>
     </td>
   </tr>
 </table>
