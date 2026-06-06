@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d5/62/fc/d562fc96-7f4c-2e54-04d8-c6f9a4c8ac58/3700403517552_cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/69/51/31695154-f395-fac1-d481-3f809a0edf05/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Red Cavalery</strong><br/>
-      The Red Army Choir
+      <strong>Victory</strong><br/>
+      The Red Army Choir, Николай Кириллов, Максим Маклаков
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.594,765</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.015</strong><br/>
-      <sub>updated 07 Jun 2026, 02.38 WIB</sub>
+      <sub>updated 07 Jun 2026, 02.39 WIB</sub>
     </td>
   </tr>
 </table>
