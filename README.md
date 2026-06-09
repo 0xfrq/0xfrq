@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/49/65/4b496511-1f23-22f9-4296-93584cb6d6ed/mzi.nqdykidi.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>So Far Away</strong><br/>
-      Avenged Sevenfold
+      <strong>BGN B NYA…. 😂 SEREM BGT NIH PODCAST ASUU‼️ Tretan, Coki, Adriano </strong><br/>
+      Deddy Corbuzier
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.746,648</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.136</strong><br/>
-      <sub>updated 09 Jun 2026, 23.45 WIB</sub>
+      <sub>updated 10 Jun 2026, 00.50 WIB</sub>
     </td>
   </tr>
 </table>
