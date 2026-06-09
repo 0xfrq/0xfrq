@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bc/f3/fb/bcf3fb1a-ecf7-a92a-50a1-3db7975bed9d/s02.uhncqiae.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3d/9d/38/3d9d3811-71f0-3a0e-1ada-3004e56ff852/827969428726.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Here, There And Everywhere - Remastered 2009</strong><br/>
-      The Beatles
+      <strong>You Are Not Alone - Single Version</strong><br/>
+      Michael Jackson
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.746,648</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.136</strong><br/>
-      <sub>updated 09 Jun 2026, 21.09 WIB</sub>
+      <sub>updated 09 Jun 2026, 23.08 WIB</sub>
     </td>
   </tr>
 </table>
