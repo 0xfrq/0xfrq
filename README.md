@@ -22,9 +22,9 @@
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.711,603</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.746,648</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.050</strong><br/>
-      <sub>updated 09 Jun 2026, 15.51 WIB</sub>
+      <sub>updated 09 Jun 2026, 18.49 WIB</sub>
     </td>
   </tr>
 </table>
