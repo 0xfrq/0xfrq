@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/ce/e9/b9/mzi.jkxxykdn.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/a4/23/a8a423e8-643b-79d0-81e4-00b3ca683b8c/00050087104436.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Billionaire (feat. Bruno Mars)</strong><br/>
-      Travie McCoy, Bruno Mars
+      <strong>Hey There Delilah</strong><br/>
+      Plain White T's
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.746,648</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.136</strong><br/>
-      <sub>updated 10 Jun 2026, 00.59 WIB</sub>
+      <sub>updated 10 Jun 2026, 01.03 WIB</sub>
     </td>
   </tr>
 </table>
