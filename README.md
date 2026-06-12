@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a4/e7/5e/a4e75e8c-2875-4576-12d8-ac8d2f865815/5056167175841_1.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>BGN B NYA…. 😂 SEREM BGT NIH PODCAST ASUU‼️ Tretan, Coki, Adriano </strong><br/>
-      Deddy Corbuzier
+      <strong>Falling Behind</strong><br/>
+      Laufey
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.007,656</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 17.865</strong><br/>
-      <sub>updated 12 Jun 2026, 19.25 WIB</sub>
+      USD/IDR &nbsp;<strong>Rp 17.916</strong><br/>
+      <sub>updated 12 Jun 2026, 22.02 WIB</sub>
     </td>
   </tr>
 </table>
