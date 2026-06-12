@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/be/2d/29/be2d2903-5daf-076a-3023-af3ba3c5dcba/8720996300077.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/45/8e/a5/458ea529-5c69-c0b1-d642-3b132da910c5/5056495422273_1.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Nothing's New</strong><br/>
-      Rio Romeo
+      <strong>Cherry Wine</strong><br/>
+      grentperez
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.007,656</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.916</strong><br/>
-      <sub>updated 12 Jun 2026, 23.58 WIB</sub>
+      <sub>updated 13 Jun 2026, 00.01 WIB</sub>
     </td>
   </tr>
 </table>
