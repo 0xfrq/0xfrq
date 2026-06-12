@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/1e/08/b01e08c2-a26b-30a6-f68f-0c9d30fa9aad/094638460152.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/97/a2/a597a212-bcc5-3db5-e020-fad26aa6217d/21UMGIM77452.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Smile</strong><br/>
-      Lily Allen
+      <strong>Every Summertime</strong><br/>
+      NIKI
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
