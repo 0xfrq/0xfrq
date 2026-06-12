@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/cc/ae/8bccae9c-2384-0564-cfa7-597d42356837/25UMGIM52394.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/33/dc/c533dc8e-2baa-94f9-22be-e6e28945f932/075679754134.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>intro (end of the world)</strong><br/>
-      Ariana Grande
+      <strong>After Last Night (with Thundercat & Bootsy Collins)</strong><br/>
+      Bruno Mars, Anderson .Paak, Silk Sonic, Thundercat, Bootsy Collins
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.007,656</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.916</strong><br/>
-      <sub>updated 12 Jun 2026, 23.24 WIB</sub>
+      <sub>updated 12 Jun 2026, 23.26 WIB</sub>
     </td>
   </tr>
 </table>
