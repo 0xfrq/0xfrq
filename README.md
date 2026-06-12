@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/0c/88/9c0c883c-0901-60a1-8f4b-6a96c36be366/198846140360.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/36/6f/c6366ff0-938a-fcdc-5799-8e3bbc8c343d/693887128129_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>her</strong><br/>
-      JVKE
+      <strong>songs that remind me of you</strong><br/>
+      natalie jinju
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.007,656</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.916</strong><br/>
-      <sub>updated 12 Jun 2026, 22.53 WIB</sub>
+      <sub>updated 12 Jun 2026, 22.57 WIB</sub>
     </td>
   </tr>
 </table>
