@@ -17,7 +17,7 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Bayangkan</strong><br/>
+      <strong>Bayangkan Jika Kita Tidak Menyerah</strong><br/>
       Hindia
     </td>
     <td align="right" valign="middle" width="180">
