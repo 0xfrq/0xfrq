@@ -17,14 +17,14 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Ibel</strong><br/>
+      <strong>Siapa yang akan Datang ke Pemakamanmu Nanti?</strong><br/>
       Hindia
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.007,656</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.916</strong><br/>
-      <sub>updated 13 Jun 2026, 22.21 WIB</sub>
+      <sub>updated 13 Jun 2026, 22.23 WIB</sub>
     </td>
   </tr>
 </table>
