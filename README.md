@@ -17,14 +17,14 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Camkan</strong><br/>
+      <strong>Kuping Ini Makin Lalai</strong><br/>
       .Feast
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.007,656</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.916</strong><br/>
-      <sub>updated 14 Jun 2026, 00.47 WIB</sub>
+      <sub>updated 14 Jun 2026, 00.51 WIB</sub>
     </td>
   </tr>
 </table>
