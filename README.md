@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/0f/bb/dc0fbb02-3c68-ee46-632d-24e564d88771/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2a/da/57/2ada5765-472f-3193-11a3-861db06da99d/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>WAWANCARA LIAR, PT. 4</strong><br/>
+      <strong>Evakuasi</strong><br/>
       Hindia
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.007,656</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.916</strong><br/>
-      <sub>updated 13 Jun 2026, 23.58 WIB</sub>
+      <sub>updated 14 Jun 2026, 00.00 WIB</sub>
     </td>
   </tr>
 </table>
