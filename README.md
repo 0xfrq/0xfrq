@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/0f/bb/dc0fbb02-3c68-ee46-632d-24e564d88771/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>WAWANCARA LIAR, PT. 4</strong><br/>
-      Hindia
+      <strong>Valorant Banyak Alasan 30s H264 240113</strong><br/>
+      VALORANT
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.007,656</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.916</strong><br/>
-      <sub>updated 13 Jun 2026, 23.54 WIB</sub>
+      <sub>updated 13 Jun 2026, 23.57 WIB</sub>
     </td>
   </tr>
 </table>
