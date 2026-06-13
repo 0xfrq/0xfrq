@@ -17,7 +17,7 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>WAWANCARA LIAR, PT. I</strong><br/>
+      <strong>Ibel</strong><br/>
       Hindia
     </td>
     <td align="right" valign="middle" width="180">
