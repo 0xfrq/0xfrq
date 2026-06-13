@@ -17,7 +17,7 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Kuping Ini Makin Lalai</strong><br/>
+      <strong>Lagu Kritik Lagi</strong><br/>
       .Feast
     </td>
     <td align="right" valign="middle" width="180">
