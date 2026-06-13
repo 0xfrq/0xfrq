@@ -17,14 +17,14 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Membasuh</strong><br/>
-      Hindia, Rara Sekar
+      <strong>Rumah Ke Rumah</strong><br/>
+      Hindia
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.007,656</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.916</strong><br/>
-      <sub>updated 14 Jun 2026, 00.18 WIB</sub>
+      <sub>updated 14 Jun 2026, 00.24 WIB</sub>
     </td>
   </tr>
 </table>
