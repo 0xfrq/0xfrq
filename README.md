@@ -17,14 +17,14 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Nabi Palsu</strong><br/>
+      <strong>WAWANCARA LIAR, PT. 4</strong><br/>
       Hindia
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.007,656</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.916</strong><br/>
-      <sub>updated 13 Jun 2026, 23.50 WIB</sub>
+      <sub>updated 13 Jun 2026, 23.54 WIB</sub>
     </td>
   </tr>
 </table>
