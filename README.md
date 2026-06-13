@@ -17,7 +17,7 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>(mimi)</strong><br/>
+      <strong>semua lagu cinta terdengar sama</strong><br/>
       Hindia
     </td>
     <td align="right" valign="middle" width="180">
