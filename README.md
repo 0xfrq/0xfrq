@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/95/66/07956604-57ed-5a20-3c98-536c847f8ac2/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ba/b0/b2/bab0b2cb-bbab-cf75-d289-36a9686ecbb8/23UM1IM46531.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Arteri</strong><br/>
-      .Feast
+      <strong>Selamanya</strong><br/>
+      Lomba Sihir
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.007,656</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.916</strong><br/>
-      <sub>updated 14 Jun 2026, 01.04 WIB</sub>
+      <sub>updated 14 Jun 2026, 01.08 WIB</sub>
     </td>
   </tr>
 </table>
