@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a5/e4/1a/a5e41a12-86fd-a919-c72a-f6209c01a297/00602547891594.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/9b/65/da9b6514-29c3-0e53-2335-2328236df7ba/0698458874481.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>It's My Party</strong><br/>
-      Lesley Gore
+      <strong>Alone Again (Naturally)</strong><br/>
+      Gilbert O'Sullivan
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 15 Jun 2026, 22.01 WIB</sub>
+      <sub>updated 15 Jun 2026, 22.03 WIB</sub>
     </td>
   </tr>
 </table>
