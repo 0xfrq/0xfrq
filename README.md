@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a3/db/ab/a3dbab5c-8902-b7ee-4136-53b7e2024a70/00602547530295.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/87/ee/4d/87ee4d9d-f3e2-8c37-f123-95e1137d237d/dj.aqsfsbsd.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>I Will Follow You</strong><br/>
-      Ricky Nelson
+      <strong>I Can See Clearly Now - Edit</strong><br/>
+      Johnny Nash
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 15 Jun 2026, 22.10 WIB</sub>
+      <sub>updated 15 Jun 2026, 22.12 WIB</sub>
     </td>
   </tr>
 </table>
