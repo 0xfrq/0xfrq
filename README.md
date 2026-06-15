@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/86/8f/8e/868f8e9f-4041-c674-98f8-4e444fc113b3/00602537988723.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/de/82/6cde827c-4889-e862-6715-291f34115be7/00602557886467.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Stand By Me - Remastered 2010</strong><br/>
-      John Lennon
+      <strong>Lonesome Town</strong><br/>
+      Ricky Nelson
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 15 Jun 2026, 21.07 WIB</sub>
+      <sub>updated 15 Jun 2026, 21.11 WIB</sub>
     </td>
   </tr>
 </table>
