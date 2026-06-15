@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/de/70/b9/de70b9ff-683b-5300-5618-36fb536f430b/00602567822332.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/03/02/d2/0302d204-77c1-0c87-e03a-698bd31cf038/00602567725619.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Please Mr. Postman</strong><br/>
-      Carpenters
+      <strong>Till There Was You - Remastered 2009</strong><br/>
+      The Beatles
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.246,201</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.234,808</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.695</strong><br/>
-      <sub>updated 15 Jun 2026, 15.21 WIB</sub>
+      <sub>updated 15 Jun 2026, 15.24 WIB</sub>
     </td>
   </tr>
 </table>
