@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bf/fa/66/bffa6672-1e97-fcf7-b301-9766f3563d68/075679954992.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Misery Business</strong><br/>
-      Paramore
+      <strong>The Sharpest Lives</strong><br/>
+      My Chemical Romance
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.263,439</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.261,986</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.705</strong><br/>
-      <sub>updated 15 Jun 2026, 15.05 WIB</sub>
+      <sub>updated 15 Jun 2026, 15.09 WIB</sub>
     </td>
   </tr>
 </table>
