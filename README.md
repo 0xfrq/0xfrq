@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/91/42/09/91420918-380f-c05a-3225-78b27c792774/13UAEIM58114.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/07/8a/38/078a38e7-9772-aaf8-b67a-83a40d99866c/13UADIM60821.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Don't Dream It's Over</strong><br/>
-      Crowded House
+      <strong>A Teenager In Love</strong><br/>
+      Dion & The Belmonts
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 15 Jun 2026, 22.28 WIB</sub>
+      <sub>updated 15 Jun 2026, 22.31 WIB</sub>
     </td>
   </tr>
 </table>
