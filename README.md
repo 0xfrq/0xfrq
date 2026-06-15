@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ab/86/f0/ab86f0fe-0d40-db93-ab3a-73daa28efa4a/14UMGIM06318.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/0e/37/430e3790-75d5-c96a-1380-f9d9803aa700/18UMGIM31245.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Honey, Honey</strong><br/>
-      ABBA
+      <strong>All You Need Is Love - Remastered 2009</strong><br/>
+      The Beatles
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.695</strong><br/>
-      <sub>updated 15 Jun 2026, 18.25 WIB</sub>
+      <sub>updated 15 Jun 2026, 18.28 WIB</sub>
     </td>
   </tr>
 </table>
