@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9b/30/4c/9b304cad-7427-b463-6bf7-8c1cf4fae484/078636931920.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/54/a0/82/54a082b3-6784-5569-1601-809aaef174da/00602557851601.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>You Make My Dreams (Come True)</strong><br/>
-      Daryl Hall & John Oates
+      <strong>She's A Lady</strong><br/>
+      Tom Jones
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 16 Jun 2026, 01.28 WIB</sub>
+      <sub>updated 16 Jun 2026, 01.32 WIB</sub>
     </td>
   </tr>
 </table>
