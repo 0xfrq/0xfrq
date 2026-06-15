@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/ed/8e/b3ed8eb8-e276-ee92-bf69-fba2865516b6/dj.yjsnvawq.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/f1/bf/f7f1bf43-3324-6c2d-d7e0-368d506fd56d/078635451528.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Longest Time</strong><br/>
-      Billy Joel
+      <strong>Without You</strong><br/>
+      Harry Nilsson
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 16 Jun 2026, 01.01 WIB</sub>
+      <sub>updated 16 Jun 2026, 01.05 WIB</sub>
     </td>
   </tr>
 </table>
