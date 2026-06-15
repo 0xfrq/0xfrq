@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/f4/71/c1f471c9-1000-cc5c-71b9-394208a30122/mzm.gzpqrqro.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>You're So Vain</strong><br/>
-      Carly Simon
+      <strong>Hermes Agent Full Tutorial INSTALLATION + USECASES</strong><br/>
+      CodeHead
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.235,136</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.227,184</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.695</strong><br/>
-      <sub>updated 15 Jun 2026, 15.39 WIB</sub>
+      <sub>updated 15 Jun 2026, 15.43 WIB</sub>
     </td>
   </tr>
 </table>
