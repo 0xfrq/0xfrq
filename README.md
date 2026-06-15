@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/20/aa/af20aa89-4002-11fb-25d8-ff544af67eb4/00602567725404.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1c/11/b1/1c11b1a5-5bd4-ec06-69d0-d39a0895b361/14UMGIM07611.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>In My Life - Remastered 2009</strong><br/>
-      The Beatles
+      <strong>Take A Chance On Me</strong><br/>
+      ABBA
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.695</strong><br/>
-      <sub>updated 15 Jun 2026, 17.26 WIB</sub>
+      <sub>updated 15 Jun 2026, 17.29 WIB</sub>
     </td>
   </tr>
 </table>
