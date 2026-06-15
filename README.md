@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/1c/09/4e/1c094eeb-576a-b34c-62ef-7ffbdf9c8124/5099930800656.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/6c/77/a26c7723-a2c5-2c61-865e-4a270960db33/5059460256323.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Tide Is High - Edit</strong><br/>
-      Blondie
+      <strong>I Need You</strong><br/>
+      America, George Martin
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 16 Jun 2026, 00.45 WIB</sub>
+      <sub>updated 16 Jun 2026, 00.49 WIB</sub>
     </td>
   </tr>
 </table>
