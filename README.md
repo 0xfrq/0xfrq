@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/8e/e1/b98ee1e2-71a2-158f-4ccb-787acc34e9c8/13ABKIM00091.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Google Maps is unreasonably fast. Let me explain</strong><br/>
-      Veritasium
+      <strong>House of the Rising Sun</strong><br/>
+      The Animals
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.695</strong><br/>
-      <sub>updated 15 Jun 2026, 19.18 WIB</sub>
+      <sub>updated 15 Jun 2026, 19.32 WIB</sub>
     </td>
   </tr>
 </table>
