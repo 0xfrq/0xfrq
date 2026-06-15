@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/de/8e/83de8ea5-1022-38cc-2f0f-6c5ec45c08bd/886444123815.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b0/d8/dc/b0d8dcd1-6fd8-c037-0a2b-4b5cb3835863/00731453613522.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>She's Always a Woman</strong><br/>
-      Billy Joel
+      <strong>Fooled Around And Fell In Love</strong><br/>
+      Elvin Bishop
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.695</strong><br/>
-      <sub>updated 15 Jun 2026, 17.52 WIB</sub>
+      <sub>updated 15 Jun 2026, 17.56 WIB</sub>
     </td>
   </tr>
 </table>
