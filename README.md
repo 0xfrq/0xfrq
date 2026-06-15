@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/fe/10/c2fe10ff-ea61-fe66-c23b-092d0ca47d48/093624881445.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/97/17/049717b9-67ea-126b-7b3b-eaaa7f048dd8/dj.gczfwqsh.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Brain Stew</strong><br/>
-      Green Day
+      <strong>All I Wanted</strong><br/>
+      Paramore
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.269,502</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.278,081</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.705</strong><br/>
-      <sub>updated 15 Jun 2026, 14.43 WIB</sub>
+      <sub>updated 15 Jun 2026, 14.46 WIB</sub>
     </td>
   </tr>
 </table>
