@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0e/17/f0/0e17f011-aadf-d4d1-1c7e-b61ce39f968b/093624947301.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>American Idiot</strong><br/>
-      Green Day
+      <strong>HIGHLIGHT | BELANDA VS JEPANG | FIFA WORLD CUP 2026 | GRUP F | 15 JUNI 2026</strong><br/>
+      FolaPlay
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.331,201</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.309,056</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.675</strong><br/>
-      <sub>updated 15 Jun 2026, 14.07 WIB</sub>
+      <sub>updated 15 Jun 2026, 14.10 WIB</sub>
     </td>
   </tr>
 </table>
