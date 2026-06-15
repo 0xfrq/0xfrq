@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/e6/a9/fce6a952-aa1b-4c75-50d5-da7716d1bd5c/20UMGIM86272.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/14/c6/4b/14c64bfa-8f5b-2a41-49ed-1fe95ed499c6/00731453497429.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Wild World</strong><br/>
-      Yusuf / Cat Stevens
+      <strong>The Things We Do For Love</strong><br/>
+      10cc
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.695</strong><br/>
-      <sub>updated 15 Jun 2026, 20.38 WIB</sub>
+      <sub>updated 15 Jun 2026, 20.41 WIB</sub>
     </td>
   </tr>
 </table>
