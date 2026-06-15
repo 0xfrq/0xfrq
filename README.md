@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/e7/45/55e74530-6fce-28f8-a5ef-37ead76757d0/093624838494_02.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Sharpest Lives</strong><br/>
-      My Chemical Romance
+      <strong>Are We the Waiting / St. Jimmy</strong><br/>
+      Green Day
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.261,986</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 17.705</strong><br/>
-      <sub>updated 15 Jun 2026, 15.09 WIB</sub>
+      IHSG &nbsp;&nbsp;<strong>6.241,664</strong><br/>
+      USD/IDR &nbsp;<strong>Rp 17.695</strong><br/>
+      <sub>updated 15 Jun 2026, 15.12 WIB</sub>
     </td>
   </tr>
 </table>
