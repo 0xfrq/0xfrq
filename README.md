@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/97/17/049717b9-67ea-126b-7b3b-eaaa7f048dd8/dj.gczfwqsh.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/85/64/23/856423d8-c6ac-6959-c9e4-c7daeb2cd3db/093624915317.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Playing God</strong><br/>
-      Paramore
+      <strong>Good Riddance (Time of Your Life)</strong><br/>
+      Green Day
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.300,3</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 17.675</strong><br/>
-      <sub>updated 15 Jun 2026, 14.25 WIB</sub>
+      IHSG &nbsp;&nbsp;<strong>6.303,629</strong><br/>
+      USD/IDR &nbsp;<strong>Rp 17.705</strong><br/>
+      <sub>updated 15 Jun 2026, 14.28 WIB</sub>
     </td>
   </tr>
 </table>
