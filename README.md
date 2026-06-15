@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/e7/45/55e74530-6fce-28f8-a5ef-37ead76757d0/093624838494_02.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/58/f2/fc58f24a-4a9b-f17f-6edb-701b750c4f46/054391924353.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Are We the Waiting / St. Jimmy</strong><br/>
-      Green Day
+      <strong>Line Without a Hook</strong><br/>
+      Ricky Montgomery
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.241,664</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.244,766</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.695</strong><br/>
-      <sub>updated 15 Jun 2026, 15.12 WIB</sub>
+      <sub>updated 15 Jun 2026, 15.18 WIB</sub>
     </td>
   </tr>
 </table>
