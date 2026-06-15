@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/c2/45/3fc2454d-f1ef-8cef-a1f3-0c5a6d751e0a/19UMGIM69266.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/a8/f1/30a8f1b6-e75d-55b4-ee88-667a062e0103/24UM1IM12416.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>My Way</strong><br/>
-      Frank Sinatra
+      <strong>I Think They Call This Love</strong><br/>
+      Elliot James Reay
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 16 Jun 2026, 02.43 WIB</sub>
+      <sub>updated 16 Jun 2026, 02.47 WIB</sub>
     </td>
   </tr>
 </table>
