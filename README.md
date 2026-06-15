@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/a8/1c/0fa81c5d-b6aa-08ca-0a64-81d409b7a4cc/06UMGIM03975.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/84/2d/f1/842df19d-e5f4-3b9f-9405-6779bbc43fe0/06UMGIM07353.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>California Dreamin' - Single Version</strong><br/>
-      The Mamas & The Papas
+      <strong>My Girl</strong><br/>
+      The Temptations
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 15 Jun 2026, 21.28 WIB</sub>
+      <sub>updated 15 Jun 2026, 21.31 WIB</sub>
     </td>
   </tr>
 </table>
