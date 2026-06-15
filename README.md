@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/76/b0/3e76b0e3-762b-2286-a019-8afb19cee541/886445635829.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/4d/db/dc4ddb44-3230-323b-99bf-8989fd9375fb/25UM1IM85595.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Brain Damage</strong><br/>
-      Pink Floyd
+      <strong>I Need You - Remastered 2009</strong><br/>
+      The Beatles
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 16 Jun 2026, 01.56 WIB</sub>
+      <sub>updated 16 Jun 2026, 02.00 WIB</sub>
     </td>
   </tr>
 </table>
