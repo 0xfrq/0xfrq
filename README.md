@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/dc/f7/32dcf71c-ab5e-78a4-ae9a-1eb7dd028d64/00602547481832.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/37/1a/3a371a7e-33fe-85db-0616-0c57ef26fb42/13UAEIM06265.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Travelin' Man - Remastered</strong><br/>
-      Ricky Nelson
+      <strong>Somethin' Stupid</strong><br/>
+      Frank Sinatra, Nancy Sinatra
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
