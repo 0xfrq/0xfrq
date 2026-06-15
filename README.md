@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/4d/db/dc4ddb44-3230-323b-99bf-8989fd9375fb/25UM1IM85595.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/46/db/da46dbff-71cb-e4b3-2b0b-8c8d4b51e16d/825646937097.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>I Need You - Remastered 2009</strong><br/>
-      The Beatles
+      <strong>Heaven Knows I'm Miserable Now - 2011 Remaster</strong><br/>
+      The Smiths
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 16 Jun 2026, 02.00 WIB</sub>
+      <sub>updated 16 Jun 2026, 02.03 WIB</sub>
     </td>
   </tr>
 </table>
