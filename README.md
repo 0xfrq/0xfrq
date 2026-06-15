@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d24/h19/s06.lkkhqoax.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/72/73/8f/72738f62-d8a1-f1f9-e84d-244ff697d1db/13UABIM56926.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Just Like Heaven</strong><br/>
-      The Cure
+      <strong>Call Me</strong><br/>
+      Blondie
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 16 Jun 2026, 01.46 WIB</sub>
+      <sub>updated 16 Jun 2026, 01.49 WIB</sub>
     </td>
   </tr>
 </table>
