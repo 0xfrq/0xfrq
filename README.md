@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e0/45/42/e04542ac-f078-2f00-5395-80f1b7cae5dc/07UMGIM04751.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/b7/9a/25/b79a25d7-5d03-b9af-f2a7-9fbb44518f51/603497909414.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Baby Love</strong><br/>
-      The Supremes
+      <strong>Baby, I Love You</strong><br/>
+      Ramones
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.714</strong><br/>
-      <sub>updated 16 Jun 2026, 02.06 WIB</sub>
+      <sub>updated 16 Jun 2026, 02.09 WIB</sub>
     </td>
   </tr>
 </table>
