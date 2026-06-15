@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/28/95/77/289577d1-0b0a-400d-0698-17b784b76c15/dj.kwkktnnd.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d3/02/27/d30227e9-3ce3-4ba4-8e20-cbef48a9d6a6/886444435710.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Happy Together</strong><br/>
-      The Turtles
+      <strong>Everybody Loves Somebody</strong><br/>
+      Dean Martin
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.254,966</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.695</strong><br/>
-      <sub>updated 15 Jun 2026, 19.48 WIB</sub>
+      <sub>updated 15 Jun 2026, 19.51 WIB</sub>
     </td>
   </tr>
 </table>
