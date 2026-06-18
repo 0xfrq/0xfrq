@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/1a/24/691a2454-c446-cf74-e00c-e6d083f2e622/00094633322455.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m07/d13/h06/s07.usbmmjal.tif/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>FANTASY</strong><br/>
-      Meiko Nakahara
+      <strong>黄昏のBAY CITY</strong><br/>
+      Junko Yagami
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 02.33 WIB</sub>
+      <sub>updated 19 Jun 2026, 02.38 WIB</sub>
     </td>
   </tr>
 </table>
