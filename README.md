@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0b/bd/3c/0bbd3cd1-a854-23b0-024a-cab020887f95/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/f1/bb/b4f1bbc5-6a84-dc7f-9060-33c7f8c4ae83/190295116477.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>SUMMER BLUE</strong><br/>
-      Bread And Butter
+      <strong>街のドルフィン - 2020 Remaster</strong><br/>
+      Kingo Hamada
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 05.42 WIB</sub>
+      <sub>updated 19 Jun 2026, 05.46 WIB</sub>
     </td>
   </tr>
 </table>
