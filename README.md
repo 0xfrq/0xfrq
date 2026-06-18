@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/fe/e5/6ffee579-edef-b4c3-48eb-fa5cad0591ee/888295606905_willis.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/6b/92/0f6b92f7-52e1-67e4-6a7b-7196ef793cdc/080688551261.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>I Think I Like When It Rains</strong><br/>
-      WILLIS
+      <strong>Kiss Me</strong><br/>
+      Sixpence None The Richer
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 00.43 WIB</sub>
+      <sub>updated 19 Jun 2026, 00.44 WIB</sub>
     </td>
   </tr>
 </table>
