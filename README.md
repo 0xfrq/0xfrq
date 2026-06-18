@@ -17,8 +17,8 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Labi Siffre - I Got The... (1975)</strong><br/>
-      aquarianrealm
+      <strong>Kendrick Lamar - Not Like Us</strong><br/>
+      KendrickLamarVEVO
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
