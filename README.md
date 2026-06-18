@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/49/7d/3b/497d3b41-23d1-e06f-3cb3-650b5af3245e/VEATP-35977.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/80/9c/cf809cb5-f369-ad19-30e1-86c1a0a82c62/198704981326_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Sunset Road</strong><br/>
-      高橋玲子
+      <strong>BAKAMITAI - Taxi Driver Edition</strong><br/>
+      桐生一馬(黒田崇矢), SEGA GAME MUSIC, SEGA SOUND TEAM
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 02.54 WIB</sub>
+      <sub>updated 19 Jun 2026, 02.58 WIB</sub>
     </td>
   </tr>
 </table>
