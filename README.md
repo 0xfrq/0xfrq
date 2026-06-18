@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/c3/46/a8c34672-80ba-a73c-a489-753039570a60/190295491505.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/f2/37/60f23702-b7e3-d529-abf2-ed56a8fbbc68/VEATP-34226.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Love Was Really Gone - 2018 Remaster</strong><br/>
-      Makoto Matsushita
+      <strong>Dress Down</strong><br/>
+      Kaoru Akimoto
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.700</strong><br/>
-      <sub>updated 19 Jun 2026, 04.20 WIB</sub>
+      <sub>updated 19 Jun 2026, 04.26 WIB</sub>
     </td>
   </tr>
 </table>
