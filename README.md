@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/2f/59/222f59a4-1e62-025c-91ec-869ef0109197/198001759208.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Rodney O & Joe cooley-Everlasting Bass</strong><br/>
-      Dj8BitBeat
+      <strong>XXXTENTACION - Jocelyn Flores (Audio)</strong><br/>
+      XXXTENTACION
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 02.03 WIB</sub>
+      <sub>updated 19 Jun 2026, 02.04 WIB</sub>
     </td>
   </tr>
 </table>
