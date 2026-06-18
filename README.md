@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/96/c5/4e96c53f-0e15-e1f6-e21e-86b85f52e389/PA00204088_0_234545_jacket.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/b8/7c/69b87ce9-8218-a5f7-2c08-1b58c8b7d3e5/190296236600.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Mayonaka no Door~stay with me - Original club mix</strong><br/>
-      Miki Matsubara
+      <strong>Midnight Pretenders - 2022 restored version</strong><br/>
+      Tomoko Aran
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 05.50 WIB</sub>
+      <sub>updated 19 Jun 2026, 05.56 WIB</sub>
     </td>
   </tr>
 </table>
