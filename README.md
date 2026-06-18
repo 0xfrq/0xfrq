@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/26/5d/72265d48-d844-8217-1944-288436a50820/mzi.jgyybcqg.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/bf/7d/1bbf7d0d-fe41-4e4b-29d0-7feb373a9e4c/190295078515.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>DRIVING MY LOVE</strong><br/>
-      Anri
+      <strong>Shiawasenomonosashi</strong><br/>
+      Mariya Takeuchi
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 17.700</strong><br/>
-      <sub>updated 19 Jun 2026, 04.41 WIB</sub>
+      USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
+      <sub>updated 19 Jun 2026, 04.46 WIB</sub>
     </td>
   </tr>
 </table>
