@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/0f/e5/75/0fe575e6-5e01-968d-8e54-30b8400e17ed/FLCF-5036.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Revenge</strong><br/>
-      MEOVV - Topic
+      <strong>Last Summer Whisper</strong><br/>
+      Anri
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
