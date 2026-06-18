@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/3d/97/c53d978b-4433-743e-7a4b-e01942cd33ee/00602517784154.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/10/a0/94/10a094fd-a25a-c83f-512e-14f3020f8f3b/20UMGIM66609.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Slipping Through My Fingers - From 'Mamma Mia!' Original Motion Picture Soundtrack</strong><br/>
-      Meryl Streep, Amanda Seyfried
+      <strong>Woman - Ultimate Mix</strong><br/>
+      John Lennon
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 18 Jun 2026, 23.57 WIB</sub>
+      <sub>updated 18 Jun 2026, 23.58 WIB</sub>
     </td>
   </tr>
 </table>
