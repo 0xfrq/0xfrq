@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/f1/bb/b4f1bbc5-6a84-dc7f-9060-33c7f8c4ae83/190295116477.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/26/5d/72265d48-d844-8217-1944-288436a50820/mzi.jgyybcqg.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>街のドルフィン</strong><br/>
-      Kingo Hamada
+      <strong>悲しみがとまらない　I CAN'T STOP THE LONELINESS</strong><br/>
+      Anri
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 02.25 WIB</sub>
+      <sub>updated 19 Jun 2026, 02.29 WIB</sub>
     </td>
   </tr>
 </table>
