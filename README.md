@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/3d/97/c53d978b-4433-743e-7a4b-e01942cd33ee/00602517784154.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Slipping Through My Fingers - From 'Mamma Mia!' Original Motion Picture Soundtrack</strong><br/>
-      Meryl Streep, Amanda Seyfried
+      <strong>Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams, Nile Rodgers</strong><br/>
+      DaftPunkVEVO
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 18 Jun 2026, 23.53 WIB</sub>
+      <sub>updated 18 Jun 2026, 23.56 WIB</sub>
     </td>
   </tr>
 </table>
