@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/b3/14/88b314cf-f8bb-a7f8-f316-ce026a3293f6/dj.zgrtxkxp.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/be/62/49/be624949-3011-2561-c034-847077298436/19UMGIM50302.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Mystical Composer</strong><br/>
-      Momoko Kikuchi
+      <strong>Candy</strong><br/>
+      Naoko Gushima
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 05.32 WIB</sub>
+      <sub>updated 19 Jun 2026, 05.37 WIB</sub>
     </td>
   </tr>
 </table>
