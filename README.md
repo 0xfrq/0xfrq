@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/4e/ea/cd4eeac8-b592-e933-6b6b-f928afab15ae/mzi.rjmkypgd.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Midnight Pretenders</strong><br/>
-      Tomoko Aran
+      <strong>The Weeknd - Out of Time</strong><br/>
+      TheWeekndVEVO
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 02.00 WIB</sub>
+      <sub>updated 19 Jun 2026, 02.01 WIB</sub>
     </td>
   </tr>
 </table>
