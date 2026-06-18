@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/f1/bb/b4f1bbc5-6a84-dc7f-9060-33c7f8c4ae83/190295116477.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/96/c5/4e96c53f-0e15-e1f6-e21e-86b85f52e389/PA00204088_0_234545_jacket.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>街のドルフィン - 2020 Remaster</strong><br/>
-      Kingo Hamada
+      <strong>Mayonaka no Door~stay with me - Original club mix</strong><br/>
+      Miki Matsubara
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 05.46 WIB</sub>
+      <sub>updated 19 Jun 2026, 05.50 WIB</sub>
     </td>
   </tr>
 </table>
