@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/41/78/c0/4178c06a-f927-ce18-7621-c844bd348303/DSB36.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/83/df/e383dfdf-cbf0-8977-7f6f-0b8a160fd012/00600406808103.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>スカイレストラン</strong><br/>
-      Hi-Fi Set
+      <strong>ルビーの指環</strong><br/>
+      Akira Terao
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.700</strong><br/>
-      <sub>updated 19 Jun 2026, 03.59 WIB</sub>
+      <sub>updated 19 Jun 2026, 04.02 WIB</sub>
     </td>
   </tr>
 </table>
