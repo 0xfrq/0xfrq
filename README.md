@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/92/2b/ae922b24-7d22-eb75-0f2c-a48b49e43ee7/dj.uhhbdbuq.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>500 Miles</strong><br/>
-      Peter, Paul and Mary
+      <strong>ABBA - Dancing Queen (Official Music Video)</strong><br/>
+      AbbaVEVO
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 00.01 WIB</sub>
+      <sub>updated 19 Jun 2026, 00.04 WIB</sub>
     </td>
   </tr>
 </table>
