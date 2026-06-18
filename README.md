@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/f2/37/60f23702-b7e3-d529-abf2-ed56a8fbbc68/VEATP-34226.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/2d/31/c12d316a-07a8-2b2e-8ae5-6559c8621ddc/143998.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Dress Down</strong><br/>
-      Kaoru Akimoto
+      <strong>Asleep Among Endives</strong><br/>
+      Ichiko Aoba
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.700</strong><br/>
-      <sub>updated 19 Jun 2026, 04.29 WIB</sub>
+      <sub>updated 19 Jun 2026, 04.31 WIB</sub>
     </td>
   </tr>
 </table>
