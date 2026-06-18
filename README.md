@@ -17,8 +17,8 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Beatles - Here, There and Everywhere</strong><br/>
-      TheBeatlesVEVO
+      <strong>Here, There And Everywhere (2022 Mix)</strong><br/>
+      The Beatles - Topic
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
