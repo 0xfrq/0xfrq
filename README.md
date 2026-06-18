@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6c/05/14/6c051475-4061-12d0-9d73-67eabbfa98f0/13UMGIM89582.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b7/c2/36/b7c236f1-7bf7-761c-47f3-97babf31a833/725336268770_cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>まどろみ</strong><br/>
-      Naoko Gushima
+      <strong>Sweet Love</strong><br/>
+      Junko Ohashi
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 04.57 WIB</sub>
+      <sub>updated 19 Jun 2026, 05.01 WIB</sub>
     </td>
   </tr>
 </table>
