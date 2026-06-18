@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/86/cd/64/86cd64c9-9ad5-eeec-aca8-74836625316d/00602498987292.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9c/3b/43/9c3b4304-fbbc-9967-ba5f-6fa9d7e4b30a/CRCPX-20462-WW.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>クリスタル・シティー</strong><br/>
-      Junko Ohashi, 美乃家セントラルステイション
+      <strong>Tokai</strong><br/>
+      Taeko Onuki
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 06.38 WIB</sub>
+      <sub>updated 19 Jun 2026, 06.42 WIB</sub>
     </td>
   </tr>
 </table>
