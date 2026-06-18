@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/ba/ad/f1baadd5-df47-406e-f4be-603eff9d9e3c/13UABIM11969.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/99/33/0e9933fa-9865-95a8-399e-bdddf321aac5/886445578782.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Oh My Love - Remastered 2010</strong><br/>
-      John Lennon
+      <strong>Do I Wanna Know? - Live At the BBC</strong><br/>
+      Hozier
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 00.17 WIB</sub>
+      <sub>updated 19 Jun 2026, 00.20 WIB</sub>
     </td>
   </tr>
 </table>
