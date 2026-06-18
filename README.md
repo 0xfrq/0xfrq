@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/b6/d6/7ab6d662-6d93-387a-4641-d82b350174f8/19UMGIM93759.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/5d/d5/c85dd59a-57ee-1cfb-e4f9-74e24415090c/jacket_MHXX02676B00Z_550.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>killer tune kills me</strong><br/>
-      KIRINJI, YonYon
+      <strong>私達を信じていて</strong><br/>
+      Cindy
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 05.10 WIB</sub>
+      <sub>updated 19 Jun 2026, 05.14 WIB</sub>
     </td>
   </tr>
 </table>
