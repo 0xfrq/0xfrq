@@ -17,14 +17,14 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>NewJeans (뉴진스) 'Hurt' Official MV</strong><br/>
-      HYBE LABELS
+      <strong>NewJeans (뉴진스) 'Supernatural' Lyrics (Color Coded Lyrics)</strong><br/>
+      Jaeguchi
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 00.58 WIB</sub>
+      <sub>updated 19 Jun 2026, 00.59 WIB</sub>
     </td>
   </tr>
 </table>
