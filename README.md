@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/be/62/49/be624949-3011-2561-c034-847077298436/19UMGIM50302.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0b/bd/3c/0bbd3cd1-a854-23b0-024a-cab020887f95/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Candy</strong><br/>
-      Naoko Gushima
+      <strong>SUMMER BLUE</strong><br/>
+      Bread And Butter
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 05.37 WIB</sub>
+      <sub>updated 19 Jun 2026, 05.42 WIB</sub>
     </td>
   </tr>
 </table>
