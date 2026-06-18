@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/56/4f/99564f28-f2ab-1114-8cb0-4fcce642caf8/4050538637427.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b4/00/8f/b4008f7c-72b9-d856-60fa-2ac5cfce2d18/16UMGIM86640.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Supersonic Rocket Ship</strong><br/>
-      The Kinks
+      <strong>How Deep Is Your Love</strong><br/>
+      Bee Gees
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
