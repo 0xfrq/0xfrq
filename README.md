@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/57/9a/ae/579aae46-6581-5d38-e1d2-b7088a643973/190295706791.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c2/14/46/c2144690-029b-a413-94ed-73b8a3f4e08b/FLCF-5033.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>OH NO,OH YES!</strong><br/>
-      Mariya Takeuchi
+      <strong>オリビアを聴きながら</strong><br/>
+      Anri
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 06.02 WIB</sub>
+      <sub>updated 19 Jun 2026, 06.07 WIB</sub>
     </td>
   </tr>
 </table>
