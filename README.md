@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/b8/7c/69b87ce9-8218-a5f7-2c08-1b58c8b7d3e5/190296236600.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/57/9a/ae/579aae46-6581-5d38-e1d2-b7088a643973/190295706791.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Midnight Pretenders - 2022 restored version</strong><br/>
-      Tomoko Aran
+      <strong>OH NO,OH YES!</strong><br/>
+      Mariya Takeuchi
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 05.56 WIB</sub>
+      <sub>updated 19 Jun 2026, 06.02 WIB</sub>
     </td>
   </tr>
 </table>
