@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/d5/2f/85d52f31-7a9a-cf55-aa51-20f7db1fccc1/3614592780126_cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/56/4f/99564f28-f2ab-1114-8cb0-4fcce642caf8/4050538637427.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>To All of You</strong><br/>
-      Syd Matters
+      <strong>Supersonic Rocket Ship</strong><br/>
+      The Kinks
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 00.24 WIB</sub>
+      <sub>updated 19 Jun 2026, 00.28 WIB</sub>
     </td>
   </tr>
 </table>
