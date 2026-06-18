@@ -17,14 +17,14 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>TWICE "The Feels" M/V</strong><br/>
-      JYP Entertainment
+      <strong>Weeekly - After School Lyrics (위클리 - After School 가사) [Color Coded Han/Rom/Eng]</strong><br/>
+      Helloyellow가사
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 01.15 WIB</sub>
+      <sub>updated 19 Jun 2026, 01.19 WIB</sub>
     </td>
   </tr>
 </table>
