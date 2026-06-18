@@ -17,8 +17,8 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Monk Higgins - I Believe to my soul</strong><br/>
-      Azhar
+      <strong>The Edge</strong><br/>
+      David McCallum - Topic
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
