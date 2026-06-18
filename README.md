@@ -17,14 +17,14 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Beatles - The Beatles - Hey Jude (Official Music Video) [Remastered 2015]</strong><br/>
+      <strong>The Beatles - Here, There and Everywhere</strong><br/>
       TheBeatlesVEVO
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 18 Jun 2026, 23.39 WIB</sub>
+      <sub>updated 18 Jun 2026, 23.40 WIB</sub>
     </td>
   </tr>
 </table>
