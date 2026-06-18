@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c2/14/46/c2144690-029b-a413-94ed-73b8a3f4e08b/FLCF-5033.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/98/7c/15/987c1554-b1dd-5e00-c74b-97090c16ce1e/00602567988236.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>オリビアを聴きながら</strong><br/>
-      Anri
+      <strong>ルージュの伝言</strong><br/>
+      Yumi Arai
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 06.07 WIB</sub>
+      <sub>updated 19 Jun 2026, 06.11 WIB</sub>
     </td>
   </tr>
 </table>
