@@ -17,8 +17,8 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Bennie And The Jets - Remastered 2014</strong><br/>
-      Elton John
+      <strong>The Beatles - Here, There and Everywhere</strong><br/>
+      TheBeatlesVEVO
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
