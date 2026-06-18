@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/0f/e5/75/0fe575e6-5e01-968d-8e54-30b8400e17ed/FLCF-5036.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/49/7d/3b/497d3b41-23d1-e06f-3cb3-650b5af3245e/VEATP-35977.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Fly By Day</strong><br/>
-      Anri
+      <strong>Sunset Road</strong><br/>
+      高橋玲子
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 02.50 WIB</sub>
+      <sub>updated 19 Jun 2026, 02.54 WIB</sub>
     </td>
   </tr>
 </table>
