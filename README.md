@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/25/40/c5/2540c5bd-32e5-868f-3a63-a038e020463d/08UMGIM15738.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Beach House - Silver Soul [OFFICIAL VIDEO]</strong><br/>
-      Sub Pop
+      <strong>Oliver Tree & Robin Schulz - Miss You [Official Music Video]</strong><br/>
+      Oliver Tree
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
