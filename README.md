@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/99/33/0e9933fa-9865-95a8-399e-bdddf321aac5/886445578782.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/d5/2f/85d52f31-7a9a-cf55-aa51-20f7db1fccc1/3614592780126_cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Do I Wanna Know? - Live At the BBC</strong><br/>
-      Hozier
+      <strong>To All of You</strong><br/>
+      Syd Matters
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 00.20 WIB</sub>
+      <sub>updated 19 Jun 2026, 00.24 WIB</sub>
     </td>
   </tr>
 </table>
