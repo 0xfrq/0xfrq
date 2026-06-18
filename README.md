@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/3a/2b/e83a2b42-b8a7-b821-32e4-912a2ee9bfec/23UMGIM09953.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/f1/bb/b4f1bbc5-6a84-dc7f-9060-33c7f8c4ae83/190295116477.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>LOVE TRIP</strong><br/>
-      間宮貴子
+      <strong>midnight cruisin'</strong><br/>
+      Kingo Hamada
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 03.03 WIB</sub>
+      <sub>updated 19 Jun 2026, 03.07 WIB</sub>
     </td>
   </tr>
 </table>
