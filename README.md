@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/94/24/59/94245937-6d9a-6f98-d206-5bebb8e0222a/FIXIMG00602438418145.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/0b/a7/f7/mzi.bfwpjjhr.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>テレフォン・ナンバー</strong><br/>
-      Junko Ohashi
+      <strong>F L Y</strong><br/>
+      Spectrum
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 02.42 WIB</sub>
+      <sub>updated 19 Jun 2026, 02.46 WIB</sub>
     </td>
   </tr>
 </table>
