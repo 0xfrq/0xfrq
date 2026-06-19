@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ac/5c/d0/ac5cd097-0a91-83da-17c6-052ee5e3f734/00602567988243.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f3/2e/c9/f32ec9c4-8c8e-0e88-1d90-959071a41346/VEATP-33348.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>中央フリーウェイ</strong><br/>
-      Yumi Arai
+      <strong>我がままなハイヒール</strong><br/>
+      Kaoru Akimoto
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 07.15 WIB</sub>
+      <sub>updated 19 Jun 2026, 07.19 WIB</sub>
     </td>
   </tr>
 </table>
