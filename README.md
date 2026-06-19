@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/26/5d/72265d48-d844-8217-1944-288436a50820/mzi.jgyybcqg.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/ad/9a/9bad9af2-fbec-fe6d-a370-d820dab2caba/PA00204081_0_234548_jacket.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>YOU ARE NOT ALONE</strong><br/>
-      Anri
+      <strong>Rainy Day Woman</strong><br/>
+      Miki Matsubara
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>6.198,734</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 09.08 WIB</sub>
+      <sub>updated 19 Jun 2026, 09.12 WIB</sub>
     </td>
   </tr>
 </table>
