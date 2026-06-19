@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4c/58/48/4c58488c-910c-cf83-fa04-f99d610110e6/859755485798_cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/93/fb/fe93fb63-a783-26e6-b008-24a44d886d3b/190295491536.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Plastic Love</strong><br/>
-      Friday Night Plans
+      <strong>Business Man, Pt. 1 - 2018 Remaster</strong><br/>
+      Makoto Matsushita
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 08.38 WIB</sub>
+      <sub>updated 19 Jun 2026, 08.43 WIB</sub>
     </td>
   </tr>
 </table>
