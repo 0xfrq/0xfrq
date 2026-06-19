@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/3a/2b/e83a2b42-b8a7-b821-32e4-912a2ee9bfec/23UMGIM09953.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/9c/45/839c451c-4a4c-45f1-2bc8-1f5e41800434/4560427466828.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>モーニング・フライト</strong><br/>
-      間宮貴子
+      <strong>じゃじゃ馬娘</strong><br/>
+      Taeko Onuki
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.172,34</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.821</strong><br/>
-      <sub>updated 19 Jun 2026, 07.35 WIB</sub>
+      <sub>updated 19 Jun 2026, 07.39 WIB</sub>
     </td>
   </tr>
 </table>
