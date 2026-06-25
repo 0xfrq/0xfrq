@@ -36,7 +36,7 @@
 ### About Me
 
 - Currently diving into **low-level programming**, operating systems, and computer architecture
-- I enjoy building practical tools—from automation scripts and CLI utilities to hardware integrations and experimental OS projects
+- I enjoy building practical tools, from automation scripts and CLI utilities to hardware integrations and experimental OS projects
 - I treat GitHub as an archive of things I learn, build, and break along the way
 - Passionate about **open source**, learning by doing, and contributing whenever I can
 - I believe the best way to understand a system is to build it from scratch
