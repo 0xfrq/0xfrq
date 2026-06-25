@@ -1,0 +1,22 @@
+.toggle {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  z-index: 10;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: lowercase;
+  color: var(--text-muted);
+  padding: 0.35rem 0.8rem;
+  transition: color 0.2s;
+  will-change: transform;
+}
+
+.toggle:hover {
+  color: var(--text);
+}

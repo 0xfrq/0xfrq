@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+/* ── Theme custom properties ── */
+:root {
+  --bg: #f8f6f2;
+  --bg-glow: radial-gradient(ellipse 500px 400px at 50% 40%, rgba(210, 190, 160, 0.35), transparent 80%);
+  --text: #1a1a1a;
+  --text-muted: #555;
+  --text-footer: #aaa;
+  --border: #d4d0c8;
+  --link-hover-bg: #555;
+}
+
+[data-theme="dark"] {
+  --bg: #0e0e10;
+  --bg-glow: radial-gradient(ellipse 500px 400px at 50% 40%, rgba(80, 60, 140, 0.25), transparent 80%);
+  --text: #e4e4e4;
+  --text-muted: #888;
+  --text-footer: #444;
+  --border: #2a2a2e;
+  --link-hover-bg: #888;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-text: var(--text);
+  --color-text-muted: var(--text-muted);
+  --color-text-footer: var(--text-footer);
+  --color-border: var(--border);
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+/* ── Base reset ── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg);
+  background-image: var(--bg-glow);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.3s ease, background-image 0.3s ease, color 0.3s ease;
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
