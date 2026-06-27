@@ -4,6 +4,7 @@ import homeStyles from "../page.module.css";
 import styles from "./page.module.css";
 import repos from "@/data/pinned-repos.json";
 import Pagination from "../components/Pagination";
+import ThemeToggle from "../components/ThemeToggle";
 
 const spectral = Spectral({
   subsets: ["latin"],
@@ -44,13 +45,19 @@ export default async function Projects({
       style={{ fontWeight: 100 }}
     >
       <div className={homeStyles.card}>
-        <nav style={{ marginBottom: "1rem" }}>
-          <Link href="/" style={{ color: "var(--text-muted)", fontSize: "0.875rem" }}>
-            ← back
-          </Link>
-        </nav>
+<div style={{ display: "flex", alignItems: "center", marginBottom: "1.25rem", width: "100%" }}>
+  <div style={{ flex: 1 }}>
+    <Link href="/" style={{ color: "var(--text-muted)", fontSize: "0.875rem" }}>
+      ← back
+    </Link>
+  </div>
 
-        <h2 style={{ marginBottom: "1.25rem", fontWeight: 600 }}>projects</h2>
+  <h2 style={{ fontWeight: 600, margin: 0 }}>projects</h2>
+
+  <div style={{ flex: 1, display: "flex", justifyContent: "flex-end", alignItems: "center" }}>
+    <ThemeToggle style={{ position: "static" }} />
+  </div>
+</div>
 
         <div className={styles.list}>
           {projects.length === 0 && (
@@ -68,7 +75,9 @@ export default async function Projects({
               className={styles.item}
             >
               <div className={styles.itemTitle}>{p.name}</div>
-              {p.description && <div className={styles.itemDesc}>{p.description}</div>}
+              {p.description && (
+                <div className={styles.itemDesc}>{p.description}</div>
+              )}
               {(p.language || p.stars > 0 || p.forks > 0 || p.topics.length > 0) && (
                 <div className={styles.itemMeta}>
                   {p.language && (
@@ -81,14 +90,10 @@ export default async function Projects({
                     </span>
                   )}
                   {p.stars > 0 && (
-                    <span className={styles.metaTag}>
-                      ★ {p.stars}
-                    </span>
+                    <span className={styles.metaTag}>★ {p.stars}</span>
                   )}
                   {p.forks > 0 && (
-                    <span className={styles.metaTag}>
-                      ⎇ {p.forks}
-                    </span>
+                    <span className={styles.metaTag}>⎇ {p.forks}</span>
                   )}
                   {p.topics.slice(0, 3).map((topic) => (
                     <span key={topic} className={styles.topicTag}>

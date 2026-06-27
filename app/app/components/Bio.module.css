@@ -4,6 +4,8 @@
   line-height: 1.6;
   color: var(--text-muted);
   transition: color 0.3s ease;
+  width: 100%;
+  padding: 0.75rem 0;
 }
 
 .bio p {

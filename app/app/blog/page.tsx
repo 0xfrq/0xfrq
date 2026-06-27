@@ -3,6 +3,7 @@ import Link from "next/link";
 import homeStyles from "../page.module.css";
 import styles from "./page.module.css";
 import Pagination from "../components/Pagination";
+import ThemeToggle from "../components/ThemeToggle";
 
 const spectral = Spectral({
   subsets: ["latin"],
@@ -64,13 +65,19 @@ export default async function Blog({
       style={{ fontWeight: 100 }}
     >
       <div className={homeStyles.card}>
-        <nav style={{ marginBottom: "1rem" }}>
-          <Link href="/" style={{ color: "var(--text-muted)", fontSize: "0.875rem" }}>
-            ← back
-          </Link>
-        </nav>
+        <div style={{ display: "flex", alignItems: "center", marginBottom: "1.25rem", width: "100%" }}>
+          <div style={{ flex: 1 }}>
+            <Link href="/" style={{ color: "var(--text-muted)", fontSize: "0.875rem" }}>
+              ← back
+            </Link>
+          </div>
 
-        <h2 style={{ marginBottom: "1.25rem", fontWeight: 600 }}>blog</h2>
+          <h2 style={{ fontWeight: 600, margin: 0 }}>blog</h2>
+
+          <div style={{ flex: 1, display: "flex", justifyContent: "flex-end", alignItems: "center" }}>
+            <ThemeToggle style={{ position: "static" }} />
+          </div>
+        </div>
 
         <div className={styles.list}>
           {posts.length === 0 && (

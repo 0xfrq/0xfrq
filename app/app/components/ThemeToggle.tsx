@@ -4,7 +4,7 @@ import { useRef, useCallback } from "react";
 import { useTheme } from "./ThemeProvider";
 import styles from "./ThemeToggle.module.css";
 
-export default function ThemeToggle() {
+export default function ThemeToggle({ style }: { style?: React.CSSProperties }) {
   const { theme, toggle } = useTheme();
   const rafRef = useRef<number | null>(null);
   const btnRef = useRef<HTMLButtonElement>(null);
@@ -35,6 +35,7 @@ export default function ThemeToggle() {
     <button
       ref={btnRef}
       className={styles.toggle}
+      style={style}
       onClick={toggle}
       onMouseMove={handleMouseMove}
       onMouseLeave={handleMouseLeave}

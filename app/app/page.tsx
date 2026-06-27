@@ -19,7 +19,9 @@ export default function Home() {
       style={{ fontWeight: 100 }}
     >
       <div className={homeStyles.card}>
-        <ThemeToggle />
+        <div style={{ position: "relative", width: "100%" }}>
+          <ThemeToggle />
+        </div>
         <AsciiArt />
         <Bio />
       </div>

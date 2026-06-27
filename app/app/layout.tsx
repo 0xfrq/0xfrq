@@ -37,6 +37,20 @@ export default function RootLayout({
   return (
     <html lang="en" className="fonts-loaded" suppressHydrationWarning>
       <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              (function() {
+                try {
+                  var t = localStorage.getItem("theme");
+                  if (t === "dark") {
+                    document.documentElement.setAttribute("data-theme", "dark");
+                  }
+                } catch(e) {}
+              })();
+            `,
+          }}
+        />
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
