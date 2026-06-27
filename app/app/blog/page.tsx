@@ -2,6 +2,7 @@ import { Spectral } from "next/font/google";
 import Link from "next/link";
 import homeStyles from "../page.module.css";
 import styles from "./page.module.css";
+import Pagination from "../components/Pagination";
 
 const spectral = Spectral({
   subsets: ["latin"],
@@ -9,6 +10,8 @@ const spectral = Spectral({
   style: ["normal", "italic"],
   display: "swap",
 });
+
+const PER_PAGE = 10;
 
 type Post = {
   title: string;
@@ -22,7 +25,7 @@ type Post = {
 async function getPosts(): Promise<Post[]> {
   try {
     const res = await fetch("https://blog.fariqdoing.tech/api/posts/", {
-      next: { revalidate: 3600 }, // revalidate every hour
+      next: { revalidate: 3600 },
     });
     if (!res.ok) throw new Error(`API responded with ${res.status}`);
     const data = await res.json();
@@ -41,8 +44,19 @@ function formatDate(iso: string) {
   });
 }
 
-export default async function Blog() {
-  const posts = await getPosts();
+export default async function Blog({
+  searchParams,
+}: {
+  searchParams: Promise<{ page?: string }>;
+}) {
+  const allPosts = await getPosts();
+  const params = await searchParams;
+  const currentPage = Math.max(1, Number(params?.page) || 1);
+  const totalPages = Math.ceil(allPosts.length / PER_PAGE);
+  const posts = allPosts.slice(
+    (currentPage - 1) * PER_PAGE,
+    currentPage * PER_PAGE,
+  );
 
   return (
     <main
@@ -97,6 +111,8 @@ export default async function Blog() {
             </a>
           ))}
         </div>
+
+        <Pagination basePath="/blog" currentPage={currentPage} totalPages={totalPages} />
       </div>
     </main>
   );

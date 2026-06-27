@@ -3,6 +3,7 @@ import Link from "next/link";
 import homeStyles from "../page.module.css";
 import styles from "./page.module.css";
 import repos from "@/data/pinned-repos.json";
+import Pagination from "../components/Pagination";
 
 const spectral = Spectral({
   subsets: ["latin"],
@@ -10,6 +11,8 @@ const spectral = Spectral({
   style: ["normal", "italic"],
   display: "swap",
 });
+
+const PER_PAGE = 10;
 
 type Repo = {
   name: string;
@@ -21,8 +24,19 @@ type Repo = {
   topics: string[];
 };
 
-export default function Projects() {
-  const projects = repos as Repo[];
+export default async function Projects({
+  searchParams,
+}: {
+  searchParams: Promise<{ page?: string }>;
+}) {
+  const allProjects = repos as Repo[];
+  const params = await searchParams;
+  const currentPage = Math.max(1, Number(params?.page) || 1);
+  const totalPages = Math.ceil(allProjects.length / PER_PAGE);
+  const projects = allProjects.slice(
+    (currentPage - 1) * PER_PAGE,
+    currentPage * PER_PAGE,
+  );
 
   return (
     <main
@@ -86,6 +100,8 @@ export default function Projects() {
             </a>
           ))}
         </div>
+
+        <Pagination basePath="/projects" currentPage={currentPage} totalPages={totalPages} />
       </div>
     </main>
   );
