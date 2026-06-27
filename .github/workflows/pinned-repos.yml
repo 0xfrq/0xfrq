@@ -1,0 +1,45 @@
+name: Fetch Pinned Repositories
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-pinned:
+    runs-on: ubuntu-latest
+    environment: env
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run pinned-repos fetcher
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/fetch-pinned-repos.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add app/data/pinned-repos.json
+          git diff --cached --quiet || git commit -m "Update pinned repos"
+
+          git push
+
+      - name: Trigger Vercel redeploy
+        if: ${{ vars.VERCEL_DEPLOY_HOOK_URL != '' }}
+        env:
+          VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: |
+          curl -X POST "$VERCEL_DEPLOY_HOOK_URL"

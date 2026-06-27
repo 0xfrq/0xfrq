@@ -70,6 +70,16 @@ export default function Bio() {
           <b>Fariq</b> is always open for collaboration and new opportunities.
         </a>
       </div>
+
+      <div className={styles.nav}>
+        <a href="/projects">
+          <b>projects</b>
+        </a>
+        <span className={styles.sep}>/</span>
+        <a href="/blog">
+          <b>blog</b>
+        </a>
+      </div>
     </div>
   );
 }
