@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4f/1e/49/4f1e498c-bfd1-9a74-bfb9-e4945e3ce851/mzi.nbijprbi.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8f/07/09/8f070920-3211-12f7-ae1d-b71a68542569/603497068562.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Can't Smile Without You</strong><br/>
-      Barry Manilow
+      <strong>I Only Have Eyes for You</strong><br/>
+      The Flamingos
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.896,134</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 27 Jun 2026, 18.08 WIB</sub>
+      <sub>updated 27 Jun 2026, 18.11 WIB</sub>
     </td>
   </tr>
 </table>
