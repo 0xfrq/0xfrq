@@ -10,34 +10,40 @@ const spectral = Spectral({
   display: "swap",
 });
 
-const posts = [
-  {
-    title: "Building an OS from Scratch: Part 1 — The Bootloader",
-    date: "2025-12-01",
-    excerpt: "Setting up a minimal x86_64 bootloader using NASM and QEMU, walking through real mode, protected mode, and long mode transitions.",
-    href: "https://github.com/0xfrq",
-  },
-  {
-    title: "Understanding the Go Scheduler: A Deep Dive",
-    date: "2025-10-15",
-    excerpt: "An exploration of Go's M:N scheduling model — GOMAXPROCS, work stealing, and how goroutines map to OS threads.",
-    href: "https://github.com/0xfrq",
-  },
-  {
-    title: "Why I Write CLI Tools in Rust",
-    date: "2025-08-20",
-    excerpt: "Comparing ergonomics and performance across Python, Go, and Rust for command-line tooling.",
-    href: "https://github.com/0xfrq",
-  },
-  {
-    title: "Automating My Development Environment with Nix",
-    date: "2025-06-10",
-    excerpt: "Reproducible dev shells, declarative package management, and how Nix changed my workflow.",
-    href: "https://github.com/0xfrq",
-  },
-];
+type Post = {
+  title: string;
+  slug: string;
+  category: string;
+  date: string;
+  tags: string[];
+  description: string;
+};
 
-export default function Blog() {
+async function getPosts(): Promise<Post[]> {
+  try {
+    const res = await fetch("https://blog.fariqdoing.tech/api/posts/", {
+      next: { revalidate: 3600 }, // revalidate every hour
+    });
+    if (!res.ok) throw new Error(`API responded with ${res.status}`);
+    const data = await res.json();
+    return data;
+  } catch (e) {
+    console.error("Failed to fetch blog posts:", e);
+    return [];
+  }
+}
+
+function formatDate(iso: string) {
+  return new Date(iso).toLocaleDateString("en-US", {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  });
+}
+
+export default async function Blog() {
+  const posts = await getPosts();
+
   return (
     <main
       className={`${spectral.className} ${homeStyles.main}`}
@@ -53,19 +59,41 @@ export default function Blog() {
         <h2 style={{ marginBottom: "1.25rem", fontWeight: 600 }}>blog</h2>
 
         <div className={styles.list}>
+          {posts.length === 0 && (
+            <div style={{ color: "var(--text-muted)", textAlign: "center", fontSize: "0.9rem" }}>
+              no posts yet.
+            </div>
+          )}
+
           {posts.map((p) => (
             <a
-              key={p.title}
-              href={p.href}
+              key={p.slug}
+              href={`https://blog.fariqdoing.tech/posts/${p.slug}/`}
               target="_blank"
               rel="noopener noreferrer"
               className={styles.item}
             >
               <div className={styles.itemHeader}>
                 <span className={styles.itemTitle}>{p.title}</span>
-                <span className={styles.itemDate}>{p.date}</span>
+                <span className={styles.itemDate}>{formatDate(p.date)}</span>
               </div>
-              <div className={styles.itemExcerpt}>{p.excerpt}</div>
+
+              {p.description && (
+                <div className={styles.itemExcerpt}>{p.description}</div>
+              )}
+
+              <div className={styles.itemFooter}>
+                <span className={styles.categoryTag}>{p.category}</span>
+                {p.tags.length > 0 && (
+                  <div className={styles.tagList}>
+                    {p.tags.map((tag) => (
+                      <span key={tag} className={styles.tag}>
+                        {tag}
+                      </span>
+                    ))}
+                  </div>
+                )}
+              </div>
             </a>
           ))}
         </div>
