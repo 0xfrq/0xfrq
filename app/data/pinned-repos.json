@@ -1,11 +1,74 @@
 [
   {
-    "name": "0xfrq",
-    "description": "Profile readme.",
-    "href": "https://github.com/0xfrq/0xfrq",
+    "name": "OaSis",
+    "description": "simple os, made from scratch.",
+    "href": "https://github.com/0xfrq/OaSis",
+    "stars": 1,
+    "forks": 0,
+    "language": {
+      "name": "C",
+      "color": "#555555"
+    },
+    "topics": []
+  },
+  {
+    "name": "visiondrive3d",
+    "description": null,
+    "href": "https://github.com/homomachinus/visiondrive3d",
+    "stars": 1,
+    "forks": 0,
+    "language": {
+      "name": "Python",
+      "color": "#3572A5"
+    },
+    "topics": []
+  },
+  {
+    "name": "assetivo",
+    "description": null,
+    "href": "https://github.com/homomachinus/assetivo",
+    "stars": 1,
+    "forks": 0,
+    "language": {
+      "name": "HTML",
+      "color": "#e34c26"
+    },
+    "topics": []
+  },
+  {
+    "name": "noteify",
+    "description": "archive of everything that goes into my brain, academically.",
+    "href": "https://github.com/0xfrq/noteify",
+    "stars": 2,
+    "forks": 0,
+    "language": {
+      "name": "TeX",
+      "color": "#3D6117"
+    },
+    "topics": []
+  },
+  {
+    "name": "spo-taskbar",
+    "description": null,
+    "href": "https://github.com/0xfrq/spo-taskbar",
     "stars": 0,
     "forks": 0,
-    "language": null,
+    "language": {
+      "name": "HTML",
+      "color": "#e34c26"
+    },
+    "topics": []
+  },
+  {
+    "name": "gitauto",
+    "description": null,
+    "href": "https://github.com/0xfrq/gitauto",
+    "stars": 2,
+    "forks": 0,
+    "language": {
+      "name": "C",
+      "color": "#555555"
+    },
     "topics": []
   }
 ]
