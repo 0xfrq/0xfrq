@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3a/ec/62/3aec62c5-3706-5004-6fea-fd6c7ca1b970/5099991502551.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a3/db/ab/a3dbab5c-8902-b7ee-4136-53b7e2024a70/00602547530295.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Beetlebum - 2012 Remaster</strong><br/>
-      Blur
+      <strong>I Will Follow You</strong><br/>
+      Ricky Nelson
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.896,134</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 27 Jun 2026, 20.08 WIB</sub>
+      <sub>updated 27 Jun 2026, 20.13 WIB</sub>
     </td>
   </tr>
 </table>
