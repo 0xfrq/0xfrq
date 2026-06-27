@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/3d/db/c03ddbaa-65fb-3e94-9c0b-83d0e49ef1b4/5056495307020_1.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/3a/62/023a629e-1541-c493-0b45-536cbe9b59dd/825646642847.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Magnolia</strong><br/>
-      Laufey
+      <strong>Please, Please, Please, Let Me Get What I Want - 2011 Remaster</strong><br/>
+      The Smiths
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.896,134</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 27 Jun 2026, 17.41 WIB</sub>
+      <sub>updated 27 Jun 2026, 17.44 WIB</sub>
     </td>
   </tr>
 </table>
