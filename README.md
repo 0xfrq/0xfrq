@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bc/f3/fb/bcf3fb1a-ecf7-a92a-50a1-3db7975bed9d/s02.uhncqiae.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/49/7c/bd497cd4-9b88-2b15-f68e-abe041c6be1d/23UMGIM38705.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Here, There And Everywhere - Remastered 2009</strong><br/>
-      The Beatles
+      <strong>20191009 I Like Her</strong><br/>
+      Mac DeMarco
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.896,134</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 27 Jun 2026, 21.14 WIB</sub>
+      <sub>updated 27 Jun 2026, 21.16 WIB</sub>
     </td>
   </tr>
 </table>
