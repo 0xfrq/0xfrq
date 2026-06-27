@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/eb/d6/fc/mzi.ppkbuzdu.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/d2/c7/b9d2c7ef-04c1-dc94-e673-74481c1e0d4d/58782.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Last Night on Earth</strong><br/>
-      Green Day
+      <strong>Kosong - Societeit de Harmonie ft Natasya Elvira & Jamie Aditya</strong><br/>
+      Societeit de Harmonie
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.896,134</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 27 Jun 2026, 20.36 WIB</sub>
+      <sub>updated 27 Jun 2026, 20.39 WIB</sub>
     </td>
   </tr>
 </table>
