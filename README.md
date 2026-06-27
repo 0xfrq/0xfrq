@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8e/84/65/8e84659d-617e-6816-1680-6c0fbda48d9d/886447563786.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/84/1e/1b/841e1ba9-120d-491f-4be6-6c943f19d907/mzi.jjswxbfu.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Leaving, On a Jet Plane - "Greatest Hits" Version</strong><br/>
-      John Denver
+      <strong>Nightmare</strong><br/>
+      Avenged Sevenfold
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.896,134</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 27 Jun 2026, 22.03 WIB</sub>
+      <sub>updated 27 Jun 2026, 22.07 WIB</sub>
     </td>
   </tr>
 </table>
