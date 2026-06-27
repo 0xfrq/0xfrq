@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/00/72/ec/0072eca7-e9dd-10f4-94a3-020eda6744ff/190295275273.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/72/09/b4720975-f03e-5e56-81c2-8119ad3ad463/25UMGIM81877.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Stand By Me - Acoustic</strong><br/>
-      Liam Gallagher
+      <strong>Kala Cinta Menggoda</strong><br/>
+      Chrisye
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.896,134</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 27 Jun 2026, 21.51 WIB</sub>
+      <sub>updated 27 Jun 2026, 21.55 WIB</sub>
     </td>
   </tr>
 </table>
