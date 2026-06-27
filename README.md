@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/82/d4/d182d41a-bcbc-fbec-0e67-402efc414b04/26UMGIM82692.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8d/22/a8/8d22a8f9-fe4f-880a-667e-6127fbd78375/16UMGIM60878.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Love You To - Remastered 2009</strong><br/>
-      The Beatles
+      <strong>Every Little Thing She Does Is Magic</strong><br/>
+      The Police
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.896,134</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 27 Jun 2026, 21.43 WIB</sub>
+      <sub>updated 27 Jun 2026, 21.45 WIB</sub>
     </td>
   </tr>
 </table>
