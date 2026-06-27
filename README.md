@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/a9/1d/17a91d9e-6bb7-45d6-0964-fddc679d2c4d/603497842032.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/35/94/07/35940722-f004-ce59-5870-af6493573837/067003127653.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Our House - 2021 Remaster</strong><br/>
-      Crosby, Stills, Nash & Young
+      <strong>Everyone Adores You (at least I do)</strong><br/>
+      Matt Maltese
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.896,134</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 27 Jun 2026, 21.00 WIB</sub>
+      <sub>updated 27 Jun 2026, 21.03 WIB</sub>
     </td>
   </tr>
 </table>
