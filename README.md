@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/ad/9a/9bad9af2-fbec-fe6d-a370-d820dab2caba/PA00204081_0_234548_jacket.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/2a/43/d02a433a-3ab8-9a94-b07d-1dc599b64966/93624864387.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Rainy Day Woman</strong><br/>
-      Miki Matsubara
+      <strong>Glimpse of Us</strong><br/>
+      Joji
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.999,038</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 17.937</strong><br/>
-      <sub>updated 26 Jun 2026, 04.01 WIB</sub>
+      IHSG &nbsp;&nbsp;<strong>5.896,134</strong><br/>
+      USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
+      <sub>updated 27 Jun 2026, 17.51 WIB</sub>
     </td>
   </tr>
 </table>
