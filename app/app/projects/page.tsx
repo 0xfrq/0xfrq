@@ -23,7 +23,21 @@ type Repo = {
   forks: number;
   language: { name: string; color: string } | null;
   topics: string[];
+  lastCommit?: string | null;
 };
+
+function timeAgo(dateStr: string): string {
+  const now = Date.now();
+  const then = new Date(dateStr).getTime();
+  const diff = now - then;
+  const days = Math.floor(diff / 86400000);
+  if (days === 0) return "today";
+  if (days === 1) return "yesterday";
+  if (days < 30) return `${days} days ago`;
+  const months = Math.floor(days / 30);
+  if (months < 12) return `${months}mo ago`;
+  return `${Math.floor(months / 12)}y ago`;
+}
 
 export default async function Projects({
   searchParams,
@@ -77,6 +91,9 @@ export default async function Projects({
               <div className={styles.itemTitle}>{p.name}</div>
               {p.description && (
                 <div className={styles.itemDesc}>{p.description}</div>
+              )}
+              {p.lastCommit && (
+                <div className={styles.itemCommit}>last commit: {timeAgo(p.lastCommit)}</div>
               )}
               {(p.language || p.stars > 0 || p.forks > 0 || p.topics.length > 0) && (
                 <div className={styles.itemMeta}>

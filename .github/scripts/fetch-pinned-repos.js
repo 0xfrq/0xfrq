@@ -30,6 +30,13 @@ const query = `
                 }
               }
             }
+            defaultBranchRef {
+              target {
+                ... on Commit {
+                  committedDate
+                }
+              }
+            }
           }
         }
       }
@@ -75,6 +82,7 @@ async function main() {
       ? { name: repo.primaryLanguage.name, color: repo.primaryLanguage.color }
       : null,
     topics: repo.repositoryTopics?.nodes?.map((t) => t.topic.name) || [],
+    lastCommit: repo.defaultBranchRef?.target?.committedDate || null,
   }));
 
   // Ensure output directory exists

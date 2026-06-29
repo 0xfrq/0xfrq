@@ -32,6 +32,12 @@
   margin-bottom: 0.4rem;
 }
 
+.itemCommit {
+  font-size: 0.75rem;
+  color: var(--text-footer);
+  margin-bottom: 0.35rem;
+}
+
 .itemMeta {
   display: flex;
   flex-wrap: wrap;
