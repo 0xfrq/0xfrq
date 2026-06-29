@@ -1,7 +1,7 @@
 [
   {
     "name": "OaSis",
-    "description": "simple os, made from scratch.",
+    "description": "simple os, built from scratch.",
     "href": "https://github.com/0xfrq/OaSis",
     "stars": 1,
     "forks": 0,
@@ -10,7 +10,7 @@
       "color": "#555555"
     },
     "topics": [],
-    "lastCommit": "2026-06-29T06:02:01Z"
+    "lastCommit": "2026-06-29T06:06:30Z"
   },
   {
     "name": "visiondrive3d",
