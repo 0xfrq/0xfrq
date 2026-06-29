@@ -9,7 +9,8 @@
       "name": "C",
       "color": "#555555"
     },
-    "topics": []
+    "topics": [],
+    "lastCommit": "2026-06-27T15:02:23Z"
   },
   {
     "name": "visiondrive3d",
@@ -21,7 +22,8 @@
       "name": "Python",
       "color": "#3572A5"
     },
-    "topics": []
+    "topics": [],
+    "lastCommit": "2026-06-13T10:26:43Z"
   },
   {
     "name": "assetivo",
@@ -33,7 +35,8 @@
       "name": "HTML",
       "color": "#e34c26"
     },
-    "topics": []
+    "topics": [],
+    "lastCommit": "2026-05-25T12:56:44Z"
   },
   {
     "name": "noteify",
@@ -45,7 +48,8 @@
       "name": "TeX",
       "color": "#3D6117"
     },
-    "topics": []
+    "topics": [],
+    "lastCommit": "2026-06-14T04:14:17Z"
   },
   {
     "name": "spo-taskbar",
@@ -57,7 +61,8 @@
       "name": "HTML",
       "color": "#e34c26"
     },
-    "topics": []
+    "topics": [],
+    "lastCommit": "2026-05-25T21:09:45Z"
   },
   {
     "name": "gitauto",
@@ -69,6 +74,7 @@
       "name": "C",
       "color": "#555555"
     },
-    "topics": []
+    "topics": [],
+    "lastCommit": "2026-02-15T08:07:55Z"
   }
 ]
