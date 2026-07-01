@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ef/54/0b/ef540ba4-bbe7-0809-aa55-97ce32e0e13d/18UMGIM55763.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/4d/c4/a04dc484-03cc-02aa-fa82-5334fcb4bc16/18UMGIM24878.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Don't Stop Me Now - ...Revisited</strong><br/>
-      Queen
+      <strong>Paradise City</strong><br/>
+      Guns N' Roses
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.690,861</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.690,581</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.945</strong><br/>
-      <sub>updated 01 Jul 2026, 12.07 WIB</sub>
+      <sub>updated 01 Jul 2026, 12.11 WIB</sub>
     </td>
   </tr>
 </table>
