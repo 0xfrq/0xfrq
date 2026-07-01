@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/6c/a5/066ca54f-d682-e85e-92bf-fa8b1706d650/24UMGIM29105.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/47/af/4c/47af4ce2-9b5a-9ba4-18da-cf8a8ce5cbfd/886446272498.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Ku Tunggu Kau Putus</strong><br/>
-      Sheryl Sheinafia, Ariel NOAH
+      <strong>I Still Love You</strong><br/>
+      TheOvertunes
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.695,116</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.956</strong><br/>
-      <sub>updated 02 Jul 2026, 02.05 WIB</sub>
+      <sub>updated 02 Jul 2026, 02.08 WIB</sub>
     </td>
   </tr>
 </table>
