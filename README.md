@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/84/c7/5a/84c75aab-fcf3-3e3e-3548-c467bb28c45a/00602567824114.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/14/c5/97/14c597a3-22c8-d2a9-dc49-0f8b1496f776/14UMGIM16822.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>I Don't Want To Set The World On Fire</strong><br/>
-      The Ink Spots
+      <strong>The Girl From Ipanema</strong><br/>
+      Stan Getz
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.722,205</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.726,494</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 01 Jul 2026, 11.00 WIB</sub>
+      <sub>updated 01 Jul 2026, 11.01 WIB</sub>
     </td>
   </tr>
 </table>
