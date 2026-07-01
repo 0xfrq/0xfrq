@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/fe/e5/6ffee579-edef-b4c3-48eb-fa5cad0591ee/888295606905_willis.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/02/4f/be/024fbe59-7bf9-098b-9a75-8a801e5edb0a/196871101493.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>I Think I Like When It Rains</strong><br/>
-      WILLIS
+      <strong>Unknown / Nth</strong><br/>
+      Hozier
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.643,194</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.957</strong><br/>
-      <sub>updated 01 Jul 2026, 08.30 WIB</sub>
+      <sub>updated 01 Jul 2026, 08.33 WIB</sub>
     </td>
   </tr>
 </table>
