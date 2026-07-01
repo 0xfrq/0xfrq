@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/dd/65/57/dd65576e-a0ac-31d9-1d19-a8217ec97e6f/00602547172648.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/47/d6/fe/47d6fe2f-b14c-d8a7-597c-8a40e094364e/886449932795.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Blurred Lines</strong><br/>
-      Robin Thicke, T.I., Pharrell Williams
+      <strong>Don't Stop Believin' (2022 Remaster)</strong><br/>
+      Journey
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.690,581</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.945</strong><br/>
-      <sub>updated 01 Jul 2026, 12.52 WIB</sub>
+      <sub>updated 01 Jul 2026, 12.55 WIB</sub>
     </td>
   </tr>
 </table>
