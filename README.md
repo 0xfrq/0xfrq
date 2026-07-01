@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/39/dc/e5/39dce57c-8f64-bb54-fc50-2b2ea6a0e669/MichaelJackson_HistoryPastPresentAndFutureBoo_G0100029916490_F_001_1400x1400RGB.jpeg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/86/45/b786452a-a723-eaed-8170-cdc261367eb7/886443575578.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>You Are Not Alone</strong><br/>
-      Michael Jackson
+      <strong>Rasputin - Single Version</strong><br/>
+      Boney M.
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.690,581</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.945</strong><br/>
-      <sub>updated 01 Jul 2026, 12.16 WIB</sub>
+      <sub>updated 01 Jul 2026, 12.22 WIB</sub>
     </td>
   </tr>
 </table>
