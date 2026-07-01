@@ -13,16 +13,16 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/15/0b/db/150bdba3-8dbb-8e66-79b3-c8e1dead908b/20UMGIM03868.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Billie Jean</strong><br/>
-      Michael Jackson
+      <strong>Three Little Birds</strong><br/>
+      Bob Marley & The Wailers
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.684,658</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.684,33</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.945</strong><br/>
       <sub>updated 01 Jul 2026, 11.44 WIB</sub>
     </td>
