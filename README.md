@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/06/39/2106394f-b179-9567-abf0-926b28102d4e/24UMGIM61429.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/f8/a6/60f8a6bc-e875-238d-f2f8-f34a6034e6d2/14UMGIM07615.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Karma Chameleon - Remastered 2002</strong><br/>
-      Culture Club
+      <strong>Lay All Your Love On Me</strong><br/>
+      ABBA
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.685,229</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.681,283</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.945</strong><br/>
-      <sub>updated 01 Jul 2026, 11.47 WIB</sub>
+      <sub>updated 01 Jul 2026, 11.52 WIB</sub>
     </td>
   </tr>
 </table>
