@@ -13,16 +13,16 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/8d/b1/c58db1f1-0249-7a52-b58c-6f4eb145b06a/884977149166.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ef/54/0b/ef540ba4-bbe7-0809-aa55-97ce32e0e13d/18UMGIM55763.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Girl Is Mine (with Paul McCartney)</strong><br/>
-      Michael Jackson, Paul McCartney
+      <strong>Don't Stop Me Now - ...Revisited</strong><br/>
+      Queen
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.690,594</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.690,861</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.945</strong><br/>
       <sub>updated 01 Jul 2026, 12.07 WIB</sub>
     </td>
