@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/5e/c0/d1/5ec0d187-35e1-4a64-2d97-9caf2a03adf4/77412_-_Bobby_Vinton.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/28/95/77/289577d1-0b0a-400d-0698-17b784b76c15/dj.kwkktnnd.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Blue Velvet</strong><br/>
-      Bobby Vinton
+      <strong>Happy Together</strong><br/>
+      The Turtles
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.712,617</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.700,925</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.945</strong><br/>
-      <sub>updated 01 Jul 2026, 11.14 WIB</sub>
+      <sub>updated 01 Jul 2026, 11.17 WIB</sub>
     </td>
   </tr>
 </table>
