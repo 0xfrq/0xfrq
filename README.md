@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/65/4a/46/654a46ed-33ea-d3c8-1464-a672bf4b7ec0/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/26/5c/df265ce9-8c33-fbc8-73ef-15000a09bfca/24UMGIM29506.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Berawal Dari Tatap</strong><br/>
-      Yura Yunita
+      <strong>Tak Kan Terganti</strong><br/>
+      Kahitna
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.695,116</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.956</strong><br/>
-      <sub>updated 02 Jul 2026, 02.52 WIB</sub>
+      <sub>updated 02 Jul 2026, 02.56 WIB</sub>
     </td>
   </tr>
 </table>
