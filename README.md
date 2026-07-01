@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/14/c5/97/14c597a3-22c8-d2a9-dc49-0f8b1496f776/14UMGIM16822.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/25/46/17/2546176c-0f7c-b1a0-20b8-5200ebc6c473/16UMGIM27321.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Girl From Ipanema</strong><br/>
-      Stan Getz
+      <strong>A Sunday Kind Of Love</strong><br/>
+      Etta James
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.726,494</strong><br/>
-      USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 01 Jul 2026, 11.01 WIB</sub>
+      IHSG &nbsp;&nbsp;<strong>5.721,495</strong><br/>
+      USD/IDR &nbsp;<strong>Rp 17.945</strong><br/>
+      <sub>updated 01 Jul 2026, 11.06 WIB</sub>
     </td>
   </tr>
 </table>
