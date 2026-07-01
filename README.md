@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/b0/de/2cb0de7b-4559-d885-36f8-271c950cba34/886443562097.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/14/0b/8e/mzi.vsvfenht.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Just Give Me a Reason (feat. Nate Ruess)</strong><br/>
-      P!nk, Nate Ruess
+      <strong>Nothin' on You (feat. Bruno Mars)</strong><br/>
+      B.o.B, Bruno Mars
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.685,402</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.690,32</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.957</strong><br/>
-      <sub>updated 01 Jul 2026, 10.20 WIB</sub>
+      <sub>updated 01 Jul 2026, 10.24 WIB</sub>
     </td>
   </tr>
 </table>
