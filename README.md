@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/02/4f/be/024fbe59-7bf9-098b-9a75-8a801e5edb0a/196871101493.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/a9/d7/0ba9d7c7-2e68-dc9b-cde4-d142e8ce86b1/067003806756.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Unknown / Nth</strong><br/>
-      Hozier
+      <strong>Bloom - Bonus Track</strong><br/>
+      The Paper Kites
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
