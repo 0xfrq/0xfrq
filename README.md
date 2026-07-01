@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/e3/da/3ce3da3c-74db-f61d-3e2c-ed8a5e41c7c0/13UAAIM70322.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/7d/40/087d4000-5a0f-2803-61d6-4adfc9401ff8/06UMGIM02668.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>That's Amore</strong><br/>
-      Dean Martin
+      <strong>Dream a Little Dream on Me - Remastered</strong><br/>
+      Louis Armstrong, Ella Fitzgerald
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.708,912</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.705,688</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.878</strong><br/>
-      <sub>updated 01 Jul 2026, 10.45 WIB</sub>
+      <sub>updated 01 Jul 2026, 10.48 WIB</sub>
     </td>
   </tr>
 </table>
