@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/b6/00/f3b600c3-e128-6fe6-8f0a-162145c2d4be/886443581227_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Matilda</strong><br/>
-      Harry Styles
+      <strong>Ends of the Earth</strong><br/>
+      Lord Huron
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.643,194</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.957</strong><br/>
-      <sub>updated 01 Jul 2026, 08.25 WIB</sub>
+      <sub>updated 01 Jul 2026, 08.30 WIB</sub>
     </td>
   </tr>
 </table>
