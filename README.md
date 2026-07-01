@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/01/de/40/01de40eb-769e-f7f0-2789-3be6d54147af/886446994246.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/15/cc/8315ccdd-5a8d-8344-fa15-72e4cb64145e/886444533171.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>All About That Bass</strong><br/>
-      Meghan Trainor
+      <strong>Love Never Felt So Good</strong><br/>
+      Michael Jackson, Justin Timberlake
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.644,03</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.621,067</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.957</strong><br/>
-      <sub>updated 01 Jul 2026, 09.35 WIB</sub>
+      <sub>updated 01 Jul 2026, 09.38 WIB</sub>
     </td>
   </tr>
 </table>
