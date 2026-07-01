@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/1e/ea/af1eeac7-1c1f-2190-24b6-21a03ca5ac8f/5032698667321.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/05/bb/63/05bb63e3-0bfe-23bb-3b95-2b00577a3b30/22UM1IM43112.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Time in a Bottle</strong><br/>
-      Jim Croce
+      <strong>Put Your Head on My Shoulder</strong><br/>
+      Paul Anka
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.720,839</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.709,913</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.945</strong><br/>
-      <sub>updated 01 Jul 2026, 11.09 WIB</sub>
+      <sub>updated 01 Jul 2026, 11.12 WIB</sub>
     </td>
   </tr>
 </table>
