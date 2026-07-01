@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/30/c5/7e30c572-aa47-5f7b-c6fd-42d50cd2c56d/886444959797.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/01/de/40/01de40eb-769e-f7f0-2789-3be6d54147af/886446994246.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Uptown Funk (feat. Bruno Mars)</strong><br/>
-      Mark Ronson, Bruno Mars
+      <strong>All About That Bass</strong><br/>
+      Meghan Trainor
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.661,201</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.644,03</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.957</strong><br/>
-      <sub>updated 01 Jul 2026, 09.30 WIB</sub>
+      <sub>updated 01 Jul 2026, 09.35 WIB</sub>
     </td>
   </tr>
 </table>
