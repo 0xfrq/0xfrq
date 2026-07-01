@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/89/14/1b891486-6a23-6ef5-0669-3b3545dba3e5/5059460314191.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/5d/a4/8a5da415-562c-c7f3-0801-2bd251947ac3/14UMGIM07609.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Another Day in Paradise - 2016 Remaster</strong><br/>
-      Phil Collins
+      <strong>Mamma Mia</strong><br/>
+      ABBA
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.690,581</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.945</strong><br/>
-      <sub>updated 01 Jul 2026, 13.00 WIB</sub>
+      <sub>updated 01 Jul 2026, 13.04 WIB</sub>
     </td>
   </tr>
 </table>
