@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/eb/e0/4aebe0aa-f08a-b065-c53f-4d4fdabe2925/03614599267231_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Pelangi</strong><br/>
-      Hivi!
+      <strong>Como ligar celular com o botão power quebrado! REALME</strong><br/>
+      Pongoncell Serviços Simples
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.695,116</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.956</strong><br/>
-      <sub>updated 02 Jul 2026, 01.19 WIB</sub>
+      <sub>updated 02 Jul 2026, 01.46 WIB</sub>
     </td>
   </tr>
 </table>
