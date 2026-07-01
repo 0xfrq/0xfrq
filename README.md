@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bb/d4/75/bbd475e4-71ce-65d3-f622-e212b0dc9ecb/14DMGIM05605.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8e/80/32/8e803264-c925-14dd-3412-2d7652c3df7b/mzi.wxptosaa.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Another One Bites The Dust - Remastered 2011</strong><br/>
-      Queen
+      <strong>Material Girl</strong><br/>
+      Madonna
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.690,581</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.945</strong><br/>
-      <sub>updated 01 Jul 2026, 12.31 WIB</sub>
+      <sub>updated 01 Jul 2026, 12.35 WIB</sub>
     </td>
   </tr>
 </table>
