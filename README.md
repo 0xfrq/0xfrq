@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/96/ed/a4/96eda454-1831-5ce6-7770-e08f84c52b97/Utopia.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/11/1d/3b/111d3be7-b957-98bf-69b8-49fedbfd74bc/192641542428_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Antara Ada dan Tiada</strong><br/>
-      Utopia
+      <strong>Lantas</strong><br/>
+      Juicy Luicy
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.695,116</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.956</strong><br/>
-      <sub>updated 02 Jul 2026, 02.36 WIB</sub>
+      <sub>updated 02 Jul 2026, 02.40 WIB</sub>
     </td>
   </tr>
 </table>
