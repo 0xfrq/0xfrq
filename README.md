@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/53/91/f3/5391f3ff-414d-f617-2378-84381af213a5/22UMGIM50627.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/0f/2b/36/0f2b36e0-bad0-c656-79f0-46f739d2212c/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>if u could see me cryin' in my room</strong><br/>
-      Arash Buana, raissa anggiani
+      <strong>Terlatih Patah Hati</strong><br/>
+      The Rain, Endank Soekamti
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.695,116</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.956</strong><br/>
-      <sub>updated 02 Jul 2026, 02.13 WIB</sub>
+      <sub>updated 02 Jul 2026, 02.17 WIB</sub>
     </td>
   </tr>
 </table>
