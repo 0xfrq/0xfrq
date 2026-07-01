@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/9e/2a/db9e2ae0-cb9f-f2a9-2774-de399dff2580/4099964133639.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/39/dc/e5/39dce57c-8f64-bb54-fc50-2b2ea6a0e669/MichaelJackson_HistoryPastPresentAndFutureBoo_G0100029916490_F_001_1400x1400RGB.jpeg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Never Gonna Give You Up</strong><br/>
-      Rick Astley
+      <strong>You Are Not Alone</strong><br/>
+      Michael Jackson
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.690,581</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.945</strong><br/>
-      <sub>updated 01 Jul 2026, 12.13 WIB</sub>
+      <sub>updated 01 Jul 2026, 12.16 WIB</sub>
     </td>
   </tr>
 </table>
