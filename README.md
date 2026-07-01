@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/15/cc/8315ccdd-5a8d-8344-fa15-72e4cb64145e/886444533171.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/dc/18/57dc1854-4483-52b2-fe7c-8a221edf9e88/13UABIM48773.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Love Never Felt So Good</strong><br/>
-      Michael Jackson, Justin Timberlake
+      <strong>Hot N Cold</strong><br/>
+      Katy Perry
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.621,067</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.612,584</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.957</strong><br/>
-      <sub>updated 01 Jul 2026, 09.38 WIB</sub>
+      <sub>updated 01 Jul 2026, 09.42 WIB</sub>
     </td>
   </tr>
 </table>
