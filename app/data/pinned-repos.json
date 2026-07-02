@@ -3,7 +3,7 @@
     "name": "OaSis",
     "description": "simple os, built from scratch.",
     "href": "https://github.com/0xfrq/OaSis",
-    "stars": 1,
+    "stars": 9,
     "forks": 0,
     "language": {
       "name": "C",
@@ -58,17 +58,17 @@
     "stars": 0,
     "forks": 0,
     "language": {
-      "name": "HTML",
-      "color": "#e34c26"
+      "name": "Python",
+      "color": "#3572A5"
     },
     "topics": [],
-    "lastCommit": "2026-05-25T21:09:45Z"
+    "lastCommit": "2026-07-02T13:08:56Z"
   },
   {
     "name": "gitauto",
     "description": null,
     "href": "https://github.com/0xfrq/gitauto",
-    "stars": 2,
+    "stars": 11,
     "forks": 0,
     "language": {
       "name": "C",
