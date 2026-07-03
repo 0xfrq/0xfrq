@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e7/b0/58/e7b05801-a9f4-e469-12b2-cdaeb6ff6628/884977446371.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/be/19/38/be19382b-c333-1fb0-b228-57c2c038ea2d/5056167176800_1.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Be That Easy</strong><br/>
-      Sade
+      <strong>Everything I Know About Love</strong><br/>
+      Laufey
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 06.54 WIB</sub>
+      <sub>updated 04 Jul 2026, 06.58 WIB</sub>
     </td>
   </tr>
 </table>
