@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/3d/78/133d7847-e6a6-d477-bd6b-4acc4a434633/25UMGIM69489.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Seaside Rendezvous - Remastered 2011</strong><br/>
-      Queen
+      <strong>Without You - Remastered 2010</strong><br/>
+      Badfinger
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 05.21 WIB</sub>
+      <sub>updated 04 Jul 2026, 05.23 WIB</sub>
     </td>
   </tr>
 </table>
