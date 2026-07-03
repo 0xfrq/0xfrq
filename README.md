@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/92/2b/ae922b24-7d22-eb75-0f2c-a48b49e43ee7/dj.uhhbdbuq.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Doing All Right - Remastered 2011</strong><br/>
-      Queen
+      <strong>Puff, the Magic Dragon</strong><br/>
+      Peter, Paul and Mary
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
