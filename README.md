@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/88/92/e7889207-ad41-e1c6-633e-d2ed0987e9fc/13UABIM51538.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/06/ef/90/06ef90a8-82d3-b367-78b4-051e41bc079b/13ULAIM48947.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Southern Nights</strong><br/>
-      Glen Campbell
+      <strong>In My Room - Remastered</strong><br/>
+      The Beach Boys
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 05.30 WIB</sub>
+      <sub>updated 04 Jul 2026, 05.33 WIB</sub>
     </td>
   </tr>
 </table>
