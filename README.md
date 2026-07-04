@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/90/0d/f6/900df6b8-06e0-0492-83be-b62156f8d4dc/MM19141R.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/16/71/db167176-1492-bef0-971f-a93ba78c77ed/8720996027981.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Mr. Incorrect</strong><br/>
-      Malcolm Todd
+      <strong>Love Is Long</strong><br/>
+      Ebony Loren
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 13.58 WIB</sub>
+      <sub>updated 04 Jul 2026, 14.01 WIB</sub>
     </td>
   </tr>
 </table>
