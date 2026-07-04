@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/98/d2/e798d252-507e-c91a-a2e8-6933bf33f8b9/859749380733_1.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/be/19/d4be19b1-18ef-f8d0-6800-5a26aafbd71c/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Let You Break My Heart Again</strong><br/>
-      Laufey, Philharmonia Orchestra
+      <strong>Open My Door</strong><br/>
+      Alice Phoebe Lou
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 13.39 WIB</sub>
+      <sub>updated 04 Jul 2026, 13.43 WIB</sub>
     </td>
   </tr>
 </table>
