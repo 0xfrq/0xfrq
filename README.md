@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/01/3c/9d013c85-64b8-f611-1a16-0653d5fde90a/656605040165.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/cf/b8/ebcfb891-181b-a842-1fd9-69676f3dacf9/4050538981117.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Kind Of</strong><br/>
-      Faye Webster
+      <strong>Sunny</strong><br/>
+      Rocco
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 10.40 WIB</sub>
+      <sub>updated 04 Jul 2026, 10.45 WIB</sub>
     </td>
   </tr>
 </table>
