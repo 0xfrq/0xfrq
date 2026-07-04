@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/3d/db/c03ddbaa-65fb-3e94-9c0b-83d0e49ef1b4/5056495307020_1.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/b6/82/71b6820b-97a2-9968-c5a8-b659103030b1/5054197659843.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Street by Street</strong><br/>
-      Laufey
+      <strong>homesick</strong><br/>
+      wave to earth
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 10.31 WIB</sub>
+      <sub>updated 04 Jul 2026, 10.34 WIB</sub>
     </td>
   </tr>
 </table>
