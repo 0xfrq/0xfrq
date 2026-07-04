@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/cb/c7/84cbc7b4-0b88-038a-87c8-3fa6f5df09cd/199350437694.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/ba/4c/77ba4c35-f1ef-b59e-c62d-b4609430c5c2/artwork.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Snow White</strong><br/>
-      Laufey
+      <strong>Meet You Again</strong><br/>
+      Ebony Loren, Jason LaPierre
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 09.17 WIB</sub>
+      <sub>updated 04 Jul 2026, 09.21 WIB</sub>
     </td>
   </tr>
 </table>
