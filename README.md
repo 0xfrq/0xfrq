@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e9/4f/74/e94f74ed-156e-a145-e822-2745c9126726/093624870579.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/10/c1/05/10c10515-a196-6d33-8e4d-4012bcbf4e0c/197190934007.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Evergreen (You Didn’t Deserve Me At All)</strong><br/>
-      Omar Apollo
+      <strong>Must Be Love</strong><br/>
+      Laufey
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 13.52 WIB</sub>
+      <sub>updated 04 Jul 2026, 13.55 WIB</sub>
     </td>
   </tr>
 </table>
