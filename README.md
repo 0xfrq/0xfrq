@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/ea/5d/0eea5dbc-70d7-0dbc-cfd3-1fda93bc99aa/5054197888281.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f0/9f/9f/f09f9f91-b793-3e2d-1bfb-6bf87862c48a/5056495353119_1.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>daisy.</strong><br/>
-      wave to earth
+      <strong>My Heart It Beats for You</strong><br/>
+      grentperez
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 07.07 WIB</sub>
+      <sub>updated 04 Jul 2026, 07.10 WIB</sub>
     </td>
   </tr>
 </table>
