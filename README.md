@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/4e/6c/3c4e6c35-c1cf-49f9-8cbb-524b1db743f5/18UMGIM69899.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/47/a3/bb47a36e-57b8-9260-f9a4-d09851145c45/00602557100556.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>In The Morning</strong><br/>
-      Rocco
+      <strong>A Lovely Night</strong><br/>
+      Ryan Gosling, Emma Stone
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 14.33 WIB</sub>
+      <sub>updated 04 Jul 2026, 14.36 WIB</sub>
     </td>
   </tr>
 </table>
