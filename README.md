@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bf/1f/ea/bf1fea3c-0987-fa97-576d-5e182609f632/0197207439235.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/c1/88/e1c18805-6ba3-891c-f68e-d283b1b88143/artwork.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>be careful with my heart</strong><br/>
-      Rocco
+      <strong>once in a moon</strong><br/>
+      Sarah Kang
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 14.55 WIB</sub>
+      <sub>updated 04 Jul 2026, 14.57 WIB</sub>
     </td>
   </tr>
 </table>
