@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/c9/ca/0cc9ca8e-a83d-6326-c1db-742538b16c43/198846522081.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/01/3c/9d013c85-64b8-f611-1a16-0653d5fde90a/656605040165.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>holyland</strong><br/>
-      wave to earth
+      <strong>In A Good Way</strong><br/>
+      Faye Webster
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 09.46 WIB</sub>
+      <sub>updated 04 Jul 2026, 09.50 WIB</sub>
     </td>
   </tr>
 </table>
