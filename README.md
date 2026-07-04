@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/4a/79/b04a79db-7a18-e94d-273f-26390ddf702c/138407.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/3a/5b/073a5ba2-defc-b0b7-db86-9c72d7d59e79/5059460315389.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Crying At The Airport</strong><br/>
-      Ebony Loren
+      <strong>Back to the Old House - 2011 Remaster</strong><br/>
+      The Smiths
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 14.40 WIB</sub>
+      <sub>updated 04 Jul 2026, 14.43 WIB</sub>
     </td>
   </tr>
 </table>
