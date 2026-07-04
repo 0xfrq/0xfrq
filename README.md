@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/50/96/7c509687-a64a-3e26-71e9-d4fa8ea1811a/194156854010.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/34/72/61347250-fc5e-41f3-76f8-aeceb76350d9/196922537851_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>rises the moon</strong><br/>
-      Liana Flores
+      <strong>the way things go</strong><br/>
+      beabadoobee
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 08.04 WIB</sub>
+      <sub>updated 04 Jul 2026, 08.06 WIB</sub>
     </td>
   </tr>
 </table>
