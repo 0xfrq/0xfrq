@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/10/1f/72101f01-c594-3eab-7fbf-ad8c48636380/0720841232100_Cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/50/96/7c509687-a64a-3e26-71e9-d4fa8ea1811a/194156854010.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Sweet</strong><br/>
-      Cigarettes After Sex
+      <strong>rises the moon</strong><br/>
+      Liana Flores
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 07.59 WIB</sub>
+      <sub>updated 04 Jul 2026, 08.04 WIB</sub>
     </td>
   </tr>
 </table>
