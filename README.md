@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/be/19/38/be19382b-c333-1fb0-b228-57c2c038ea2d/5056167176800_1.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8d/08/e4/8d08e4e8-a5b1-875a-47f5-61f9b641c1d9/067003149556.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Slow Down</strong><br/>
-      Laufey
+      <strong>The Longest Goodbye (feat. Laufey)</strong><br/>
+      ROLE MODEL, Laufey
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 16.47 WIB</sub>
+      <sub>updated 04 Jul 2026, 16.49 WIB</sub>
     </td>
   </tr>
 </table>
