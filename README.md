@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/fb/59/c2fb59cf-86cd-67eb-b0f1-0db101a5cb24/0198081569711.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1a/44/45/1a4445f3-4b75-744e-8d27-f2f86d844092/05099922653550.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Baby Blue</strong><br/>
-      Rocco
+      <strong>ON THE SUNNY SIDE OF THE STREET - English Version</strong><br/>
+      Lisa Ono
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.875,78</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.955</strong><br/>
-      <sub>updated 04 Jul 2026, 13.29 WIB</sub>
+      <sub>updated 04 Jul 2026, 13.32 WIB</sub>
     </td>
   </tr>
 </table>
