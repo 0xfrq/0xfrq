@@ -17,14 +17,14 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Glory</strong><br/>
-      Kanye West
+      <strong>Homecoming</strong><br/>
+      Kanye West, Chris Martin
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.916,07</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.994</strong><br/>
-      <sub>updated 07 Jul 2026, 04.04 WIB</sub>
+      <sub>updated 07 Jul 2026, 04.07 WIB</sub>
     </td>
   </tr>
 </table>
