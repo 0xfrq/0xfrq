@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/3e/df/c43edf2c-6e73-52f2-34cc-000aab506dfa/820200125217.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>I'll Forget About You (In Time)</strong><br/>
-      Laufey
+      <strong>Good Morning</strong><br/>
+      Kanye West
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.916,07</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.994</strong><br/>
-      <sub>updated 07 Jul 2026, 03.16 WIB</sub>
+      <sub>updated 07 Jul 2026, 03.33 WIB</sub>
     </td>
   </tr>
 </table>
