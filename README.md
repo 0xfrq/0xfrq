@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c6/b6/76/c6b67662-c480-a718-dbae-d9b49afe0087/894232128522.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Bound 2</strong><br/>
-      Kanye West
+      <strong>Episode 201</strong><br/>
+      Podkesmas Asia
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
