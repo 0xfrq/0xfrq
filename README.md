@@ -17,14 +17,14 @@
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Barry Bonds</strong><br/>
-      Kanye West, Lil Wayne
+      <strong>Flashing Lights</strong><br/>
+      Kanye West, Dwele
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.916,07</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.994</strong><br/>
-      <sub>updated 07 Jul 2026, 03.55 WIB</sub>
+      <sub>updated 07 Jul 2026, 03.56 WIB</sub>
     </td>
   </tr>
 </table>
