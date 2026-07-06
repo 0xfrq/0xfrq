@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ce/6c/1e/ce6c1e63-62d2-1b33-4761-92b0a83a5794/798577099724.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Episode 201</strong><br/>
-      Podkesmas Asia
+      <strong>Marmalade (feat. Lil Yachty)</strong><br/>
+      Macklemore, Lil Yachty
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.916,07</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.994</strong><br/>
-      <sub>updated 07 Jul 2026, 05.51 WIB</sub>
+      <sub>updated 07 Jul 2026, 06.00 WIB</sub>
     </td>
   </tr>
 </table>
