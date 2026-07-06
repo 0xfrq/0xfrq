@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/27/6b/4c/276b4c69-99cb-6209-2fd8-3edd17ccfd06/00602517641228.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/22/97/39/2297397b-2a78-8b46-79ac-c2f5db43109a/886448839583.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Still D.R.E.</strong><br/>
-      Dr. Dre, Snoop Dogg
+      <strong>Ms. Jackson</strong><br/>
+      Outkast
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.916,07</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.994</strong><br/>
-      <sub>updated 07 Jul 2026, 04.27 WIB</sub>
+      <sub>updated 07 Jul 2026, 04.35 WIB</sub>
     </td>
   </tr>
 </table>
