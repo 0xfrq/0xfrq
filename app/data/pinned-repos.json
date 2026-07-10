@@ -13,6 +13,19 @@
     "lastCommit": "2026-06-29T06:06:30Z"
   },
   {
+    "name": "celestia",
+    "description": "Turn any LLM into Aristotle, Nietzsche, or Plato via CPT + SFT on their original writings. QLoRA, DDP, GGUF.",
+    "href": "https://github.com/homomachinus/celestia",
+    "stars": 0,
+    "forks": 0,
+    "language": {
+      "name": "Python",
+      "color": "#3572A5"
+    },
+    "topics": [],
+    "lastCommit": "2026-07-09T22:08:05Z"
+  },
+  {
     "name": "visiondrive3d",
     "description": null,
     "href": "https://github.com/homomachinus/visiondrive3d",
@@ -37,19 +50,6 @@
     },
     "topics": [],
     "lastCommit": "2026-05-25T12:56:44Z"
-  },
-  {
-    "name": "noteify",
-    "description": "archive of everything that goes into my brain, academically.",
-    "href": "https://github.com/0xfrq/noteify",
-    "stars": 2,
-    "forks": 0,
-    "language": {
-      "name": "TeX",
-      "color": "#3D6117"
-    },
-    "topics": [],
-    "lastCommit": "2026-07-02T15:16:29Z"
   },
   {
     "name": "spo-taskbar",
