@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e6/6f/17/e66f179c-599d-c7fd-fafe-bc792e2b5993/075679897121.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Architecture and Microarchitecture</strong><br/>
-      Computer Architecture
+      <strong>Hard Times</strong><br/>
+      Paramore
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
