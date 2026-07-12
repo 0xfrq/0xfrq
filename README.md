@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/84/1e/1b/841e1ba9-120d-491f-4be6-6c943f19d907/mzi.jjswxbfu.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/69/6f/78696fb3-9bb2-5166-91fb-16d8be57ce21/093624818816_01.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Nightmare</strong><br/>
-      Avenged Sevenfold
+      <strong>The End.</strong><br/>
+      My Chemical Romance
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.924,36</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.064</strong><br/>
-      <sub>updated 12 Jul 2026, 11.23 WIB</sub>
+      <sub>updated 12 Jul 2026, 11.29 WIB</sub>
     </td>
   </tr>
 </table>
