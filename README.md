@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/35/8b/af358b06-ed22-f8d2-bbf9-1cd38b6f2762/093624833802.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9e/80/1b/9e801b06-67fa-0990-2d15-85480ad3cd46/850007452025.png/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>The Emptiness Machine</strong><br/>
-      Linkin Park
+      <strong>Nothing Else Matters - Remastered 2021</strong><br/>
+      Metallica
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.924,36</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.064</strong><br/>
-      <sub>updated 12 Jul 2026, 11.30 WIB</sub>
+      <sub>updated 12 Jul 2026, 11.33 WIB</sub>
     </td>
   </tr>
 </table>
