@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/f9/b9/b8f9b9f8-a609-bde2-0302-349436ffc508/825646291038.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>On Melancholy Hill</strong><br/>
-      Gorillaz
+      <strong>Clint Eastwood</strong><br/>
+      Gorillaz, Del The Funky Homosapien
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.924,36</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.064</strong><br/>
-      <sub>updated 12 Jul 2026, 08.50 WIB</sub>
+      <sub>updated 12 Jul 2026, 08.52 WIB</sub>
     </td>
   </tr>
 </table>
