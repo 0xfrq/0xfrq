@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/e2/89/8ee28904-0821-610d-5011-a61845f62756/075679926951.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/ec/e0/d5/ece0d54f-c8f9-4853-400f-664afc065a95/dj.vkxearji.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Doubt</strong><br/>
-      Twenty One Pilots
+      <strong>The World Is Ugly</strong><br/>
+      My Chemical Romance
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
