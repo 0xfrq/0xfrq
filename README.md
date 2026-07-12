@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/d8/ff/2bd8ff78-9201-71dc-c931-503340d8b08a/00601501407529.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>In the End</strong><br/>
-      Linkin Park
+      <strong>One Last Breath</strong><br/>
+      Creed
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>5.924,36</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.064</strong><br/>
-      <sub>updated 12 Jul 2026, 09.30 WIB</sub>
+      <sub>updated 12 Jul 2026, 09.33 WIB</sub>
     </td>
   </tr>
 </table>
