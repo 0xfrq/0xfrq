@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fa/7a/57/fa7a57c6-fbf7-61b4-4f19-fd341f1ad7d8/5051961008104.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/08/bf/2d08bf29-d87e-8ce9-3a48-2985787f8a7c/00720642471623.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Stand by Me</strong><br/>
-      Oasis
+      <strong>Crazy</strong><br/>
+      Aerosmith
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.966,612</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.955,996</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.064</strong><br/>
-      <sub>updated 13 Jul 2026, 09.59 WIB</sub>
+      <sub>updated 13 Jul 2026, 10.05 WIB</sub>
     </td>
   </tr>
 </table>
