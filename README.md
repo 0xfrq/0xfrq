@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/30/54/a33054b1-d501-b7ea-5eb3-3ed36201c4ba/06UMGIM15802.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/08/3f/fb/083ffb78-ce26-bd3f-d13d-e066b7eb708d/22UM1IM35761.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>I Was Made For Lovin' You - Single Mix</strong><br/>
-      KISS
+      <strong>I Don't Want to Miss a Thing - From "Armageddon" Soundtrack</strong><br/>
+      Aerosmith
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.965,718</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.968,24</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.064</strong><br/>
-      <sub>updated 13 Jul 2026, 09.48 WIB</sub>
+      <sub>updated 13 Jul 2026, 09.49 WIB</sub>
     </td>
   </tr>
 </table>
