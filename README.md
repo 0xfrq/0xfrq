@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/09/b6/1509b638-3684-5357-1f7d-3ece92e504f7/19UMGIM55820.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/42/21/4b422136-2cfd-222c-ca7c-7573bf23139c/886449537204.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Tom's Diner</strong><br/>
-      AnnenMayKantereit, Giant Rooks
+      <strong>THATS WHAT I WANT</strong><br/>
+      Lil Nas X
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
-      IHSG &nbsp;&nbsp;<strong>5.924,36</strong><br/>
+      IHSG &nbsp;&nbsp;<strong>5.951,044</strong><br/>
       USD/IDR &nbsp;<strong>Rp 18.064</strong><br/>
-      <sub>updated 13 Jul 2026, 07.04 WIB</sub>
+      <sub>updated 13 Jul 2026, 09.39 WIB</sub>
     </td>
   </tr>
 </table>
