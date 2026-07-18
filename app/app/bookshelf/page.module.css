@@ -1,0 +1,239 @@
+/* Hallmark · bookshelf page · horizontal scrollable wall of book spines */
+
+.main {
+  min-height: 100vh;
+  padding: 0 var(--space-lg) var(--space-4xl);
+}
+
+.document {
+  position: relative;
+  max-width: var(--measure);
+  margin: 0 auto;
+}
+
+.parallaxWrap {
+  position: relative;
+  z-index: 0;
+  will-change: transform;
+}
+
+.header {
+  padding-top: var(--space-section);
+  padding-bottom: var(--space-3xl);
+}
+
+.back {
+  position: absolute;
+  top: var(--space-section);
+  left: calc(-1 * (var(--space-4xl) + var(--space-xl)));
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  color: var(--ink-muted);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  transition: color var(--dur-base) var(--ease-in-out);
+}
+
+.back:hover {
+  color: var(--accent);
+}
+
+.header h1 {
+  color: var(--ink);
+  font-size: clamp(2rem, 7vw, 3.5rem);
+  font-weight: 500;
+  letter-spacing: -0.05em;
+  line-height: 1;
+}
+
+.period {
+  color: var(--accent);
+}
+
+.subtitle {
+  max-width: 27rem;
+  margin-top: var(--space-lg);
+  color: var(--ink-muted);
+  font-size: var(--text-base);
+  line-height: 1.6;
+}
+
+/* ── Shelf wall ── */
+.shelfWall {
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.shelf {
+  display: flex;
+  align-items: flex-end;
+  gap: 2px;
+  padding: var(--space-xl) var(--space-lg) 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--accent) 40%, transparent) transparent;
+  cursor: grab;
+}
+
+.shelf:active {
+  cursor: grabbing;
+}
+
+.shelf::-webkit-scrollbar {
+  height: 6px;
+}
+
+.shelf::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.shelf::-webkit-scrollbar-thumb {
+  background: color-mix(in srgb, var(--accent) 35%, transparent);
+  border-radius: 3px;
+}
+
+.shelf::-webkit-scrollbar-thumb:hover {
+  background: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+
+/* ── Shelf base plank ── */
+.shelfPlank {
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 5px;
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--ink-faint) 40%, transparent),
+    color-mix(in srgb, var(--ink-faint) 18%, transparent)
+  );
+  border-radius: 2px;
+  flex-shrink: 0;
+  margin-top: -5px;
+}
+
+/* ── Book spine ── */
+.book {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--space-xl) 3px;
+  border-radius: 2px 2px 0 0;
+  text-decoration: none;
+  flex-shrink: 0;
+  position: relative;
+  will-change: transform;
+  transition: box-shadow var(--dur-hover) var(--ease-hover);
+  cursor: pointer;
+  overflow: visible;
+}
+
+.book:hover {
+  z-index: 2;
+  box-shadow: 0 0 1.5rem color-mix(in srgb, var(--accent) 25%, transparent);
+}
+
+.bookTitle {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  font-size: clamp(0.55rem, 1vw, 0.7rem);
+  font-weight: 500;
+  line-height: 1.15;
+  color: inherit;
+  letter-spacing: 0.01em;
+  max-height: 100%;
+  word-break: break-all;
+  flex: 1;
+  min-height: 0;
+}
+
+.bookAuthor {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 0.5rem;
+  color: inherit;
+  opacity: 0.55;
+  flex-shrink: 0;
+}
+
+/* ── Mobile stacked list (hidden on desktop) ── */
+.mobileStack {
+  display: none;
+}
+
+.mobileBook {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-md);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+}
+
+.mobileTitle {
+  font-size: var(--text-sm);
+  font-weight: 500;
+  line-height: 1.3;
+  color: inherit;
+  overflow-wrap: anywhere;
+  flex: 1;
+  min-width: 0;
+}
+
+.mobileAuthor {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: var(--text-xs);
+  color: inherit;
+  opacity: 0.6;
+  flex-shrink: 0;
+  white-space: nowrap;
+  margin-left: var(--space-md);
+}
+
+@media (max-width: 600px) {
+  .main {
+    padding-inline: 0;
+  }
+
+  .header {
+    padding-inline: var(--space-md);
+    padding-top: 10rem;
+    padding-bottom: var(--space-2xl);
+  }
+
+  .back {
+    position: static;
+    margin-bottom: var(--space-3xl);
+    margin-left: var(--space-md);
+  }
+
+  .shelf {
+    padding-inline: var(--space-md);
+  }
+
+  .book {
+    padding: var(--space-md) 2px;
+  }
+
+  .shelfWall {
+    display: none;
+  }
+
+  .mobileStack {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    padding: 0 var(--space-md) var(--space-4xl);
+    position: relative;
+    z-index: 1;
+  }
+}

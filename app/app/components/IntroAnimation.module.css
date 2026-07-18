@@ -1,0 +1,108 @@
+.intro {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: grid;
+  place-items: center;
+  overflow: clip;
+  background:
+    radial-gradient(circle at 50% 42%, color-mix(in srgb, var(--accent) 22%, transparent), transparent 30%),
+    var(--paper);
+  color: var(--ink);
+  animation: intro-exit 760ms var(--ease-out) 760ms both;
+}
+
+.mark {
+  position: relative;
+  z-index: 2;
+  font-family: var(--font-serif);
+  font-size: clamp(4rem, 20vw, 9rem);
+  font-style: italic;
+  font-weight: 500;
+  line-height: 1;
+  color: var(--accent);
+  filter: drop-shadow(0 0 2rem color-mix(in srgb, var(--accent) 38%, transparent));
+  animation: mark-intro 1120ms var(--ease-out) both;
+}
+
+.rule {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: min(34rem, 78vw);
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--accent), transparent);
+  transform: translate(-50%, -50%) scaleX(0);
+  transform-origin: center;
+  opacity: 0.8;
+  animation: rule-sweep 1080ms var(--ease-out) 80ms both;
+}
+
+.scan {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    transparent 0%,
+    color-mix(in srgb, var(--accent) 7%, transparent) 50%,
+    transparent 100%
+  );
+  transform: translateY(-100%);
+  animation: scan-pass 1180ms var(--ease-out) 120ms both;
+}
+
+@keyframes mark-intro {
+  0% {
+    opacity: 0;
+    transform: translateY(1rem) scale(0.88);
+  }
+  48% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(-0.15rem) scale(0.96);
+  }
+}
+
+@keyframes rule-sweep {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scaleX(0);
+  }
+  42%,
+  78% {
+    opacity: 0.8;
+    transform: translate(-50%, -50%) scaleX(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scaleX(1);
+  }
+}
+
+@keyframes scan-pass {
+  from {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+  30% {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+}
+
+@keyframes intro-exit {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-1.25rem);
+  }
+}

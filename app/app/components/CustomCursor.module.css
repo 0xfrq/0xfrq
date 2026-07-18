@@ -1,0 +1,43 @@
+.cursor {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 2000;
+  width: 0.72rem;
+  height: 0.72rem;
+  border-radius: var(--radius-pill);
+  pointer-events: none;
+  opacity: 0;
+  background: var(--accent);
+  box-shadow:
+    0 0 0 1px color-mix(in srgb, var(--accent-ink) 24%, transparent),
+    0 0 1.25rem color-mix(in srgb, var(--accent) 42%, transparent),
+    0 0 0 2px color-mix(in srgb, var(--ink) 55%, transparent);
+  mix-blend-mode: normal;
+  transition:
+    width var(--dur-hover) var(--ease-hover),
+    height var(--dur-hover) var(--ease-hover),
+    opacity var(--dur-base) var(--ease-out),
+    background-color var(--dur-hover) var(--ease-hover),
+    box-shadow var(--dur-hover) var(--ease-hover);
+}
+
+.visible {
+  opacity: 1;
+}
+
+.active {
+  width: 0.42rem;
+  height: 0.42rem;
+  background: var(--accent-hover);
+  box-shadow:
+    0 0 0 1px color-mix(in srgb, var(--accent-ink) 35%, transparent),
+    0 0 1.75rem color-mix(in srgb, var(--accent) 52%, transparent),
+    0 0 0 2.5px color-mix(in srgb, var(--ink) 60%, transparent);
+}
+
+@media (pointer: coarse) {
+  .cursor {
+    display: none;
+  }
+}

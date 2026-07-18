@@ -1,19 +1,11 @@
 .art {
-  position: relative;
-  width: 100px;
-  height: 100px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: border-color 0.3s ease;
-  overflow: hidden;
+  color: var(--accent);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  line-height: 1.35;
+  opacity: 0.9;
 }
 
 .art pre {
-  font-family: "Courier New", Courier, monospace;
-  font-size: 0.8rem;
-  line-height: 1.1;
-  color: var(--text-muted);
-  user-select: none;
-  transition: color 0.3s ease;
+  white-space: pre;
 }

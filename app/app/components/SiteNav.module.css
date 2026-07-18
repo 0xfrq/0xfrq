@@ -1,0 +1,91 @@
+/* N2 floating chip — fixed, blurred, top-left. The studied DNA's nav. */
+
+.chip {
+  position: fixed;
+  top: var(--space-sm);
+  left: var(--space-sm);
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: var(--radius-lg);
+  background: color-mix(in srgb, var(--paper-2) 55%, transparent);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--rule-soft);
+  animation: nav-enter var(--dur-reveal) var(--ease-out) both;
+  transition:
+    background-color var(--dur-slow) var(--ease-out),
+    border-color var(--dur-slow) var(--ease-out);
+}
+
+.wordmark {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  font-size: var(--text-xl);
+  line-height: 1;
+  color: var(--ink);
+  padding: var(--space-2xs) var(--space-xs);
+  border-radius: var(--radius-sm);
+  white-space: nowrap;
+  transition: color var(--dur-hover) var(--ease-hover);
+}
+
+.wordmark:hover {
+  color: var(--accent);
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2xs);
+}
+
+.link {
+  font-size: var(--text-sm);
+  color: var(--ink-muted);
+  padding: var(--space-2xs) var(--space-xs);
+  border-radius: var(--radius-sm);
+  white-space: nowrap;
+  transition:
+    color var(--dur-hover) var(--ease-hover),
+    background-color var(--dur-hover) var(--ease-hover);
+}
+
+.link:hover {
+  color: var(--accent-ink);
+  background: var(--accent);
+}
+
+.divider {
+  width: 1px;
+  align-self: stretch;
+  background: var(--rule);
+}
+
+@keyframes nav-enter {
+  from {
+    opacity: 0;
+    transform: translateY(-0.65rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 480px) {
+  .chip {
+    top: var(--space-xs);
+    left: var(--space-xs);
+    gap: var(--space-xs);
+    padding: var(--space-2xs) var(--space-xs);
+  }
+}

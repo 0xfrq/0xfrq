@@ -27,13 +27,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node .github/scripts/fetch-pinned-repos.js
 
+      - name: Run contribution graph fetcher
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/fetch-github-contributions.js
+
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add app/data/pinned-repos.json
-          git diff --cached --quiet || git commit -m "Update pinned repos"
+          git add app/data/pinned-repos.json app/data/github-contributions.json
+          git diff --cached --quiet || git commit -m "Update GitHub profile data"
 
           git push
 

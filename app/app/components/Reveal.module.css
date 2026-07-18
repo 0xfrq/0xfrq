@@ -1,0 +1,19 @@
+.reveal {
+  opacity: 1;
+}
+
+.armed {
+  opacity: 0;
+  transform: translateY(var(--space-lg));
+  filter: blur(8px);
+  transition:
+    opacity var(--dur-reveal) var(--ease-out) var(--reveal-delay, 0ms),
+    transform var(--dur-reveal) var(--ease-out) var(--reveal-delay, 0ms),
+    filter var(--dur-base) var(--ease-out) var(--reveal-delay, 0ms);
+}
+
+.visible {
+  opacity: 1;
+  transform: translateY(0);
+  filter: blur(0);
+}

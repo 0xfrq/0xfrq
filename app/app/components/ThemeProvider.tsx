@@ -12,12 +12,12 @@ interface ThemeContextValue {
 const ThemeContext = createContext<ThemeContextValue | null>(null);
 
 export function ThemeProvider({ children }: { children: React.ReactNode }) {
-  const [theme, setTheme] = useState<Theme>("light");
+  const [theme, setTheme] = useState<Theme>("dark");
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
     const saved = localStorage.getItem("theme") as Theme | null;
-    const initial = saved === "dark" ? "dark" : "light";
+    const initial = saved === "light" ? "light" : "dark";
     setTheme(initial);
     document.documentElement.setAttribute("data-theme", initial);
     setMounted(true);
@@ -36,7 +36,7 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
   // that call useTheme() during SSR/SSG don't throw.
   const value: ThemeContextValue = mounted
     ? { theme, toggle }
-    : { theme: "light", toggle: () => {} };
+    : { theme: "dark", toggle: () => {} };
 
   return (
     <ThemeContext.Provider value={value}>

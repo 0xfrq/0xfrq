@@ -1,22 +1,283 @@
+/* Hallmark · macrostructure: Long Document · tone: restrained editorial · anchor hue: deep maroon */
+
 .main {
-  display: flex;
-  flex-direction: column;
+  width: 100%;
   min-height: 100vh;
-  justify-content: center;
-  align-items: center;
-  padding: 2rem;
-  position: relative;
-  z-index: 1;
-  transition: background-color 0.3s ease;
+  padding: 0 var(--space-lg) var(--space-4xl);
 }
 
-.card {
-  position: relative;
+.document {
+  max-width: var(--measure);
+  margin: 0 auto;
+}
+
+.hero {
+  padding-top: var(--space-section);
+  padding-bottom: var(--space-4xl);
+  animation: rise-in 700ms var(--ease-out) both;
+}
+
+
+.headline {
+  max-width: 34rem;
+  color: var(--ink);
+  font-size: clamp(2.2rem, 7vw, 3.75rem);
+  font-weight: 500;
+  line-height: 1.08;
+  letter-spacing: -0.045em;
+  overflow-wrap: anywhere;
+  min-width: 0;
+}
+
+.serifWord {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: -0.055em;
+  color: var(--accent);
+}
+
+.period {
+  color: var(--accent);
+}
+
+.heroLinks {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  gap: var(--space-lg);
+  margin-top: var(--space-xl);
+}
+
+.textLink {
+  display: inline-flex;
   align-items: center;
-  gap: 1.5rem;
-  max-width: 520px;
-  width: 100%;
-  padding: 2rem 1.5rem;
+  gap: var(--space-xs);
+  color: var(--accent);
+  font-size: var(--text-sm);
+  border-bottom: 1px solid var(--accent-dim);
+  padding-bottom: 0.125rem;
+  transition:
+    color var(--dur-hover) var(--ease-hover),
+    border-color var(--dur-hover) var(--ease-hover),
+    transform var(--dur-hover) var(--ease-hover);
+}
+
+.textLink span {
+  display: inline-block;
+  transform: translate(0, 0);
+  transition: transform var(--dur-hover) var(--ease-hover);
+}
+
+.textLink:hover {
+  color: var(--accent-hover);
+  border-color: var(--accent-hover);
+  transform: translateY(-1px);
+}
+
+.textLink:hover span {
+  transform: translate(0.25rem, -0.18rem);
+}
+
+.section {
+  padding-top: var(--space-section);
+}
+
+.graphSection {
+  padding-top: var(--space-section-s);
+}
+
+.compactSection {
+  padding-top: var(--space-section-s);
+}
+
+.endSection {
+  padding-bottom: var(--space-3xl);
+}
+
+.sectionHeading {
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+  margin-bottom: var(--space-lg);
+  min-width: 0;
+}
+
+.sectionHeading h2 {
+  flex: none;
+  color: var(--ink);
+  font-family: var(--font-serif);
+  font-size: var(--text-xl);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.025em;
+}
+
+.sectionRule {
+  height: 1px;
+  flex: 1;
+  min-width: 0;
+  background: var(--rule);
+}
+
+.indexList {
+  border-top: 1px solid var(--rule);
+}
+
+.indexRow {
+  display: grid;
+  grid-template-columns: 2.5rem minmax(0, 1fr) auto;
+  align-items: center;
+  gap: var(--space-sm);
+  min-height: 3.75rem;
+  border-bottom: 1px solid var(--rule-soft);
+  transform: translateX(0);
+  transition:
+    color var(--dur-hover) var(--ease-hover),
+    transform var(--dur-hover) var(--ease-hover),
+    background-color var(--dur-hover) var(--ease-hover);
+}
+
+.indexNumber,
+.indexArrow {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--ink-faint);
+}
+
+.indexName {
+  color: var(--ink-muted);
+  font-size: var(--text-sm);
+}
+
+.indexArrow {
+  color: var(--accent);
+  opacity: 0;
+  transform: translate(-0.5rem, 0.5rem);
+  transition: opacity var(--dur-hover) var(--ease-hover), transform var(--dur-hover) var(--ease-hover);
+}
+
+.indexRow:hover {
+  transform: translateX(var(--space-xs));
+  background: color-mix(in srgb, var(--paper-2) 35%, transparent);
+}
+
+.indexRow:hover .indexName {
+  color: var(--ink);
+}
+
+.indexRow:hover .indexArrow {
+  opacity: 1;
+  transform: translate(0, 0);
+}
+
+.noteGrid {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  gap: var(--space-lg);
+  align-items: start;
+}
+
+.noteIcon {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 4.5rem;
+  aspect-ratio: 1;
+  border: 1px solid var(--rule-soft);
+  border-radius: var(--radius-2xl);
+  background:
+    radial-gradient(circle at 50% 25%, color-mix(in srgb, var(--accent) 18%, transparent), transparent 58%),
+    var(--paper-2);
+  color: var(--accent);
+  box-shadow: 0 1rem 2rem color-mix(in srgb, var(--accent) 8%, transparent);
+}
+
+.noteIcon::after {
+  content: "";
+  position: absolute;
+  inset: var(--space-xs);
+  border: 1px solid color-mix(in srgb, var(--accent) 28%, transparent);
+  border-radius: calc(var(--radius-2xl) - var(--space-xs));
+}
+
+.noteIcon svg {
+  position: relative;
+  z-index: 1;
+  width: 2.35rem;
+  height: 2.35rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 3;
+}
+
+.noteCopy {
+  max-width: 30rem;
+  color: var(--ink-muted);
+  font-size: var(--text-base);
+  line-height: 1.6;
+}
+
+.exploreLinks {
+  border-top: 1px solid var(--rule);
+}
+
+.exploreLink {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-md);
+  padding: var(--space-md) 0;
+  border-bottom: 1px solid var(--rule-soft);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  font-weight: 500;
+  transform: translateX(0);
+  transition:
+    color var(--dur-hover) var(--ease-hover),
+    transform var(--dur-hover) var(--ease-hover);
+}
+
+.exploreLink:hover {
+  transform: translateX(var(--space-sm));
+  color: var(--accent);
+}
+
+.exploreArrow {
+  font-family: var(--font-sans);
+  font-size: var(--text-base);
+  color: var(--accent);
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(1rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 600px) {
+  .main {
+    padding-inline: var(--space-md);
+  }
+
+  .hero {
+    padding-top: 10rem;
+    padding-bottom: var(--space-2xl);
+  }
+
+  .section {
+    padding-top: var(--space-4xl);
+  }
+
+  .noteGrid {
+    grid-template-columns: 1fr;
+    gap: var(--space-lg);
+  }
 }

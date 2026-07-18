@@ -1,33 +1,35 @@
+/* Hallmark · macrostructure: Long Document · nav: N2 floating chip · footer: Ft8 statement
+ * theme: studied-DNA (source: https://balajmarius.com/) · custom maroon variant
+ * paper (dark) oklch(15.5% 0.015 22) · accent oklch(55% 0.13 22) deep maroon red
+ * display: Fraunces (serif accents) · body: Inter · label: Roboto Mono
+ * studied: yes · DNA-source: url · rhythm: unknown (URL mode)
+ * contrast: pass (40–41) · nav: N2 · footer: Ft8 · slop: pass (42–45)
+ * honest: pass (46) · chrome: pass (47) · tokens: pass (48) · responsive: pass (49)
+ * mobile: pass (34, 49, 50–57)
+ * Hallmark · pre-emit critique: P4 H4 E4 S4 R5 V4
+ */
+
+@import "../tokens.css";
 @import "tailwindcss";
 
-/* ── Theme custom properties ── */
+/* ── Theme compatibility aliases (Pagination + legacy components) ── */
 :root {
-  --bg: #f8f6f2;
-  --bg-glow: radial-gradient(ellipse 500px 400px at 50% 40%, rgba(210, 190, 160, 0.35), transparent 80%);
-  --text: #1a1a1a;
-  --text-muted: #555;
-  --text-footer: #aaa;
-  --border: #d4d0c8;
-  --link-hover-bg: #555;
-}
-
-[data-theme="dark"] {
-  --bg: #0e0e10;
-  --bg-glow: radial-gradient(ellipse 500px 400px at 50% 40%, rgba(80, 60, 140, 0.25), transparent 80%);
-  --text: #e4e4e4;
-  --text-muted: #888;
-  --text-footer: #444;
-  --border: #2a2a2e;
-  --link-hover-bg: #888;
+  --bg: var(--paper);
+  --bg-glow: none;
+  --text: var(--ink);
+  --text-muted: var(--ink-muted);
+  --text-footer: var(--ink-faint);
+  --border: var(--rule);
+  --link-hover-bg: var(--accent);
 }
 
 @theme inline {
-  --color-bg: var(--bg);
-  --color-text: var(--text);
-  --color-text-muted: var(--text-muted);
-  --color-text-footer: var(--text-footer);
-  --color-border: var(--border);
-  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --color-bg: var(--paper);
+  --color-text: var(--ink);
+  --color-text-muted: var(--ink-muted);
+  --color-text-footer: var(--ink-faint);
+  --color-border: var(--rule);
+  --font-sans: var(--font-sans);
 }
 
 /* ── Base reset ── */
@@ -39,18 +41,186 @@
   padding: 0;
 }
 
+html,
+body {
+  overflow-x: clip;
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: var(--font-sans);
-  background-color: var(--bg);
-  background-image: var(--bg-glow);
-  color: var(--text);
+  font-size: var(--text-base);
+  line-height: var(--text-base-lh);
+  background-color: var(--paper);
+  color: var(--ink);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  transition: background-color 0.3s ease, background-image 0.3s ease, color 0.3s ease;
   min-height: 100vh;
+  min-height: 100dvh;
+  transition:
+    background-color var(--dur-base) var(--ease-in-out),
+    color var(--dur-base) var(--ease-in-out);
+}
+
+html[data-intro="running"] body {
+  overflow: hidden;
+}
+
+html[data-intro="running"] main {
+  opacity: 0;
+  transform: translateY(var(--space-sm));
+}
+
+main {
+  transition:
+    opacity var(--dur-reveal) var(--ease-out),
+    transform var(--dur-reveal) var(--ease-out);
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--accent-ink);
 }
 
 a {
   color: inherit;
   text-decoration: none;
+}
+
+@media (pointer: fine) {
+  *,
+  *::before,
+  *::after {
+    cursor: none !important;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+
+/* Serif italic accent — the studied DNA's signature move.
+   Only inside running text; headings stay roman. */
+.serif {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 500;
+}
+
+.mono {
+  font-family: var(--font-mono);
+}
+
+/* ── Inverted Ft8 statement footer ── */
+.site-footer {
+  margin-top: var(--space-4xl);
+  padding: var(--space-4xl) var(--space-lg) var(--space-xl);
+  background: var(--accent);
+  color: var(--accent-ink);
+  animation: footer-rise var(--dur-reveal) var(--ease-out) both;
+}
+
+.site-footer__inner {
+  max-width: var(--measure);
+  margin: 0 auto;
+}
+
+.site-footer h2 {
+  max-width: 30rem;
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 7vw, 3.5rem);
+  font-weight: 500;
+  line-height: 1.05;
+  letter-spacing: -0.045em;
+}
+
+.site-footer__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: var(--space-2xl);
+  margin-top: var(--space-4xl);
+  padding-top: var(--space-lg);
+  border-top: 1px solid color-mix(in srgb, var(--accent-ink) 28%, transparent);
+}
+
+.site-footer__grid a {
+  display: block;
+  width: fit-content;
+  margin-top: var(--space-xs);
+  border-bottom: 1px solid color-mix(in srgb, var(--accent-ink) 45%, transparent);
+  transition: border-color var(--dur-hover) var(--ease-hover), opacity var(--dur-hover) var(--ease-hover);
+}
+
+.site-footer__grid a:hover {
+  border-color: var(--accent-ink);
+  opacity: 0.75;
+}
+
+.site-footer__label {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  opacity: 0.65;
+}
+
+.site-footer__links {
+  display: flex;
+  gap: var(--space-lg);
+  align-items: flex-start;
+  padding-top: calc(var(--text-xs) * 2.5);
+}
+
+.site-footer__links a {
+  margin-top: 0;
+}
+
+.site-footer__quote {
+  grid-column: 1 / -1;
+  max-width: 27rem;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: var(--text-base);
+  opacity: 0.78;
+}
+
+.site-footer__bottom {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-md);
+  margin-top: var(--space-4xl);
+  padding-top: var(--space-md);
+  border-top: 1px solid color-mix(in srgb, var(--accent-ink) 28%, transparent);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  opacity: 0.65;
+}
+
+@keyframes footer-rise {
+  from {
+    opacity: 0.92;
+    transform: translateY(var(--space-lg));
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 600px) {
+  .site-footer {
+    padding-inline: var(--space-md);
+  }
+  .site-footer__grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-xl);
+  }
+  .site-footer__quote {
+    grid-column: auto;
+  }
+  .site-footer__bottom {
+    flex-direction: column;
+    gap: var(--space-xs);
+  }
 }

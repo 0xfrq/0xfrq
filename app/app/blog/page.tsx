@@ -1,18 +1,7 @@
-import { Spectral } from "next/font/google";
+import type { CSSProperties } from "react";
 import Link from "next/link";
-import homeStyles from "../page.module.css";
 import styles from "./page.module.css";
 import Pagination from "../components/Pagination";
-import ThemeToggle from "../components/ThemeToggle";
-
-const spectral = Spectral({
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-  style: ["normal", "italic"],
-  display: "swap",
-});
-
-const PER_PAGE = 10;
 
 type Post = {
   title: string;
@@ -23,16 +12,17 @@ type Post = {
   description: string;
 };
 
+const PER_PAGE = 10;
+
 async function getPosts(): Promise<Post[]> {
   try {
     const res = await fetch("https://blog.fariqdoing.tech/api/posts/", {
       next: { revalidate: 3600 },
     });
     if (!res.ok) throw new Error(`API responded with ${res.status}`);
-    const data = await res.json();
-    return data;
-  } catch (e) {
-    console.error("Failed to fetch blog posts:", e);
+    return await res.json();
+  } catch (error) {
+    console.error("Failed to fetch blog posts:", error);
     return [];
   }
 }
@@ -54,71 +44,44 @@ export default async function Blog({
   const params = await searchParams;
   const currentPage = Math.max(1, Number(params?.page) || 1);
   const totalPages = Math.ceil(allPosts.length / PER_PAGE);
-  const posts = allPosts.slice(
-    (currentPage - 1) * PER_PAGE,
-    currentPage * PER_PAGE,
-  );
+  const posts = allPosts.slice((currentPage - 1) * PER_PAGE, currentPage * PER_PAGE);
 
   return (
-    <main
-      className={`${spectral.className} ${homeStyles.main}`}
-      style={{ fontWeight: 100 }}
-    >
-      <div className={homeStyles.card}>
-        <div style={{ display: "flex", alignItems: "center", marginBottom: "1.25rem", width: "100%" }}>
-          <div style={{ flex: 1 }}>
-            <Link href="/" style={{ color: "var(--text-muted)", fontSize: "0.875rem" }}>
-              ← back
-            </Link>
-          </div>
+    <main className={styles.main}>
+      <div className={styles.document}>
+        <section className={styles.header}>
+          <Link href="/" className={styles.back}>
+            <span aria-hidden="true">←</span> home
+          </Link>
+          <p className={styles.kicker}>Notes from the workbench</p>
+          <h1>Writing<span className={styles.period}>.</span></h1>
+          <p className={styles.intro}>Notes on building, learning, and the questions that stay interesting.</p>
+        </section>
 
-          <h2 style={{ fontWeight: 600, margin: 0 }}>blog</h2>
-
-          <div style={{ flex: 1, display: "flex", justifyContent: "flex-end", alignItems: "center" }}>
-            <ThemeToggle style={{ position: "static" }} />
-          </div>
-        </div>
-
-        <div className={styles.list}>
-          {posts.length === 0 && (
-            <div style={{ color: "var(--text-muted)", textAlign: "center", fontSize: "0.9rem" }}>
-              no posts yet.
-            </div>
-          )}
-
-          {posts.map((p) => (
+        <section className={styles.list} aria-label="Blog posts">
+          {posts.length === 0 && <p className={styles.empty}>No posts yet.</p>}
+          {posts.map((p, index) => (
             <a
               key={p.slug}
               href={`https://blog.fariqdoing.tech/posts/${p.slug}/`}
               target="_blank"
               rel="noopener noreferrer"
               className={styles.item}
+              style={{ "--item-index": index } as CSSProperties}
             >
-              <div className={styles.itemHeader}>
+              <div className={styles.itemTop}>
+                <span className={styles.number}>{String(index + 1).padStart(2, "0")}</span>
                 <span className={styles.itemTitle}>{p.title}</span>
-                <span className={styles.itemDate}>{formatDate(p.date)}</span>
+                <span className={styles.arrow} aria-hidden="true">↗</span>
               </div>
-
-              {p.description && (
-                <div className={styles.itemExcerpt}>{p.description}</div>
-              )}
-
-              <div className={styles.itemFooter}>
-                <span className={styles.categoryTag}>{p.category}</span>
-                {p.tags.length > 0 && (
-                  <div className={styles.tagList}>
-                    {p.tags.map((tag) => (
-                      <span key={tag} className={styles.tag}>
-                        {tag}
-                      </span>
-                    ))}
-                  </div>
-                )}
+              {p.description && <p className={styles.itemDesc}>{p.description}</p>}
+              <div className={styles.itemMeta}>
+                <span>{formatDate(p.date)}</span>
+                <span className={styles.category}>{p.category}</span>
               </div>
             </a>
           ))}
-        </div>
-
+        </section>
         <Pagination basePath="/blog" currentPage={currentPage} totalPages={totalPages} />
       </div>
     </main>

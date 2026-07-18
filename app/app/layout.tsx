@@ -1,12 +1,31 @@
 import type { Metadata } from "next";
-import { Spectral } from "next/font/google";
+import { Fraunces, Inter, Roboto_Mono } from "next/font/google";
+import Script from "next/script";
 import { ThemeProvider } from "./components/ThemeProvider";
+import CustomCursor from "./components/CustomCursor";
+import IntroAnimation from "./components/IntroAnimation";
+import SiteNav from "./components/SiteNav";
+import SmoothScroll from "./components/SmoothScroll";
+import Footer from "./components/Footer";
 import "./globals.css";
 
-const spectral = Spectral({
+const fraunces = Fraunces({
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
   style: ["normal", "italic"],
+  variable: "--font-serif",
+  display: "swap",
+});
+
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-sans",
+  display: "swap",
+});
+
+const robotoMono = Roboto_Mono({
+  subsets: ["latin"],
+  weight: ["400"],
+  variable: "--font-mono",
   display: "swap",
 });
 
@@ -35,29 +54,37 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="fonts-loaded" suppressHydrationWarning>
+    <html
+      lang="en"
+      className={`${fraunces.variable} ${inter.variable} ${robotoMono.variable}`}
+      suppressHydrationWarning
+    >
       <head>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              (function() {
-                try {
-                  var t = localStorage.getItem("theme");
-                  if (t === "dark") {
-                    document.documentElement.setAttribute("data-theme", "dark");
-                  }
-                } catch(e) {}
-              })();
-            `,
-          }}
-        />
-        <link
-          rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
-        />
+        <Script id="theme-init" strategy="beforeInteractive">
+          {`
+            (function() {
+              try {
+                var t = localStorage.getItem("theme");
+                document.documentElement.setAttribute(
+                  "data-theme",
+                  t === "light" ? "light" : "dark"
+                );
+              } catch(e) {
+                document.documentElement.setAttribute("data-theme", "dark");
+              }
+            })();
+          `}
+        </Script>
       </head>
       <body>
-        <ThemeProvider>{children}</ThemeProvider>
+        <ThemeProvider>
+          <IntroAnimation />
+          <CustomCursor />
+          <SmoothScroll />
+          <SiteNav />
+          {children}
+          <Footer />
+        </ThemeProvider>
       </body>
     </html>
   );

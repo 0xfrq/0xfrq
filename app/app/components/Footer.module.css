@@ -1,7 +1,5 @@
 .footer {
-  font-size: 0.75rem;
-  color: var(--text-footer);
-  padding: 1.5rem;
-  text-align: center;
-  transition: color 0.3s ease;
+  font-size: var(--text-xs);
+  color: var(--ink-faint);
+  padding: var(--space-xl) 0;
 }

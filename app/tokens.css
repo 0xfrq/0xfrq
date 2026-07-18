@@ -1,0 +1,104 @@
+/* Hallmark · macrostructure: Long Document · nav: N2 floating chip · footer: Ft8 statement
+ * theme: studied-DNA (source: https://balajmarius.com/) · custom maroon variant
+ * paper (dark) oklch(15.5% 0.015 22) · accent oklch(55% 0.13 22) deep maroon red
+ * display: Fraunces (serif accents) · body: Inter · label: Roboto Mono
+ * studied: yes · DNA-source: url · rhythm: unknown (URL mode)
+ */
+
+:root {
+  /* ── Surfaces ─────────────────────────────── */
+  --paper: oklch(15.5% 0.015 22);        /* near-black, warm red tilt */
+  --paper-2: oklch(19% 0.02 22);         /* chip / raised surface */
+  --paper-3: oklch(24% 0.025 22);        /* hover surface */
+
+  /* ── Ink ──────────────────────────────────── */
+  --ink: oklch(92% 0.012 55);            /* primary text */
+  --ink-muted: oklch(68% 0.02 30);       /* secondary text */
+  --ink-faint: oklch(48% 0.02 28);       /* captions, footer copy */
+
+  /* ── Accent: dark maroon red ──────────────── */
+  --accent: oklch(55% 0.13 22);          /* links, hover, landmarks */
+  --accent-ink: oklch(97% 0.008 55);     /* text on accent flood */
+  --accent-hover: oklch(62% 0.15 22);    /* lighter maroon on hover */
+  --accent-dim: oklch(38% 0.06 22);      /* hairlines tinted maroon */
+
+  /* ── Hairlines ────────────────────────────── */
+  --rule: oklch(28% 0.02 24);            /* section dividers */
+  --rule-soft: oklch(22% 0.018 24);      /* row dividers */
+
+  /* ── Chips / tags ─────────────────────────── */
+  --chip-bg: oklch(21% 0.02 22);
+  --chip-outline: oklch(30% 0.025 24);
+
+  /* ── Type ─────────────────────────────────── */
+  --font-serif: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Roboto Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --text-display: 1.875rem;   /* 30px — statement headline */
+  --text-display-lh: 1.3;
+  --text-xl: 1.25rem;
+  --text-base: 1rem;
+  --text-base-lh: 1.5;
+  --text-sm: 0.875rem;
+  --text-sm-lh: 1.45;
+  --text-xs: 0.75rem;
+
+  /* ── Space (4pt) ──────────────────────────── */
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+  --space-3xl: 4rem;
+  --space-4xl: 6rem;
+  --space-section: 12rem;   /* pt-48 between sections */
+  --space-section-s: 6rem;  /* pt-24 for follow-on section */
+
+  /* ── Radius ───────────────────────────────── */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.375rem;
+  --radius-lg: 0.5rem;
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
+  --radius-pill: 999px;
+
+  /* ── Motion ───────────────────────────────── */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);        /* ease-out-exponential */
+  --ease-in: cubic-bezier(0.4, 0, 1, 1);
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-hover: cubic-bezier(0.19, 1, 0.22, 1);
+  --dur-fast: 150ms;
+  --dur-base: 300ms;
+  --dur-slow: 400ms;
+  --dur-hover: 560ms;
+  --dur-reveal: 720ms;
+  --dur-graph-cell: 520ms;
+
+  /* ── Layout ───────────────────────────────── */
+  --measure: 42rem;  /* max-w-2xl single column */
+}
+
+/* ── Light theme: maroon ink on warm cream ────── */
+[data-theme="light"] {
+  --paper: oklch(96.5% 0.012 60);        /* warm cream paper */
+  --paper-2: oklch(93.5% 0.018 50);
+  --paper-3: oklch(90% 0.025 45);
+
+  --ink: oklch(25% 0.04 22);             /* maroon-black ink */
+  --ink-muted: oklch(45% 0.04 25);
+  --ink-faint: oklch(60% 0.03 30);
+
+  --accent: oklch(42% 0.12 22);          /* darker maroon for contrast on cream */
+  --accent-ink: oklch(97.5% 0.008 60);
+  --accent-hover: oklch(35% 0.13 22);
+  --accent-dim: oklch(70% 0.05 25);
+
+  --rule: oklch(84% 0.02 40);
+  --rule-soft: oklch(88% 0.015 45);
+
+  --chip-bg: oklch(92% 0.015 50);
+  --chip-outline: oklch(82% 0.025 40);
+}

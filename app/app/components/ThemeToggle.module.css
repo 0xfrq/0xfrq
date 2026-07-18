@@ -1,22 +1,21 @@
+/* Chip-embedded theme toggle — matches the N2 nav's link voice. */
+
 .toggle {
-  position: absolute;
-  top: 0.5rem;
-  right: 0.5rem;
-  z-index: 10;
   background: none;
   border: none;
   cursor: pointer;
-  font-family: "Space Grotesk", sans-serif;
-  font-size: 0.8125rem;
-  font-weight: 500;
-  letter-spacing: 0.05em;
-  text-transform: lowercase;
-  color: var(--text-muted);
-  padding: 0.35rem 0.8rem;
-  transition: color 0.2s;
-  will-change: transform;
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--ink-muted);
+  padding: var(--space-2xs) var(--space-xs);
+  border-radius: var(--radius-sm);
+  white-space: nowrap;
+  transition:
+    color var(--dur-hover) var(--ease-hover),
+    background-color var(--dur-hover) var(--ease-hover);
 }
 
 .toggle:hover {
-  color: var(--text);
+  color: var(--accent-ink);
+  background: var(--accent);
 }
