@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/5f/28/d55f28f4-610c-ee81-dc16-a01cda46bbc4/886443546264.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/0f/bb/dc0fbb02-3c68-ee46-632d-24e564d88771/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Bad - 2012 Remaster</strong><br/>
-      Michael Jackson
+      <strong>Bayangkan Jika Kita Tidak Menyerah</strong><br/>
+      Hindia
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.334,476</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 23 Jul 2026, 04.35 WIB</sub>
+      <sub>updated 23 Jul 2026, 04.38 WIB</sub>
     </td>
   </tr>
 </table>
