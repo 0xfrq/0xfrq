@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/f6/9a/8bf69a9e-8692-f58f-c6f4-ee803afa499a/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/0c/03/a70c0335-d4ee-2bca-a724-d605508a4457/23UMGIM51089.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Semua Orang Pernah Sakit Hati</strong><br/>
-      Lomba Sihir
+      <strong>Am I Bothering You?</strong><br/>
+      Reality Club
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.334,476</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 23 Jul 2026, 04.54 WIB</sub>
+      <sub>updated 23 Jul 2026, 04.57 WIB</sub>
     </td>
   </tr>
 </table>
