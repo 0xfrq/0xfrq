@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/9f/80/9c9f80d1-cb53-db64-9bca-03f06cd1000c/24UMGIM57224.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/5f/99/7f5f99c7-1ddd-93cb-9b79-7efec9d6dd53/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Lama-Lama</strong><br/>
-      Bernadya
+      <strong>Cincin</strong><br/>
+      Hindia
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
