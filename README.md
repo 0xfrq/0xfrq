@@ -13,12 +13,12 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/b4/45/9fb4457e-7ab5-0484-a81f-4666ba8fae80/06UMGIM01977.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/5c/49/595c49ca-20af-1a27-3716-fe1fe481c45e/617513535860_cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>No Diggity</strong><br/>
-      Blackstreet, Dr. Dre, Queen Pen
+      <strong>Nuthin' But A "G" Thang</strong><br/>
+      Dr. Dre, Snoop Dogg
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
