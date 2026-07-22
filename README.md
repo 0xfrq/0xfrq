@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6d/9b/54/6d9b5426-8814-6d65-b7d4-5f7a1f14d069/190295510077.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/f3/33/f0f33312-e908-7228-c207-28b9c5416bd2/24UMGIM29427.rgb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Sudah Jangan Ke Jatinangor (feat. Jason Ranti)</strong><br/>
-      The Panasdalam Bank, Jason Ranti
+      <strong>Cinta</strong><br/>
+      Chrisye
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.334,476</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 23 Jul 2026, 05.46 WIB</sub>
+      <sub>updated 23 Jul 2026, 05.49 WIB</sub>
     </td>
   </tr>
 </table>
