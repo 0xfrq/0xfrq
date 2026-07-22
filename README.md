@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/d2/5b/c0d25bba-6e05-277c-84c2-dbc641468fb1/15652.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://via.placeholder.com/130x130?text=♪" width="130" height="130" style="border-radius:10px" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Abadi - Indo Version</strong><br/>
-      Dendi Nata
+      <strong>[61B SP25] Lecture 2 - Defining and Using Classes, Lists and Maps</strong><br/>
+      UC Berkeley CS 61B
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.334,476</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 23 Jul 2026, 06.10 WIB</sub>
+      <sub>updated 23 Jul 2026, 06.14 WIB</sub>
     </td>
   </tr>
 </table>
