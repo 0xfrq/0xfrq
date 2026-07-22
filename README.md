@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b6/62/e8/b662e879-5c94-a898-a24c-d55dd6e81b89/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/3c/16/d53c1625-bdbc-b463-c309-5b0de8fde1f6/cover.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Sssst...</strong><br/>
-      Sore
+      <strong>Kekal</strong><br/>
+      Nadin Amizah
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.334,476</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 23 Jul 2026, 04.44 WIB</sub>
+      <sub>updated 23 Jul 2026, 04.49 WIB</sub>
     </td>
   </tr>
 </table>
