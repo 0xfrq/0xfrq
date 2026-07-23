@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/ba/d7/32bad7c1-42e3-31fc-e7a8-cdccd9b59f62/193436376150.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/2a/43/5b2a434b-9f3f-b8a3-2f00-8fead7322a24/1039.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>In My Room</strong><br/>
-      Julia Wolf
+      <strong>Remembering Sunday</strong><br/>
+      All Time Low, Juliet Simms
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.334,476</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 23 Jul 2026, 07.23 WIB</sub>
+      <sub>updated 23 Jul 2026, 07.26 WIB</sub>
     </td>
   </tr>
 </table>
