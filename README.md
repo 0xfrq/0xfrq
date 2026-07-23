@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/55/12/02/551202f6-2160-c8f8-180c-ac83560cec31/075679954985.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/71/1e/b9/mzi.abvgmgsk.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Brighter</strong><br/>
-      Paramore
+      <strong>Na Na Na (Na Na Na Na Na Na Na Na Na)</strong><br/>
+      My Chemical Romance
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.334,476</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 23 Jul 2026, 07.34 WIB</sub>
+      <sub>updated 23 Jul 2026, 07.35 WIB</sub>
     </td>
   </tr>
 </table>
