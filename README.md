@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td width="150" valign="middle" align="center">
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/2a/43/5b2a434b-9f3f-b8a3-2f00-8fead7322a24/1039.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/96/5b/f7965b7c-e852-2163-71ab-da84f77d5ac3/mzi.inmhcvjb.jpg/600x600bb.jpg" width="130" height="130" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" align="center" />
     </td>
     <td valign="middle" width="250">
       <sup>NOW PLAYING</sup><br/>
-      <strong>Remembering Sunday</strong><br/>
-      All Time Low, Juliet Simms
+      <strong>Nine in the Afternoon - Single Mix</strong><br/>
+      Panic! At The Disco
     </td>
     <td align="right" valign="middle" width="180">
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.334,476</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.905</strong><br/>
-      <sub>updated 23 Jul 2026, 07.26 WIB</sub>
+      <sub>updated 23 Jul 2026, 07.30 WIB</sub>
     </td>
   </tr>
 </table>
