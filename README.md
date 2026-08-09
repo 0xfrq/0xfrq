@@ -24,7 +24,7 @@
       <sup>MARKET</sup><br/>
       IHSG &nbsp;&nbsp;<strong>6.409,654</strong><br/>
       USD/IDR &nbsp;<strong>Rp 17.908</strong><br/>
-      <sub>updated 10 Agu 2026, 02.46 WIB</sub>
+      <sub>updated 10 Agu 2026, 03.12 WIB</sub>
     </td>
   </tr>
 </table>
