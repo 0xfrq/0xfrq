@@ -34,3 +34,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Publishing static sites
+
+Put each standalone static site in its own folder under `public/static`, with an
+`index.html` entry point:
+
+```text
+public/static/ilresearchfinding/index.html
+```
+
+The site is then available at:
+
+```text
+/share/ilresearchfinding
+```
+
+Nested files are served through the same prefix, so references such as
+`/share/ilresearchfinding/assets/app.js` map to
+`public/static/ilresearchfinding/assets/app.js`.

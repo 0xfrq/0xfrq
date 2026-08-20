@@ -1,0 +1,82 @@
+/* Hallmark · tokens · Newsprint theme (editorial cluster)
+ * Paper: warm light · Ink: warm dark · Accent: warm terracotta-red
+ * Display: Newsreader (roman serif) · Body: Source Serif 4 · Mono: IBM Plex Mono
+ * Axes: paper-band=light · display-style=roman-serif · accent-hue=warm
+ */
+
+:root {
+  /* --- Colour: paper layer --- */
+  --color-paper:       oklch(96.5% 0.008 85);
+  --color-paper-2:     oklch(94%   0.010 85);
+  --color-surface:     oklch(92%   0.012 85);
+  --color-surface-2:   oklch(89%   0.014 85);
+
+  /* --- Colour: ink layer --- */
+  --color-ink:         oklch(20%   0.012 70);
+  --color-ink-2:       oklch(32%   0.010 70);
+  --color-muted:       oklch(46%   0.010 75);
+  --color-neutral:     oklch(58%   0.008 80);
+
+  /* --- Colour: rule + border --- */
+  --color-rule:        oklch(82%   0.008 85);
+  --color-rule-2:      oklch(75%   0.009 85);
+
+  /* --- Colour: accent (warm red-terracotta, ~3% viewport) --- */
+  --color-accent:      oklch(45%   0.15 40);
+  --color-accent-2:    oklch(52%   0.14 40);
+  --color-focus:       oklch(52%   0.16 40);
+  --color-accent-ink:  oklch(96.5% 0.008 85);
+
+  /* --- Typography --- */
+  --font-display: "Newsreader", Georgia, serif;
+  --font-body:    "Source Serif 4", Georgia, serif;
+  --font-mono:    "IBM Plex Mono", ui-monospace, monospace;
+
+  /* --- Type scale (major third 1.25, from 1rem base) --- */
+  --text-xs:    0.64rem;
+  --text-sm:    0.8rem;
+  --text-base:  1rem;
+  --text-md:    1.25rem;
+  --text-lg:    1.5625rem;
+  --text-xl:    1.9531rem;
+  --text-2xl:   2.4414rem;
+  --text-3xl:   3.0518rem;
+  --text-display-s: clamp(1.75rem, 2.5vw + 0.5rem, 2.25rem);
+  --text-display:   clamp(2.25rem, 4vw + 1rem, 3.5rem);
+
+  /* --- Spacing (4pt scale) --- */
+  --space-3xs: 0.125rem;
+  --space-2xs: 0.25rem;
+  --space-xs:  0.5rem;
+  --space-sm:  0.75rem;
+  --space-md:  1rem;
+  --space-lg:  1.5rem;
+  --space-xl:  2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+
+  /* --- Layout --- */
+  --max-width: 880px;
+  --slide-pad-y: clamp(1.5rem, 4vh, 3rem);
+  --slide-pad-x: clamp(1rem, 3vw, 2.5rem);
+
+  /* --- Radius --- */
+  --radius-sm: 2px;
+  --radius-md: 4px;
+
+  /* --- Motion --- */
+  --ease-out:    cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in:     cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-micro: 120ms;
+  --dur-short: 220ms;
+  --dur-long:  420ms;
+
+  /* --- Z-index (named six-level scale) --- */
+  --z-base:     1;
+  --z-raised:   10;
+  --z-dropdown: 100;
+  --z-sticky:   200;
+  --z-modal:    400;
+  --z-toast:    500;
+}
