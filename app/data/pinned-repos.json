@@ -27,7 +27,7 @@
   },
   {
     "name": "visiondrive3d",
-    "description": null,
+    "description": " YOLO-powered autonomous driving visualization system that detects nearby vehicles from dashcam   footage and renders them in a Tesla FSD-style pseudo-3D bird’s-eye view.",
     "href": "https://github.com/homomachinus/visiondrive3d",
     "stars": 1,
     "forks": 0,
@@ -40,7 +40,7 @@
   },
   {
     "name": "assetivo",
-    "description": null,
+    "description": "premium digital asset marketplace and management platform for discovering, purchasing, and managing   high-quality digital products.",
     "href": "https://github.com/homomachinus/assetivo",
     "stars": 1,
     "forks": 0,
@@ -53,7 +53,7 @@
   },
   {
     "name": "spo-taskbar",
-    "description": null,
+    "description": "A lightweight Windows tool that shows time-synced lyrics for the song currently playing in Spotify or any other media player that uses Windows Media Controls. It displays the lyrics directly as an overlay on your Windows Taskbar.",
     "href": "https://github.com/0xfrq/spo-taskbar",
     "stars": 0,
     "forks": 0,
@@ -66,7 +66,7 @@
   },
   {
     "name": "gitauto",
-    "description": null,
+    "description": "Automate git add, git commit, and git push with GitAuto for a faster, hassle-free Git workflow.",
     "href": "https://github.com/0xfrq/gitauto",
     "stars": 13,
     "forks": 0,
