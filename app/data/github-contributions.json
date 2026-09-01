@@ -1,16 +1,11 @@
 {
   "source": "github",
   "username": "0xfrq",
-  "generatedAt": "2026-08-31T22:39:29.329Z",
+  "generatedAt": "2026-09-01T04:21:39.112Z",
   "totalContributions": 756,
   "weeks": [
     {
       "days": [
-        {
-          "date": "2025-08-31",
-          "count": 0,
-          "level": 0
-        },
         {
           "date": "2025-09-01",
           "count": 0,
@@ -2043,6 +2038,11 @@
           "date": "2026-08-31",
           "count": 5,
           "level": 1
+        },
+        {
+          "date": "2026-09-01",
+          "count": 0,
+          "level": 0
         }
       ]
     }
