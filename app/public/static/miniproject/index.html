@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="description" content="Profil SMA Nusa Cendekia — sekolah yang menumbuhkan rasa ingin tahu, keberanian, dan kepedulian." />
+    <title>SMA Nusa Cendekia — Belajar dengan rasa ingin tahu</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,600;10..48,700&family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Lewati ke konten utama</a>
+
+    <header class="site-nav" id="site-nav">
+      <div class="announcement" id="announcement">
+        <p><span class="announcement__mark" aria-hidden="true"></span> Pintu kunjungan terbuka — <a href="#contact">atur waktu berkunjung</a></p>
+        <button class="icon-button announcement__close" id="announcement-close" type="button" aria-label="Tutup pengumuman">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18" /></svg>
+        </button>
+      </div>
+      <div class="nav-bar">
+        <a class="brand" href="#top" aria-label="SMA Nusa Cendekia, kembali ke atas">
+          <span class="brand__mark" aria-hidden="true"><span></span></span>
+          <span class="brand__name">Nusa<br />Cendekia</span>
+        </a>
+        <nav class="nav-links" id="primary-navigation" aria-label="Navigasi utama">
+          <a href="#profil">Profil</a>
+          <a href="#kegiatan">Kegiatan</a>
+          <a href="#catatan">Catatan</a>
+          <a href="#agenda">Agenda</a>
+        </nav>
+        <div class="nav-actions">
+          <a class="button button--dark button--small nav-contact" href="#contact">Hubungi kami <span aria-hidden="true">↗</span></a>
+          <button class="menu-toggle" id="menu-toggle" type="button" aria-controls="primary-navigation" aria-expanded="false">
+            <span class="menu-toggle__label">Menu</span>
+            <span class="menu-toggle__icon" aria-hidden="true"><i></i><i></i></span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main id="main-content">
+      <section class="hero page-shell" id="top" aria-labelledby="hero-title">
+        <div class="hero__copy">
+          <p class="eyebrow">Sekolah menengah · Kota yang terus bergerak</p>
+          <h1 id="hero-title">Belajar dengan rasa ingin tahu.</h1>
+          <p class="hero__lede">Di Nusa Cendekia, pelajaran tidak berhenti di halaman buku. Kami merawat pertanyaan, memberi ruang untuk mencoba, dan berjalan bersama setiap prosesnya.</p>
+          <div class="hero__actions">
+            <a class="button button--dark" href="#profil">Kenali sekolah <span aria-hidden="true">↓</span></a>
+            <a class="text-link" href="#kegiatan">Lihat kehidupan sekolah <span aria-hidden="true">↗</span></a>
+          </div>
+          <div class="hero__footnote"><span class="hero__line" aria-hidden="true"></span><span>Untuk siswa, keluarga, dan siapa pun yang ingin tahu lebih jauh.</span></div>
+        </div>
+        <div class="hero__visual" aria-label="Suasana belajar di Nusa Cendekia">
+          <div class="hero-photo hero-photo--main">
+            <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=85" alt="Siswa berdiskusi di ruang kelas" width="800" height="960" fetchpriority="high" />
+          </div>
+          <div class="hero-photo hero-photo--small">
+            <img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=700&q=85" alt="Suasana perayaan kelulusan siswa" width="700" height="520" />
+          </div>
+          <div class="hero-note">
+            <span class="hero-note__label">Catatan hari ini</span>
+            <strong>Ruang untuk<br />bertumbuh.</strong>
+            <span class="hero-note__scribble" aria-hidden="true">↘</span>
+          </div>
+          <div class="hero-date" aria-label="Tahun ajaran 2024 sampai 2025"><span>TA</span><strong>24<br />25</strong></div>
+        </div>
+      </section>
+
+      <div class="running-note" aria-hidden="true"><span>Pertanyaan baik mengubah cara kita melihat dunia</span><span class="running-note__dot"></span><span>Ruang aman untuk mencoba</span><span class="running-note__dot"></span><span>Pertanyaan baik mengubah cara kita melihat dunia</span></div>
+
+      <section class="story page-shell section-space" id="profil" aria-labelledby="profil-title">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">Tentang sekolah</p>
+            <h2 id="profil-title">Sekolah yang hadir sepenuhnya.</h2>
+          </div>
+          <p class="section-intro">Kami percaya pendidikan yang baik membuat seseorang lebih peka terhadap sekitarnya—dan lebih berani mengambil bagian.</p>
+        </div>
+        <div class="story__body">
+          <article class="prose">
+            <p class="lede">Nusa Cendekia adalah ruang belajar untuk remaja yang sedang menyusun cara pandangnya sendiri. Di sini, matematika bisa dimulai dari kebun, sejarah bisa dibaca dari cerita warga, dan karya seni boleh lahir dari kegagalan percobaan pertama.</p>
+            <p>Kegiatan belajar dirancang dekat dengan kehidupan nyata. Guru mengajak siswa bertanya, menguji, menyusun ulang, lalu menjelaskan kembali dengan bahasa mereka sendiri. Hasil akhirnya bukan hanya nilai, melainkan kebiasaan untuk berpikir jernih dan bekerja bersama.</p>
+            <p>Keluarga adalah bagian dari percakapan itu. Kami membuka pintu untuk dialog yang jujur tentang perkembangan siswa, pilihan setelah lulus, dan hal-hal kecil yang membuat hari di sekolah terasa berarti.</p>
+            <a class="text-link" href="#contact">Bicara dengan tim sekolah <span aria-hidden="true">↗</span></a>
+          </article>
+          <aside class="story__aside">
+            <div class="aside-rule" aria-hidden="true"></div>
+            <p class="aside-label">Cara kami bekerja</p>
+            <ul class="principles-list">
+              <li><span>01</span><strong>Rasa ingin tahu</strong><small>Pertanyaan mendapat tempat sebelum jawaban.</small></li>
+              <li><span>02</span><strong>Kerja bersama</strong><small>Ide tumbuh lebih kuat saat dibagikan.</small></li>
+              <li><span>03</span><strong>Kepedulian</strong><small>Belajar juga berarti memperhatikan sekitar.</small></li>
+            </ul>
+          </aside>
+        </div>
+      </section>
+
+      <section class="values page-shell section-space" aria-labelledby="values-title">
+        <div class="values__lead">
+          <p class="section-kicker">Yang kami jaga</p>
+          <h2 id="values-title">Tiga kebiasaan kecil, dampak yang panjang.</h2>
+        </div>
+        <div class="values__list">
+          <article class="value-item">
+            <span class="value-item__number">A</span>
+            <div><h3>Datang dengan pertanyaan</h3><p>Rasa penasaran bukan gangguan. Ia adalah awal dari pelajaran yang melekat.</p></div>
+            <span class="value-item__arrow" aria-hidden="true">↗</span>
+          </article>
+          <article class="value-item value-item--offset">
+            <span class="value-item__number">B</span>
+            <div><h3>Membuat sesuatu bersama</h3><p>Dari panggung kecil sampai proyek riset, proses selalu lebih penting daripada terlihat sempurna.</p></div>
+            <span class="value-item__arrow" aria-hidden="true">↗</span>
+          </article>
+          <article class="value-item">
+            <span class="value-item__number">C</span>
+            <div><h3>Pulang membawa cerita</h3><p>Setiap hari menyisakan sesuatu untuk dibagikan kembali di rumah dan di lingkungan.</p></div>
+            <span class="value-item__arrow" aria-hidden="true">↗</span>
+          </article>
+        </div>
+      </section>
+
+      <section class="activities page-shell section-space" id="kegiatan" aria-labelledby="activities-title">
+        <div class="section-heading section-heading--activity">
+          <div><p class="section-kicker">Kehidupan sekolah</p><h2 id="activities-title">Hari-hari yang tidak tinggal diam.</h2></div>
+          <div class="carousel-controls">
+            <span class="carousel-count" id="carousel-count" aria-live="polite">01 / 04</span>
+            <button class="icon-button carousel-button" id="carousel-prev" type="button" aria-label="Kegiatan sebelumnya"><span aria-hidden="true">←</span></button>
+            <button class="icon-button carousel-button" id="carousel-next" type="button" aria-label="Kegiatan berikutnya"><span aria-hidden="true">→</span></button>
+          </div>
+        </div>
+        <div class="carousel" id="activity-carousel" tabindex="0" aria-roledescription="carousel" aria-label="Kumpulan kegiatan sekolah">
+          <div class="carousel-track" id="carousel-track">
+            <article class="activity-card is-active" data-slide="0">
+              <figure><img src="https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1000&q=85" alt="Buku dan catatan di atas meja" width="900" height="680" loading="lazy" /><figcaption>01 · Studio baca</figcaption></figure>
+              <div class="activity-card__copy"><h3>Membaca lebih dekat</h3><p>Klub mingguan untuk menemukan satu buku, lalu membawanya ke percakapan.</p></div>
+            </article>
+            <article class="activity-card" data-slide="1">
+              <figure><img src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1000&q=85" alt="Siswa berjalan di area kampus" width="900" height="680" loading="lazy" /><figcaption>02 · Jelajah kota</figcaption></figure>
+              <div class="activity-card__copy"><h3>Belajar dari sekitar</h3><p>Siswa mengamati lingkungan, bertemu narasumber, dan menyusun temuannya.</p></div>
+            </article>
+            <article class="activity-card" data-slide="2">
+              <figure><img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1000&q=85" alt="Siswa belajar bersama di kelas" width="900" height="680" loading="lazy" /><figcaption>03 · Laboratorium ide</figcaption></figure>
+              <div class="activity-card__copy"><h3>Menguji kemungkinan</h3><p>Ruang eksperimen lintas pelajaran untuk membuat prototipe dan belajar dari hasilnya.</p></div>
+            </article>
+            <article class="activity-card" data-slide="3">
+              <figure><img src="https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1000&q=85" alt="Siswa tersenyum dalam kegiatan kelompok" width="900" height="680" loading="lazy" /><figcaption>04 · Panggung bersama</figcaption></figure>
+              <div class="activity-card__copy"><h3>Berani tampil, siap mendengar</h3><p>Presentasi, pertunjukan, dan forum siswa untuk melatih suara serta empati.</p></div>
+            </article>
+          </div>
+        </div>
+        <div class="carousel-dots" id="carousel-dots" aria-label="Pilih kegiatan">
+          <button class="carousel-dot is-active" type="button" aria-label="Tampilkan kegiatan 1" aria-current="true"></button>
+          <button class="carousel-dot" type="button" aria-label="Tampilkan kegiatan 2"></button>
+          <button class="carousel-dot" type="button" aria-label="Tampilkan kegiatan 3"></button>
+          <button class="carousel-dot" type="button" aria-label="Tampilkan kegiatan 4"></button>
+        </div>
+      </section>
+
+      <section class="updates page-shell section-space" id="catatan" aria-labelledby="updates-title">
+        <div class="section-heading">
+          <div><p class="section-kicker">Berita & catatan</p><h2 id="updates-title">Yang sedang kami bicarakan.</h2></div>
+          <a class="text-link section-heading__link" href="#blog">Buka semua catatan <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="updates__grid">
+          <article class="featured-post">
+            <div class="featured-post__image"><img src="https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=1200&q=85" alt="Guru berbicara bersama siswa di kelas" width="1200" height="850" loading="lazy" /></div>
+            <div class="featured-post__body"><p class="post-meta">Catatan kepala sekolah · 18 Mei 2025</p><h3>Ketika sekolah memberi waktu untuk mendengar.</h3><p>Beberapa pelajaran terbaik dimulai saat kita berhenti sebentar, memperhatikan, lalu mengajukan pertanyaan yang lebih baik.</p><a class="text-link" href="#blog">Baca catatan <span aria-hidden="true">↗</span></a></div>
+          </article>
+          <div class="post-list">
+            <article class="post-row"><span class="post-row__date">12 MEI<br />2025</span><div><p class="post-meta">Kabar siswa</p><h3>Klub sains mengubah halaman belakang menjadi kebun belajar.</h3><a href="#blog">Baca tulisan <span aria-hidden="true">↗</span></a></div></article>
+            <article class="post-row"><span class="post-row__date">04 MEI<br />2025</span><div><p class="post-meta">Untuk keluarga</p><h3>Menemani anak memilih jalan setelah sekolah.</h3><a href="#blog">Baca tulisan <span aria-hidden="true">↗</span></a></div></article>
+            <article class="post-row"><span class="post-row__date">27 APR<br />2025</span><div><p class="post-meta">Ruang guru</p><h3>Proyek kecil, percakapan besar di kelas sebelas.</h3><a href="#blog">Baca tulisan <span aria-hidden="true">↗</span></a></div></article>
+          </div>
+        </div>
+      </section>
+
+      <section class="blog page-shell section-space" id="blog" aria-labelledby="blog-title">
+        <div class="section-heading section-heading--blog">
+          <div><p class="section-kicker">Jurnal Nusa</p><h2 id="blog-title">Catatan untuk dibawa pulang.</h2></div>
+          <p class="section-intro">Cerita dari kelas, halaman sekolah, dan percakapan yang terus berlanjut.</p>
+        </div>
+        <div class="filter-bar" role="group" aria-label="Saring catatan berdasarkan topik">
+          <button class="filter-button is-active" type="button" data-filter="semua" aria-pressed="true">Semua</button>
+          <button class="filter-button" type="button" data-filter="siswa" aria-pressed="false">Cerita siswa</button>
+          <button class="filter-button" type="button" data-filter="keluarga" aria-pressed="false">Untuk keluarga</button>
+          <button class="filter-button" type="button" data-filter="guru" aria-pressed="false">Ruang guru</button>
+        </div>
+        <div class="blog-grid" id="blog-grid">
+          <article class="blog-card" data-category="siswa"><div class="blog-card__top"><span class="blog-card__tag">Cerita siswa</span><span class="blog-card__arrow" aria-hidden="true">↗</span></div><h3>Surat kecil dari ruang musik</h3><p>“Saya belajar bahwa mendengar orang lain juga bagian dari membuat musik.”</p><a href="#contact" aria-label="Baca Surat kecil dari ruang musik">Baca catatan</a></article>
+          <article class="blog-card blog-card--warm" data-category="keluarga"><div class="blog-card__top"><span class="blog-card__tag">Untuk keluarga</span><span class="blog-card__arrow" aria-hidden="true">↗</span></div><h3>Rumah dan sekolah, satu percakapan</h3><p>Beberapa cara sederhana membuka obrolan tentang hari belajar tanpa terburu-buru.</p><a href="#contact" aria-label="Baca Rumah dan sekolah, satu percakapan">Baca catatan</a></article>
+          <article class="blog-card blog-card--green" data-category="guru"><div class="blog-card__top"><span class="blog-card__tag">Ruang guru</span><span class="blog-card__arrow" aria-hidden="true">↗</span></div><h3>Mengajar tanpa buru-buru memberi jawaban</h3><p>Catatan tentang jeda, rasa ingin tahu, dan keberanian membiarkan kelas menemukan jalannya.</p><a href="#contact" aria-label="Baca Mengajar tanpa buru-buru memberi jawaban">Baca catatan</a></article>
+          <article class="blog-card blog-card--outline" data-category="siswa"><div class="blog-card__top"><span class="blog-card__tag">Cerita siswa</span><span class="blog-card__arrow" aria-hidden="true">↗</span></div><h3>Peta suara dari satu perjalanan</h3><p>Bagaimana observasi singkat di pasar kota menjadi karya lintas pelajaran.</p><a href="#contact" aria-label="Baca Peta suara dari satu perjalanan">Baca catatan</a></article>
+        </div>
+        <p class="filter-empty" id="filter-empty" hidden>Belum ada catatan untuk topik ini.</p>
+      </section>
+
+      <section class="agenda page-shell section-space" id="agenda" aria-labelledby="agenda-title">
+        <div class="agenda__head"><p class="section-kicker">Mendatang</p><h2 id="agenda-title">Mari bertemu di satu momen.</h2><p>Kalender sekolah terbuka untuk keluarga dan masyarakat. Pilih waktu yang ingin kamu ikuti.</p></div>
+        <div class="agenda-list">
+          <a class="agenda-item" href="#contact"><time datetime="2025-06-07"><span>07</span><small>JUN<br />2025</small></time><div><p class="post-meta">Sabtu · 09.00–12.00</p><h3>Open house dan tur ruang belajar</h3></div><span class="agenda-arrow" aria-hidden="true">↗</span></a>
+          <a class="agenda-item" href="#contact"><time datetime="2025-06-21"><span>21</span><small>JUN<br />2025</small></time><div><p class="post-meta">Sabtu · 15.30–18.00</p><h3>Pameran karya akhir semester</h3></div><span class="agenda-arrow" aria-hidden="true">↗</span></a>
+          <a class="agenda-item" href="#contact"><time datetime="2025-07-12"><span>12</span><small>JUL<br />2025</small></time><div><p class="post-meta">Sabtu · 09.00–11.00</p><h3>Forum keluarga: memilih langkah berikutnya</h3></div><span class="agenda-arrow" aria-hidden="true">↗</span></a>
+        </div>
+      </section>
+
+      <section class="contact page-shell section-space" id="contact" aria-labelledby="contact-title">
+        <div class="contact__copy"><p class="section-kicker">Pintu kami terbuka</p><h2 id="contact-title">Ada yang ingin kamu tanyakan?</h2><p>Kirim pesan untuk meminta informasi, menjadwalkan kunjungan, atau sekadar berkenalan dengan sekolah kami.</p><div class="contact-details"><p><span>Email</span><a href="mailto:halo@nusacendekia.sch.id">halo@nusacendekia.sch.id</a></p><p><span>Telepon</span><a href="tel:+62215550125">(021) 555 0125</a></p><p><span>Alamat</span><span>Jl. Taman Belajar No. 8, Jakarta</span></p></div></div>
+        <form class="contact-form" id="contact-form" novalidate>
+          <div class="form-field"><label for="name">Nama</label><input id="name" name="name" type="text" autocomplete="name" placeholder="Nama lengkap" required /><small class="field-message" data-for="name"></small></div>
+          <div class="form-field"><label for="email">Alamat email</label><input id="email" name="email" type="email" autocomplete="email" placeholder="nama@email.com" required /><small class="field-message" data-for="email"></small></div>
+          <div class="form-field"><label for="message">Pesan</label><textarea id="message" name="message" rows="4" placeholder="Ceritakan yang ingin kamu ketahui…" required></textarea><small class="field-message" data-for="message"></small></div>
+          <button class="button button--dark form-submit" id="form-submit" type="submit"><span class="button-label">Kirim pesan</span><span class="button-loading" aria-hidden="true">Mengirim…</span><span aria-hidden="true">↗</span></button>
+          <p class="form-status" id="form-status" role="status" aria-live="polite"></p>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer" aria-label="Bagian penutup">
+      <div class="footer-statement page-shell"><p>Setiap hari dimulai dari satu pertanyaan.</p><div class="footer-meta"><a class="brand brand--footer" href="#top"><span class="brand__mark" aria-hidden="true"><span></span></span><span class="brand__name">Nusa<br />Cendekia</span></a><div class="footer-links"><a href="#profil">Profil</a><a href="#kegiatan">Kegiatan</a><a href="#contact">Kontak</a></div><span class="footer-copy">© 2025 Nusa Cendekia</span></div></div>
+    </footer>
+  </body>
+</html>

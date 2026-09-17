@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="description" content="Ruang Guru — AI Learning Generator untuk guru SDN Bangah No. 383." />
+    <title>Ruang Guru · SDN Bangah No. 383</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,500;10..48,600;10..48,700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="ai-learning-generator.css" />
+    <script src="ai-learning-generator.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#view-root">Lewati ke konten utama</a>
+    <div class="app-shell">
+      <aside class="app-sidebar" aria-label="Navigasi Ruang Guru">
+        <div class="sidebar-top">
+          <a class="app-brand" href="#dashboard" data-view="dashboard" aria-label="Ruang Guru, kembali ke dashboard">
+            <span class="brand-mark" aria-hidden="true"><i></i><i></i><b></b></span>
+            <span><strong>Ruang Guru</strong><small>AI Learning Generator</small></span>
+          </a>
+          <button class="school-switcher" type="button" data-action="show-school-menu" aria-label="Ganti konteks sekolah">
+            <span class="school-avatar">B</span>
+            <span><strong>SDN Bangah No. 383</strong><small>Kelas 5A · 2024/25</small></span>
+            <span class="chevron" aria-hidden="true">⌄</span>
+          </button>
+        </div>
+        <nav class="sidebar-nav" aria-label="Menu utama">
+          <p class="nav-caption">Workspace</p>
+          <button class="side-link is-active" type="button" data-view="dashboard"><span class="side-link__icon" data-icon="home"></span><span>Dashboard</span></button>
+          <button class="side-link" type="button" data-view="material"><span class="side-link__icon" data-icon="book"></span><span>Generate Materi</span><span class="side-link__plus">AI</span></button>
+          <button class="side-link" type="button" data-view="questions"><span class="side-link__icon" data-icon="clipboard"></span><span>Generate Soal</span><span class="side-link__plus">AI</span></button>
+          <button class="side-link" type="button" data-view="grading"><span class="side-link__icon" data-icon="scan"></span><span>Auto Grading</span></button>
+          <button class="side-link" type="button" data-view="history"><span class="side-link__icon" data-icon="clock"></span><span>Riwayat</span></button>
+          <p class="nav-caption nav-caption--lower">Akun</p>
+          <button class="side-link" type="button" data-action="show-profile"><span class="side-link__icon" data-icon="user"></span><span>Profil saya</span></button>
+          <button class="side-link" type="button" data-action="show-settings"><span class="side-link__icon" data-icon="settings"></span><span>Pengaturan</span></button>
+        </nav>
+        <div class="sidebar-bottom">
+          <div class="sidebar-help"><span class="help-spark" aria-hidden="true">✦</span><strong>Butuh bantuan?</strong><p>Pelajari cara kerja AI untuk guru.</p><button type="button" data-action="show-help">Buka panduan <span aria-hidden="true">↗</span></button></div>
+          <div class="sidebar-user"><span class="avatar avatar--small">BR</span><span><strong>Bu Rina</strong><small>Guru kelas 5A</small></span><button class="more-button" type="button" data-action="show-profile" aria-label="Buka profil Bu Rina">•••</button></div>
+        </div>
+      </aside>
+
+      <div class="app-main">
+        <header class="topbar">
+          <div class="mobile-brand"><span class="brand-mark" aria-hidden="true"><i></i><i></i><b></b></span><strong>Ruang Guru</strong></div>
+          <div class="breadcrumbs" id="breadcrumbs"><span>Workspace</span><b>/</b><strong>Dashboard</strong></div>
+          <div class="topbar-actions">
+            <span class="ai-ready"><i aria-hidden="true"></i> AI siap membantu</span>
+            <button class="topbar-icon" type="button" data-action="show-notifications" aria-label="Lihat notifikasi"><span data-icon="bell"></span><em></em></button>
+            <button class="topbar-profile" type="button" data-action="show-profile"><span class="avatar">BR</span><span class="topbar-profile__text"><strong>Bu Rina</strong><small>Guru kelas 5A</small></span><span class="chevron" aria-hidden="true">⌄</span></button>
+          </div>
+        </header>
+        <main id="view-root" tabindex="-1"></main>
+      </div>
+    </div>
+
+    <nav class="mobile-nav" aria-label="Navigasi mobile">
+      <button class="mobile-nav__item is-active" type="button" data-view="dashboard"><span data-icon="home"></span><small>Beranda</small></button>
+      <button class="mobile-nav__item" type="button" data-view="material"><span data-icon="book"></span><small>Materi</small></button>
+      <button class="mobile-nav__item" type="button" data-view="questions"><span data-icon="clipboard"></span><small>Soal</small></button>
+      <button class="mobile-nav__item" type="button" data-view="grading"><span data-icon="scan"></span><small>Nilai</small></button>
+      <button class="mobile-nav__item" type="button" data-view="history"><span data-icon="clock"></span><small>Riwayat</small></button>
+    </nav>
+
+    <input id="sheet-upload" type="file" accept="image/*,.pdf" multiple hidden />
+    <input id="camera-upload" type="file" accept="image/*" capture="environment" hidden />
+    <div class="toast" id="toast" role="status" aria-live="polite"><span class="toast__icon" data-icon="check"></span><span id="toast-message">Perubahan tersimpan.</span><button type="button" data-action="hide-toast" aria-label="Tutup notifikasi">×</button></div>
+    <dialog class="app-dialog" id="app-dialog"><div id="dialog-content"></div><button class="dialog-close" type="button" data-action="close-dialog" aria-label="Tutup dialog">×</button></dialog>
+  </body>
+</html>
