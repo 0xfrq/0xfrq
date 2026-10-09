@@ -13,35 +13,9 @@
     "lastCommit": "2026-08-01T12:16:55Z"
   },
   {
-    "name": "celestia",
-    "description": "Turn any LLM into Aristotle, Nietzsche, or Plato via CPT + SFT on their original writings. QLoRA, DDP, GGUF.",
-    "href": "https://github.com/homomachinus/celestia",
-    "stars": 0,
-    "forks": 0,
-    "language": {
-      "name": "Python",
-      "color": "#3572A5"
-    },
-    "topics": [],
-    "lastCommit": "2026-07-09T22:08:05Z"
-  },
-  {
-    "name": "visiondrive3d",
-    "description": " YOLO-powered autonomous driving visualization system that detects nearby vehicles from dashcam   footage and renders them in a Tesla FSD-style pseudo-3D bird’s-eye view.",
-    "href": "https://github.com/homomachinus/visiondrive3d",
-    "stars": 1,
-    "forks": 0,
-    "language": {
-      "name": "Python",
-      "color": "#3572A5"
-    },
-    "topics": [],
-    "lastCommit": "2026-06-13T10:26:43Z"
-  },
-  {
     "name": "assetivo",
     "description": "premium digital asset marketplace and management platform for discovering, purchasing, and managing   high-quality digital products.",
-    "href": "https://github.com/homomachinus/assetivo",
+    "href": "https://github.com/renaro-labs/assetivo",
     "stars": 1,
     "forks": 0,
     "language": {
