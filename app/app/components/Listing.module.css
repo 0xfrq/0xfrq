@@ -1,0 +1,196 @@
+/* Hallmark · genre: modern-minimal · macrostructure: Split Studio (sticky-pane variant) · design-system: tokens.css · designed-as-app
+ * Shared by /projects and /blog: a sticky header pane on the left, a ruled index on the right.
+ */
+
+.main {
+  padding-top: clamp(3rem, 7vw, 6rem);
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  row-gap: var(--space-xl);
+}
+
+/* ── Header pane ── */
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 0;
+}
+
+.back {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2xs);
+  margin-bottom: var(--space-xl);
+  color: var(--color-ink-3);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  letter-spacing: var(--tracking-mono);
+  white-space: nowrap;
+  transition: color var(--dur-short) var(--ease-out);
+}
+
+.back span {
+  transition: transform var(--dur-base) var(--ease-out);
+}
+
+.back:hover {
+  color: var(--color-ink);
+}
+
+.back:hover span {
+  transform: translateX(-3px);
+}
+
+.kicker {
+  margin-bottom: var(--space-2xs);
+  color: var(--color-ink-3);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  letter-spacing: var(--tracking-mono);
+}
+
+.header h1 {
+  font-size: clamp(2.75rem, 3.5vw + 1.25rem, 4.25rem);
+  line-height: 1;
+  letter-spacing: var(--tracking-display);
+  overflow-wrap: anywhere;
+  min-width: 0;
+}
+
+.period {
+  color: var(--color-accent);
+}
+
+.intro {
+  max-width: 24rem;
+  margin-top: var(--space-md);
+  color: var(--color-ink-2);
+  font-size: var(--text-base);
+}
+
+/* ── Index ── */
+.content {
+  min-width: 0;
+}
+
+.list {
+  border-top: 1px solid var(--color-ink);
+}
+
+.item {
+  display: grid;
+  grid-template-columns: 2rem minmax(0, 1fr) 1rem;
+  column-gap: var(--space-sm);
+  align-items: baseline;
+  padding-block: var(--space-md);
+  border-bottom: 1px solid var(--color-rule);
+}
+
+.item:focus-visible {
+  outline-offset: 0;
+}
+
+.itemTop {
+  display: contents;
+}
+
+.number {
+  grid-column: 1;
+  color: var(--color-ink-3);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  font-variant-numeric: tabular-nums;
+}
+
+.itemTitle {
+  grid-column: 2;
+  min-width: 0;
+  overflow-wrap: anywhere;
+  color: var(--color-ink);
+  font-size: var(--text-lg);
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: var(--tracking-tight);
+  transition: color var(--dur-short) var(--ease-out);
+}
+
+.arrow {
+  grid-column: 3;
+  justify-self: end;
+  color: var(--color-ink-3);
+  font-size: var(--text-sm);
+  transition:
+    color var(--dur-short) var(--ease-out),
+    transform var(--dur-base) var(--ease-out);
+}
+
+.item:hover .itemTitle,
+.item:hover .arrow {
+  color: var(--color-accent);
+}
+
+.item:hover .arrow {
+  transform: translate(2px, -2px);
+}
+
+.itemDesc {
+  grid-column: 2;
+  max-width: var(--measure);
+  margin-top: var(--space-2xs);
+  color: var(--color-ink-2);
+  font-size: var(--text-sm);
+  line-height: 1.55;
+}
+
+.itemMeta {
+  grid-column: 2;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-3xs) var(--space-md);
+  margin-top: var(--space-xs);
+  color: var(--color-ink-3);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  letter-spacing: var(--tracking-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+.empty {
+  padding-block: var(--space-xl);
+  color: var(--color-ink-3);
+}
+
+@media (min-width: 1024px) {
+  .layout {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    column-gap: var(--space-lg);
+    align-items: start;
+  }
+
+  .header {
+    grid-column: 1 / span 4;
+    position: sticky;
+    top: calc(var(--banner-height) + var(--space-xl));
+    z-index: var(--z-sticky);
+  }
+
+  .content {
+    grid-column: 5 / -1;
+  }
+
+  .back {
+    margin-bottom: var(--space-2xl);
+  }
+}
+
+@media (max-width: 479px) {
+  .item {
+    grid-template-columns: 1.75rem minmax(0, 1fr) 1rem;
+    column-gap: var(--space-xs);
+  }
+}

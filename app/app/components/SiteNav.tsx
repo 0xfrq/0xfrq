@@ -1,26 +1,44 @@
 "use client";
 
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import ThemeToggle from "./ThemeToggle";
 import styles from "./SiteNav.module.css";
 
+const links = [
+  { href: "/projects", label: "projects" },
+  { href: "/blog", label: "blog" },
+];
+
 export default function SiteNav() {
+  const pathname = usePathname();
+
   return (
-    <header className={styles.chip}>
-      <Link href="/" className={styles.wordmark} aria-label="Fariq home">
-        F
-      </Link>
-      <span className={styles.divider} aria-hidden="true" />
-      <nav className={styles.links} aria-label="Primary">
-        <Link href="/projects" className={styles.link}>
-          projects
+    <header className={styles.bar}>
+      <div className={`shell ${styles.inner}`}>
+        <Link href="/" className={styles.wordmark} aria-label="Fariq home">
+          F
         </Link>
-        <Link href="/blog" className={styles.link}>
-          blog
-        </Link>
-      </nav>
-      <span className={styles.divider} aria-hidden="true" />
-      <ThemeToggle />
+        <div className={styles.end}>
+          <nav className={styles.links} aria-label="Primary">
+            {links.map(({ href, label }) => {
+              const isCurrent = pathname === href || pathname.startsWith(`${href}/`);
+              return (
+                <Link
+                  key={href}
+                  href={href}
+                  className={styles.link}
+                  aria-current={isCurrent ? "page" : undefined}
+                >
+                  {label}
+                </Link>
+              );
+            })}
+          </nav>
+          <span className={styles.divider} aria-hidden="true" />
+          <ThemeToggle />
+        </div>
+      </div>
     </header>
   );
 }

@@ -1,25 +1,22 @@
-/* Body copy keeps the studied serif/sans contrast restrained. */
-
 .bio {
-  max-width: 38rem;
-  margin-top: var(--space-2xl);
-  color: var(--ink-muted);
-  font-size: var(--text-base);
-  line-height: 1.65;
+  max-width: var(--measure);
+  color: var(--color-ink-2);
+  font-size: var(--text-md);
+  line-height: 1.6;
 }
 
 .bio p + p {
-  margin-top: var(--space-md);
+  margin-top: var(--space-sm);
 }
 
 .bio strong {
-  color: var(--ink);
+  color: var(--color-ink);
   font-weight: 600;
 }
 
+/* Emphasis by weight and ink, not a synthesised italic. */
 .bio em {
-  font-family: var(--font-serif);
-  font-style: italic;
+  color: var(--color-ink);
+  font-style: normal;
   font-weight: 500;
-  color: var(--ink);
 }

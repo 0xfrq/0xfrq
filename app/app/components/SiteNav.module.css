@@ -1,91 +1,79 @@
-/* N2 floating chip — fixed, blurred, top-left. The studied DNA's nav. */
+/* N1a · wordmark + two links · sticky, solid paper, hairline below. */
 
-.chip {
-  position: fixed;
-  top: var(--space-sm);
-  left: var(--space-sm);
-  z-index: 50;
+.bar {
+  position: sticky;
+  top: 0;
+  z-index: var(--z-sticky-nav);
+  background: var(--color-paper);
+  border-bottom: 1px solid var(--color-rule);
+}
+
+.inner {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   gap: var(--space-sm);
-  padding: var(--space-xs) var(--space-sm);
-  border-radius: var(--radius-lg);
-  background: color-mix(in srgb, var(--paper-2) 55%, transparent);
-  -webkit-backdrop-filter: blur(8px);
-  backdrop-filter: blur(8px);
-  border: 1px solid var(--rule-soft);
-  animation: nav-enter var(--dur-reveal) var(--ease-out) both;
-  transition:
-    background-color var(--dur-slow) var(--ease-out),
-    border-color var(--dur-slow) var(--ease-out);
+  height: var(--banner-height);
 }
 
 .wordmark {
-  font-family: var(--font-serif);
-  font-style: italic;
-  font-weight: 500;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  display: inline-grid;
+  place-items: center;
   width: 1.75rem;
   height: 1.75rem;
-  font-size: var(--text-xl);
+  border-radius: var(--radius-md);
+  background: var(--color-ink);
+  color: var(--color-paper);
+  font-size: var(--text-sm);
+  font-weight: 600;
   line-height: 1;
-  color: var(--ink);
-  padding: var(--space-2xs) var(--space-xs);
-  border-radius: var(--radius-sm);
-  white-space: nowrap;
-  transition: color var(--dur-hover) var(--ease-hover);
+  transition: background-color var(--dur-short) var(--ease-out);
 }
 
 .wordmark:hover {
-  color: var(--accent);
+  background: var(--color-accent);
+}
+
+.end {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
 }
 
 .links {
   display: flex;
   align-items: center;
-  gap: var(--space-2xs);
+  gap: var(--space-3xs);
 }
 
 .link {
-  font-size: var(--text-sm);
-  color: var(--ink-muted);
-  padding: var(--space-2xs) var(--space-xs);
+  position: relative;
+  padding: var(--space-3xs) var(--space-2xs);
   border-radius: var(--radius-sm);
+  color: var(--color-ink-3);
+  font-size: var(--text-sm);
   white-space: nowrap;
-  transition:
-    color var(--dur-hover) var(--ease-hover),
-    background-color var(--dur-hover) var(--ease-hover);
+  transition: color var(--dur-short) var(--ease-out);
 }
 
-.link:hover {
-  color: var(--accent-ink);
-  background: var(--accent);
+.link:hover,
+.link[aria-current="page"] {
+  color: var(--color-ink);
+}
+
+/* Active route: a 2px cobalt tick resting on the bar's hairline. */
+.link[aria-current="page"]::after {
+  content: "";
+  position: absolute;
+  right: var(--space-2xs);
+  bottom: calc((var(--banner-height) - 100%) / -2);
+  left: var(--space-2xs);
+  height: 2px;
+  background: var(--color-accent);
 }
 
 .divider {
   width: 1px;
-  align-self: stretch;
-  background: var(--rule);
-}
-
-@keyframes nav-enter {
-  from {
-    opacity: 0;
-    transform: translateY(-0.65rem);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@media (max-width: 480px) {
-  .chip {
-    top: var(--space-xs);
-    left: var(--space-xs);
-    gap: var(--space-xs);
-    padding: var(--space-2xs) var(--space-xs);
-  }
+  height: 1rem;
+  background: var(--color-rule);
 }

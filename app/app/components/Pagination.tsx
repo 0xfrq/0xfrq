@@ -1,4 +1,5 @@
 import Link from "next/link";
+import styles from "./Pagination.module.css";
 
 type Props = {
   basePath: string;
@@ -10,42 +11,27 @@ export default function Pagination({ basePath, currentPage, totalPages }: Props)
   if (totalPages <= 1) return null;
 
   return (
-    <nav
-      style={{
-        display: "flex",
-        alignItems: "center",
-        justifyContent: "center",
-        gap: "1rem",
-        marginTop: "1.5rem",
-        fontSize: "0.875rem",
-      }}
-    >
+    <nav className={styles.pagination} aria-label="Pagination">
       {currentPage > 1 ? (
-        <Link
-          href={`${basePath}?page=${currentPage - 1}`}
-          style={{ color: "var(--text-muted)" }}
-        >
+        <Link href={`${basePath}?page=${currentPage - 1}`} className={styles.step}>
           ← prev
         </Link>
       ) : (
-        <span style={{ color: "var(--text-footer)", cursor: "default" }}>
+        <span className={styles.step} aria-disabled="true">
           ← prev
         </span>
       )}
 
-      <span style={{ color: "var(--text-muted)" }}>
+      <span className={styles.count}>
         {currentPage} / {totalPages}
       </span>
 
       {currentPage < totalPages ? (
-        <Link
-          href={`${basePath}?page=${currentPage + 1}`}
-          style={{ color: "var(--text-muted)" }}
-        >
+        <Link href={`${basePath}?page=${currentPage + 1}`} className={styles.step}>
           next →
         </Link>
       ) : (
-        <span style={{ color: "var(--text-footer)", cursor: "default" }}>
+        <span className={styles.step} aria-disabled="true">
           next →
         </span>
       )}

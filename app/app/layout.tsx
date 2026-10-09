@@ -1,31 +1,18 @@
-import type { Metadata } from "next";
-import { Fraunces, Inter, Roboto_Mono } from "next/font/google";
-import Script from "next/script";
-import { ThemeProvider } from "./components/ThemeProvider";
-import CustomCursor from "./components/CustomCursor";
-import IntroAnimation from "./components/IntroAnimation";
+import type { Metadata, Viewport } from "next";
+import { Geist, Geist_Mono } from "next/font/google";
 import SiteNav from "./components/SiteNav";
-import SmoothScroll from "./components/SmoothScroll";
 import Footer from "./components/Footer";
 import "./globals.css";
 
-const fraunces = Fraunces({
+const geist = Geist({
   subsets: ["latin"],
-  style: ["normal", "italic"],
-  variable: "--font-serif",
+  variable: "--font-geist",
   display: "swap",
 });
 
-const inter = Inter({
+const geistMono = Geist_Mono({
   subsets: ["latin"],
-  variable: "--font-sans",
-  display: "swap",
-});
-
-const robotoMono = Roboto_Mono({
-  subsets: ["latin"],
-  weight: ["400"],
-  variable: "--font-mono",
+  variable: "--font-geist-mono",
   display: "swap",
 });
 
@@ -48,6 +35,16 @@ export const metadata: Metadata = {
   },
 };
 
+export const viewport: Viewport = {
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#f9fafc" },
+    { media: "(prefers-color-scheme: dark)", color: "#0e1015" },
+  ],
+};
+
+// Runs before first paint so the saved (or OS) theme never flashes.
+const themeInit = `(function(){try{var t=localStorage.getItem("theme");if(t!=="light"&&t!=="dark"){t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"}document.documentElement.setAttribute("data-theme",t)}catch(e){}})();`;
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -56,35 +53,16 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${fraunces.variable} ${inter.variable} ${robotoMono.variable}`}
+      className={`${geist.variable} ${geistMono.variable}`}
       suppressHydrationWarning
     >
       <head>
-        <Script id="theme-init" strategy="beforeInteractive">
-          {`
-            (function() {
-              try {
-                var t = localStorage.getItem("theme");
-                document.documentElement.setAttribute(
-                  "data-theme",
-                  t === "light" ? "light" : "dark"
-                );
-              } catch(e) {
-                document.documentElement.setAttribute("data-theme", "dark");
-              }
-            })();
-          `}
-        </Script>
+        <script dangerouslySetInnerHTML={{ __html: themeInit }} />
       </head>
       <body>
-        <ThemeProvider>
-          <IntroAnimation />
-          <CustomCursor />
-          <SmoothScroll />
-          <SiteNav />
-          {children}
-          <Footer />
-        </ThemeProvider>
+        <SiteNav />
+        {children}
+        <Footer />
       </body>
     </html>
   );

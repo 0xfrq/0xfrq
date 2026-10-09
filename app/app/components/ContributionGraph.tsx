@@ -1,4 +1,3 @@
-import type { CSSProperties } from "react";
 import calendar from "@/data/github-contributions.json";
 import styles from "./ContributionGraph.module.css";
 
@@ -29,22 +28,19 @@ export default function ContributionGraph() {
   const weeks = Array.isArray(data.weeks) ? data.weeks : [];
 
   return (
-    <section className={styles.wrap} aria-label={`${data.username} GitHub contribution graph`}>
-      <div className={styles.grid} aria-hidden="true">
-        {weeks.map((week, weekIndex) => (
-          <div className={styles.week} key={`${weekIndex}-${week.days?.[0]?.date ?? "week"}`}>
-            {(week.days || []).map((day, dayIndex) => (
-              <span
-                className={styles.day}
-                data-level={clampLevel(day.level)}
-                data-count={day.count}
-                key={day.date}
-                style={{ "--cell-index": weekIndex * 7 + dayIndex } as CSSProperties}
-              />
-            ))}
-          </div>
-        ))}
+    <div className={styles.wrap} role="img" aria-label={`${data.username} GitHub contribution graph`}>
+      {/* rtl scroller starts at the most recent week on narrow screens; the grid itself reads ltr. */}
+      <div className={styles.scroller}>
+        <div className={styles.grid} style={{ gridTemplateColumns: `repeat(${weeks.length || 1}, minmax(0, 1fr))` }}>
+          {weeks.map((week, weekIndex) => (
+            <div className={styles.week} key={`${weekIndex}-${week.days?.[0]?.date ?? "week"}`}>
+              {(week.days || []).map((day) => (
+                <span className={styles.day} data-level={clampLevel(day.level)} key={day.date} />
+              ))}
+            </div>
+          ))}
+        </div>
       </div>
-    </section>
+    </div>
   );
 }

@@ -1,174 +1,19 @@
-/* Hallmark · Long Document index · dark maroon variant */
+/* Layout lives in components/Listing.module.css; only project-specific meta here. */
 
-.main {
-  min-height: 100vh;
-  padding: 0 var(--space-lg) var(--space-4xl);
-}
-
-.document {
-  position: relative;
-  max-width: var(--measure);
-  margin: 0 auto;
-}
-
-.header {
-  padding-top: var(--space-section);
-  padding-bottom: var(--space-4xl);
-}
-
-.back {
-  position: absolute;
-  top: var(--space-section);
-  left: calc(-1 * (var(--space-4xl) + var(--space-xl)));
+.lang {
   display: inline-flex;
   align-items: center;
-  gap: var(--space-xs);
-  color: var(--ink-muted);
-  font-family: var(--font-mono);
-  font-size: var(--text-xs);
-  transition: color var(--dur-base) var(--ease-in-out);
+  gap: var(--space-2xs);
 }
 
-.back:hover {
-  color: var(--accent);
-}
-
-.kicker {
-  margin-bottom: var(--space-md);
-  color: var(--ink-faint);
-  font-family: var(--font-mono);
-  font-size: var(--text-xs);
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
-}
-
-.header h1 {
-  color: var(--ink);
-  font-size: clamp(2.5rem, 9vw, 4.5rem);
-  font-weight: 500;
-  letter-spacing: -0.05em;
-  line-height: 1;
-}
-
-.period {
-  color: var(--accent);
-}
-
-.intro {
-  max-width: 27rem;
-  margin-top: var(--space-xl);
-  color: var(--ink-muted);
-  font-size: var(--text-base);
-  line-height: 1.6;
-}
-
-.list {
-  border-top: 1px solid var(--rule);
-}
-
-.item {
-  display: block;
-  padding: var(--space-lg) 0;
-  border-bottom: 1px solid var(--rule-soft);
-  opacity: 0;
-  transform: translateX(-0.75rem);
-  animation: row-enter var(--dur-reveal) var(--ease-out) both;
-  animation-delay: calc(var(--item-index) * 45ms);
-  transition:
-    transform var(--dur-hover) var(--ease-hover),
-    background-color var(--dur-hover) var(--ease-hover);
-}
-
-.item:hover {
-  transform: translateX(var(--space-sm));
-  background: color-mix(in srgb, var(--paper-2) 55%, transparent);
-}
-
-.itemTop {
-  display: grid;
-  grid-template-columns: 2.5rem minmax(0, 1fr) auto;
-  gap: var(--space-sm);
-  align-items: baseline;
-}
-
-.number,
-.itemMeta,
-.arrow {
-  font-family: var(--font-mono);
-  font-size: var(--text-xs);
-}
-
-.number,
-.itemMeta {
-  color: var(--ink-faint);
-}
-
-.itemTitle {
-  min-width: 0;
-  overflow-wrap: anywhere;
-  color: var(--ink);
-  font-family: var(--font-serif);
-  font-size: var(--text-xl);
-  font-weight: 500;
-}
-
-.arrow {
-  color: var(--accent);
-  opacity: 0;
-  transform: translate(-0.5rem, 0.5rem);
-  transition: opacity var(--dur-hover) var(--ease-hover), transform var(--dur-hover) var(--ease-hover);
-}
-
-.item:hover .arrow {
-  opacity: 1;
-  transform: translate(0, 0);
-}
-
-.itemDesc {
-  max-width: 34rem;
-  margin: var(--space-xs) 2.5rem 0;
-  color: var(--ink-muted);
-  font-size: var(--text-sm);
-  line-height: var(--text-sm-lh);
-}
-
-.itemMeta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: var(--space-md);
-  margin: var(--space-md) 2.5rem 0;
+/* Colour comes from GitHub's language data. */
+.langDot {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 1px var(--color-spine-shade);
 }
 
 .commit {
-  color: var(--accent);
-}
-
-.empty {
-  padding: var(--space-xl) 0;
-  color: var(--ink-muted);
-}
-
-@keyframes row-enter {
-  from {
-    opacity: 0;
-    transform: translateX(-0.75rem);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-
-@media (max-width: 600px) {
-  .main {
-    padding-inline: var(--space-md);
-  }
-  .header {
-    padding-top: 10rem;
-    padding-bottom: var(--space-2xl);
-  }
-  .back {
-    position: static;
-    margin-bottom: var(--space-3xl);
-  }
+  color: var(--color-ink-3);
 }
